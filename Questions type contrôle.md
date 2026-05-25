@@ -194,19 +194,22 @@ L’opsonisation est un mécanisme qui facilite la phagocytose grâce à la fixa
 
 ### Réponse :
 
-Les lymphocytes B détectent les antigènes et se transforment en plasmocytes qui fabriquent des anticorps et en lymphocytes mémoire.
+Les lymphocytes B détectent les antigènes et se transforment en plasmocytes (produteur) qui fabriquent des anticorps et en lymphocytes mémoire.
 
 * *Les lymphocytes B sont des cellules du système immunitaire qui permettent de lutter contre une infection de manière spécifique. Lorsqu’un lymphocyte B reconnaît un antigène correspondant, il s’active et se multiplie. Une partie de ces cellules devient des plasmocytes, qui produisent des anticorps capables de se fixer sur l’agent infectieux pour le neutraliser ou faciliter sa destruction. L’autre partie devient des lymphocytes B mémoire, qui restent dans l’organisme et permettent une réponse beaucoup plus rapide si le même antigène est rencontré à nouveau.*
 
 ---
 
-## 23. Définir un plasmocyte.
+## 23. Définir un plasmocyte et un lymphocytes mémoire
 
 ### Réponse :
 
 Un plasmocyte est une cellule spécialisée dans la production d’anticorps.
+Un lymphocyte mémoire est une cellule immunitaire qui reste dans l’organisme après une infection et permet de déclencher une réponse immunitaire plus rapide et plus efficace lors d’un nouveau contact avec le même antigène.
 
 ---
+
+
 
 ## 24. Présenter le rôle des lymphocytes T8 cytotoxiques.
 

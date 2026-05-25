@@ -281,6 +281,8 @@ La CRP est une protéine dont le taux augmente lors d’une inflammation.
 
 La NFS est une analyse quantitative et qualitative des cellules du sang.
 
+* *Elle permet d’étudier les différentes cellules sanguines (globules rouges, globules blancs et plaquettes) afin de détecter des anomalies comme une infection, une anémie ou une inflammation.*
+
 ---
 
 ## 33. Expliquer le rôle de la mémoire immunitaire.

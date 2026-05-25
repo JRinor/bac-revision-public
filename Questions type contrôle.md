@@ -22,9 +22,25 @@ La grippe se transmet par voie aérienne grâce aux gouttelettes projetées dans
 
 ### Réponse :
 
-Fièvre, fatigue, toux, douleurs musculaires.
+Céphalées (maux de tête)
+Pyrexie (fièvre)
+Frissons (sensation de froid avec tremblements)
+Asthénie importante (grande fatigue)
+Myalgies et arthralgies (douleurs musculaires et articulaires)
+Toux sèche (toux sans mucus)
+Pharyngite (inflammation / mal de gorge)
+Rhinorrhée (écoulement nasal / nez qui coule)
+Anorexie (perte d’appétit)
+Nausées (envie de vomir)
+Vomissements (rejet du contenu de l’estomac)
+Diarrhée (selles liquides et fréquentes)
+
+Remarque :
+
+Les symptômes de la grippe dépendent de la virulence du virus. De plus, 30 à 50 % des infections grippales sont asymptomatiques.
 
 ---
+
 
 ## 4. Définir l’immunité innée.
 

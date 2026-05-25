@@ -186,6 +186,8 @@ Les anticorps neutralisent les antigènes, facilitent la phagocytose grâce à l
 
 L’opsonisation est un mécanisme qui facilite la phagocytose grâce à la fixation d’anticorps ou de protéines du complément sur l’antigène.
 
+* *Cela permet de “marquer” le microbe pour qu’il soit plus facilement reconnu et capturé par les cellules phagocytaires, comme les macrophages, qui peuvent alors le détruire plus rapidement.*
+
 ---
 
 ## 22. Présenter le rôle des lymphocytes B.

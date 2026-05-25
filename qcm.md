@@ -355,3 +355,147 @@ Un lymphocyte gardant le souvenir d’un antigène.
 ### Réponse :
 
 Grâce à la mémoire immunitaire.
+
+---
+
+## 46. Qu'est-ce qu'une CPA ?
+
+### Réponse :
+
+Une cellule présentatrice d'antigène, qui phagocyte l'antigène et le présente à sa surface associé à une molécule du CMH pour activer les lymphocytes T.
+
+---
+
+## 47. Quel est le rôle du CMH ?
+
+### Réponse :
+
+Présenter le peptide antigénique à la surface de la CPA pour permettre la reconnaissance par les lymphocytes T.
+
+---
+
+## 48. Qu'est-ce que la double reconnaissance ?
+
+### Réponse :
+
+La reconnaissance simultanée par un lymphocyte T de l'épitope antigénique et de la molécule du CMH présentés par la CPA.
+
+---
+
+## 49. Qu'est-ce que l'interleukine 2 (IL-2) ?
+
+### Réponse :
+
+Un messager chimique sécrété par les LT4 activés qui stimule les lymphocytes B et les lymphocytes T8.
+
+---
+
+## 50. Qu'est-ce que l'interleukine 1 (IL-1) ?
+
+### Réponse :
+
+Un messager chimique libéré par la CPA qui amplifie la multiplication des LT4.
+
+---
+
+## 51. Quel est le rôle central des LT4 dans la coopération cellulaire ?
+
+### Réponse :
+
+Ils coordonnent toute la réponse immunitaire en activant à la fois les LB (réponse humorale) et les LT8 (réponse cellulaire) grâce à l'IL-2.
+
+---
+
+## 52. Qu'est-ce que la VS ?
+
+### Réponse :
+
+La vitesse de sédimentation, un marqueur de l'inflammation qui mesure la vitesse à laquelle les globules rouges se déposent au fond d'un tube.
+
+---
+
+## 53. Quand la VS augmente-t-elle ?
+
+### Réponse :
+
+Lors d'une réaction inflammatoire.
+
+---
+
+## 54. Quelle est la différence entre la CRP et la VS ?
+
+### Réponse :
+
+Les deux sont des marqueurs de l'inflammation. La CRP est une protéine produite par le foie, tandis que la VS mesure la vitesse de sédimentation des globules rouges.
+
+---
+
+## 55. Qu'est-ce que le sérodiagnostic ?
+
+### Réponse :
+
+Une analyse du sérum sanguin permettant de détecter la présence d'anticorps spécifiques pour confirmer une infection ou vérifier l'efficacité d'une vaccination.
+
+---
+
+## 56. Sur quel principe repose le sérodiagnostic ?
+
+### Réponse :
+
+On met en contact le sérum du patient avec un antigène connu. Si des anticorps spécifiques sont présents, la réaction est positive.
+
+---
+
+## 57. Qu'est-ce qu'une anactorine ?
+
+### Réponse :
+
+Une toxine ayant perdu son pouvoir pathogène mais conservant son pouvoir antigénique, utilisable dans un vaccin.
+
+---
+
+## 58. Qu'est-ce que la sérothérapie ?
+
+### Réponse :
+
+Un traitement consistant à injecter un sérum contenant des anticorps spécifiques déjà fabriqués, pour une protection immédiate.
+
+---
+
+## 59. Quelle est la différence entre vaccination et sérothérapie ?
+
+### Réponse :
+
+La vaccination crée une mémoire immunitaire durable. La sérothérapie apporte des anticorps tout prêts pour une protection immédiate mais sans mémoire immunitaire.
+
+---
+
+## 60. Dans quel cas utilise-t-on la sérothérapie plutôt que la vaccination ?
+
+### Réponse :
+
+Quand il est trop tard pour vacciner et qu'une protection immédiate est nécessaire.
+
+---
+
+## 61. Qu'est-ce qu'un individu séronégatif ?
+
+### Réponse :
+
+Un individu séronégatif ne possède pas d'anticorps détectables contre un agent pathogène donné : il n'a pas été en contact avec lui.
+
+---
+
+## 62. Qu'est-ce qu'un individu séropositif ?
+
+### Réponse :
+
+Un individu séropositif possède des anticorps spécifiques dans son sérum : il a été en contact avec l'agent pathogène, ce qui a déclenché une réponse immunitaire.
+
+---
+
+## 63. Pourquoi la CRP augmente-t-elle plus fortement lors d'une infection bactérienne que virale ?
+
+### Réponse :
+
+Parce que la réaction inflammatoire est plus intense lors d'une infection bactérienne. Lors d'une infection virale ou parasitaire, la CRP augmente mais de façon modérée.

@@ -194,7 +194,7 @@ L’opsonisation est un mécanisme qui facilite la phagocytose grâce à la fixa
 
 ### Réponse :
 
-Les lymphocytes B détectent les antigènes et se transforment en plasmocytes (produteur) qui fabriquent des anticorps et en lymphocytes mémoire.
+Les lymphocytes B détectent les antigènes et se transforment en plasmocytes (producteur) qui fabriquent des anticorps et en lymphocytes mémoire.
 
 * *Les lymphocytes B sont des cellules du système immunitaire qui permettent de lutter contre une infection de manière spécifique. Lorsqu’un lymphocyte B reconnaît un antigène correspondant, il s’active et se multiplie. Une partie de ces cellules devient des plasmocytes, qui produisent des anticorps capables de se fixer sur l’agent infectieux pour le neutraliser ou faciliter sa destruction. L’autre partie devient des lymphocytes B mémoire, qui restent dans l’organisme et permettent une réponse beaucoup plus rapide si le même antigène est rencontré à nouveau.*
 
@@ -293,3 +293,107 @@ La NFS est une analyse quantitative et qualitative des cellules du sang.
 Les anticorps neutralisent les virus mais leur destruction nécessite aussi la phagocytose ou l’activation du complément.
 
 ---
+
+## 34. Définir une CPA (Cellule Présentatrice d'Antigène).
+
+### Réponse :
+
+Une CPA est une cellule (macrophage ou cellule dendritique) qui phagocyte un antigène, le fragmente, puis le présente à sa surface associé à une molécule du CMH afin d'activer les lymphocytes T.
+
+---
+
+## 35. Expliquer la double reconnaissance des lymphocytes T.
+
+### Réponse :
+
+Pour être activés, les lymphocytes T4 et T8 doivent reconnaître simultanément le peptide antigénique (épitope) présenté par la CPA et la molécule du CMH qui lui est associée. Sans cette double reconnaissance, les lymphocytes T ne peuvent pas être activés.
+
+---
+
+## 36. Expliquer le rôle de l'interleukine 2 (IL-2) dans la coopération cellulaire.
+
+### Réponse :
+
+L'IL-2 est un messager chimique sécrété par les LT4 activés. Elle stimule la multiplication et l'activation des lymphocytes B (réponse humorale) et des lymphocytes T8 (réponse cellulaire). Les LT4 sont ainsi le chef d'orchestre de toute la réponse immunitaire spécifique.
+
+---
+
+## 37. Présenter le rôle de l'interleukine 1 (IL-1).
+
+### Réponse :
+
+L'IL-1 est libérée par la CPA lors de la présentation de l'antigène. Elle amplifie la multiplication des LT4 sélectionnés.
+
+---
+
+## 38. Présenter la coopération cellulaire dans la réponse immunitaire.
+
+### Réponse :
+
+La coopération cellulaire met en jeu les cellules de l'immunité innée (CPA) et celles de l'immunité acquise (LT4, LB, LT8). La CPA présente l'antigène aux LT4 qui sécrètent de l'IL-2. Cette interleukine active les LB (qui produisent des anticorps) et les LT8 (qui détruisent les cellules infectées). Les LT4 jouent donc un rôle central et indispensable dans la réponse immunitaire.
+
+---
+
+## 39. Définir la VS (Vitesse de Sédimentation).
+
+### Réponse :
+
+La VS est un marqueur biologique de l'inflammation. Elle mesure la vitesse à laquelle les globules rouges se déposent au fond d'un tube. Elle augmente lors d'une inflammation.
+
+---
+
+## 40. Différencier la CRP et la VS comme marqueurs de l'inflammation.
+
+### Réponse :
+
+La CRP est une protéine produite par le foie dont le taux augmente rapidement lors d'une inflammation. La VS mesure la vitesse de sédimentation des globules rouges et augmente également lors d'une inflammation. Ces deux marqueurs permettent de détecter et de surveiller une réaction inflammatoire.
+
+---
+
+## 41. Définir le sérodiagnostic.
+
+### Réponse :
+
+Le sérodiagnostic est une analyse du sérum sanguin permettant de détecter la présence d'anticorps spécifiques dans le sang d'un patient, afin de confirmer une infection passée ou l'efficacité d'une vaccination.
+
+---
+
+## 42. Expliquer le principe du sérodiagnostic.
+
+### Réponse :
+
+On met en contact le sérum du patient avec un antigène connu. Si des anticorps spécifiques sont présents dans le sérum, ils se fixent sur l'antigène, ce qui indique que le patient a été infecté ou vacciné contre cet agent pathogène.
+
+---
+
+## 43. Définir l'anactorine.
+
+### Réponse :
+
+Une anactorine est une toxine qui a perdu son pouvoir pathogène mais qui conserve son pouvoir antigénique. Elle peut donc être utilisée dans un vaccin pour déclencher une réponse immunitaire sans provoquer la maladie.
+
+---
+
+## 44. Définir la sérothérapie et la distinguer de la vaccination.
+
+### Réponse :
+
+La sérothérapie consiste à injecter un sérum contenant des anticorps spécifiques déjà fabriqués, afin d'apporter une protection immédiate. Elle est utilisée quand il est trop tard pour vacciner. Contrairement à la vaccination, elle ne crée pas de mémoire immunitaire : la protection est immédiate mais temporaire.
+
+---
+
+---
+
+## 45. Définir séronégatif et séropositif.
+
+### Réponse :
+
+Un individu **séronégatif** ne possède pas d'anticorps détectables contre un agent pathogène donné : il n'a pas été en contact avec lui. Un individu **séropositif** possède des anticorps spécifiques dans son sérum, ce qui prouve qu'il a été en contact avec l'agent pathogène et a déclenché une réponse immunitaire.
+
+---
+
+## 46. Expliquer pourquoi la CRP permet de distinguer une infection bactérienne d'une infection virale.
+
+### Réponse :
+
+Lors d'une infection bactérienne, la CRP augmente fortement dans le sang. Lors d'une infection virale (comme la grippe) ou parasitaire, elle augmente seulement de façon modérée. Cette différence permet d'orienter le diagnostic.

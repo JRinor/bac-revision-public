@@ -275,9 +275,3 @@ La mémoire immunitaire permet une réponse plus rapide et plus efficace lors d�
 Les anticorps neutralisent les virus mais leur destruction nécessite aussi la phagocytose ou l’activation du complément.
 
 ---
-
-## 35. Montrer le lien entre inflammation et symptômes de la grippe.
-
-### Réponse :
-
-L’inflammation provoque une augmentation du mucus, une irritation des voies respiratoires et des douleurs, ce qui entraîne toux, pharyngite et autres symptômes.

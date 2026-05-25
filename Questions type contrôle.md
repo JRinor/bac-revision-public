@@ -285,15 +285,8 @@ La NFS est une analyse quantitative et qualitative des cellules du sang.
 
 ---
 
-## 33. Expliquer le rôle de la mémoire immunitaire.
 
-### Réponse :
-
-La mémoire immunitaire permet une réponse plus rapide et plus efficace lors d’un nouveau contact avec le même antigène.
-
----
-
-## 34. Expliquer pourquoi les anticorps seuls ne suffisent pas toujours à détruire les virus.
+## 33. Expliquer pourquoi les anticorps seuls ne suffisent pas toujours à détruire les virus.
 
 ### Réponse :
 

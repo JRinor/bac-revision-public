@@ -176,6 +176,8 @@ Un complexe immun est l’association entre un antigène et un anticorps.
 
 Les anticorps neutralisent les antigènes, facilitent la phagocytose grâce à l’opsonisation et activent le complément.
 
+* *Ils se fixent spécifiquement sur les antigènes pour les bloquer directement, les “marquent” afin de faciliter leur destruction par les cellules immunitaires, et déclenchent un système de protéines (le complément) qui aide à éliminer les agents pathogènes.*
+
 ---
 
 ## 21. Expliquer l’opsonisation.

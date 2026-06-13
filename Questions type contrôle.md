@@ -300,6 +300,11 @@ Les anticorps neutralisent les virus mais leur destruction nécessite aussi la p
 
 Une CPA est une cellule (macrophage ou cellule dendritique) qui phagocyte un antigène, le fragmente, puis le présente à sa surface associé à une molécule du CMH afin d'activer les lymphocytes T.
 
+Ou bien 
+
+Une CPA (macrophage ou cellule dendritique) mange un antigène, le découpe en morceaux, puis affiche un morceau sur sa surface pour alerter les lymphocytes T.
+Mnémo : manger → découper → montrer
+
 ---
 
 ## 35. Expliquer la double reconnaissance des lymphocytes T.

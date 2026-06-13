@@ -1,4 +1,6 @@
-# Les notions importantes — Défenses immunitaires & grippe
+# Chapitre 26 — Défenses immunitaires & grippe
+
+## Les notions importantes
 
 ## 1. La grippe : définition et contamination
 

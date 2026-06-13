@@ -1,3 +1,6 @@
+# Chapitre 26 — Défenses immunitaires & grippe
+
+## QCM
 ## 1. Qu’est-ce que la grippe ?
 
 ### Réponse :

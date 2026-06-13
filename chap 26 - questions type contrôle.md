@@ -1,4 +1,6 @@
-# Questions type contrôle — Défenses immunitaires & grippe
+# Chapitre 26 — Défenses immunitaires & grippe
+
+## Questions type contrôle
 
 ---
 

@@ -160,7 +160,7 @@ Un **follicule** = petit sac pluricellulaire arrondi contenant un **ovocyte** et
 | **Follicule tertiaire (cavitaire)** | Plusieurs petits espaces remplis de liquide folliculaire fusionnent → formation de l'**antrum** (= cavité folliculaire). Les thèques interne et externe sont bien différenciées. |
 | **Follicule mûr (de De Graaf)** | Antrum augmente de volume ; ovocyte I entouré de la **corona radiata** ; termine la 1ère division de méiose → **ovocyte II** + 1er globule polaire |
 
-**Ovulation :** Le follicule de De Graaf libère l'ovocyte II au **14ème jour du cycle**.
+**Ovulation :** Le follicule de De Graaf libère l'ovocyte II au **14ème jour du cycle** (pour un cycle de 28 jours). Plus généralement, l'ovulation survient **14 jours avant les règles suivantes** (la phase lutéale est toujours constante à 14 jours).
 
 **Corps jaune :** Les cellules de granulosa se transforment en cellules lutéales (contenant un pigment jaune = la **lutéine**) → **corps jaune** → sécrète la **progestérone**.
 Si pas de fécondation → corps jaune **dégénère**.
@@ -188,6 +188,6 @@ Si pas de fécondation → corps jaune **dégénère**.
   - Méiose II : division équationnelle
 - Spermatogenèse : continue, depuis la puberté, 74 jours
 - Ovogenèse : discontinue, de l'embryon à la ménopause
-- Follicule de De Graaf → ovulation au 14ème jour
+- Follicule de De Graaf → ovulation au **14ème jour** (pour un cycle de 28 jours) = **14 jours avant les règles suivantes**
 - Corps jaune → progestérone
 - Ménopause = arrêt définitif des règles

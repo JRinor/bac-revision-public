@@ -63,7 +63,7 @@ La **GnRH** (gonadolibérine) libérée par l'hypothalamus **stimule** la libér
 ### 3.3 Rôle de la testostérone
 
 La testostérone est responsable à la puberté de l'apparition et du maintien des **caractères sexuels secondaires** de l'homme :
-- Pilosité
+- Pilosité (barbe, torse, pubis...)
 - Accélération de la croissance
 - Voix plus grave
 - Peau plus grasse
@@ -140,6 +140,12 @@ La sécrétion des œstrogènes est **variable** tout au long du cycle :
 - Stimulent la **prolifération de l'endomètre**
 - Stimulent la **sécrétion du mucus cervical**
 - Provoquent le **développement des caractères sexuels secondaires** à la puberté et assurent leur maintien chez la femme adulte
+
+**Caractères sexuels secondaires féminins** (sous l'action des œstrogènes) :
+- Développement des **seins** (glandes mammaires)
+- Élargissement du **bassin**
+- Développement de la **pilosité pubienne et axillaire**
+- Apparition des premières règles (**ménarche** — méno = mois)
 
 #### Progestérone
 C'est également une **hormone stéroïdienne**. Elle est sécrétée par les **cellules du corps jaune**. C'est pourquoi elle n'est sécrétée qu'en **phase lutéale**.

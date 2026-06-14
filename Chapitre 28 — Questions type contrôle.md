@@ -1,6 +1,6 @@
 # Chapitre 28 — Grossesse : des gamètes au fœtus
 
-## Questions type contrôle
+## Questions type contrôle (version complète)
 
 ---
 
@@ -35,7 +35,7 @@ Au moment de l'ovulation, l'ovocyte II est expulsé du follicule de De Graaf et 
 ## 5. Quels sont les obstacles rencontrés par les spermatozoïdes dans les voies génitales féminines ?
 
 ### Réponse :
-Les spermatozoïdes rencontrent plusieurs obstacles dans les voies génitales féminines :
+Les spermatozoïdes rencontrent plusieurs obstacles :
 1. L'acidité du vagin qui a un effet spermicide et élimine de nombreux spermatozoïdes.
 2. La glaire cervicale sécrétée par le col de l'utérus, qui empêche le passage des spermatozoïdes en dehors de la période d'ovulation.
 3. Les phagocytes de l'endomètre qui détruisent des spermatozoïdes.
@@ -79,7 +79,7 @@ La caryogamie est la fusion du pronoyau mâle (apporté par le spermatozoïde) e
 ## 10. Décrire la segmentation.
 
 ### Réponse :
-Après la fécondation, la cellule œuf se divise par mitoses successives tout en migrant dans la trompe vers l'utérus. Elle passe successivement aux stades 2, 4, 8 puis 16 cellules appelées blastomères. Au stade 16 cellules, elle est appelée morula (car elle ressemble à une petite mûre). Elle atteint l'utérus entre le 3ème et le 4ème jour. La morula se creuse ensuite pour former une cavité contenant du liquide : c'est le blastocyste.
+Après la fécondation, la cellule œuf se divise par mitoses successives tout en migrant dans la trompe vers l'utérus. Elle passe successivement aux stades 2, 4, 8 puis 12-16 cellules appelées blastomères. Au stade 16 cellules, elle est appelée morula (car elle ressemble à une petite mûre). Elle atteint l'utérus entre le 3ème et le 4ème jour. La morula se creuse ensuite pour former une cavité contenant du liquide : c'est le blastocyste.
 
 ---
 
@@ -135,78 +135,94 @@ Le suivi médical de la grossesse repose sur 3 examens principaux :
 
 ---
 
-## 18. Définir l'échographie.
+## 18. Définir l'échographie et expliquer son principe.
 
 ### Réponse :
-L'échographie est un examen d'imagerie médicale permettant l'exploration de l'intérieur de l'organisme à l'aide d'ultrasons.
+L'échographie est un examen d'imagerie médicale permettant l'exploration de l'intérieur de l'organisme à l'aide d'ultrasons. Une sonde enduite d'un gel émet des ultrasons qui se propagent et se réfléchissent sur les tissus (= échos) selon leur densité et leur nature. Les échos sont recueillis par la sonde, puis l'ordinateur convertit l'amplitude des échos en niveaux de gris pour reconstruire l'image de l'organe sur un écran.
 
 ---
 
-## 19. Expliquer le principe de l'échographie.
+## 19. Citer les avantages de l'échographie.
 
 ### Réponse :
-L'appareil est constitué d'une sonde enduite d'un gel, que l'on déplace sur la région explorée. La sonde émet des ultrasons qui se propagent et se réfléchissent sur les tissus (= échos) selon leur densité et leur nature. Les échos sont recueillis par la sonde, puis l'ordinateur convertit l'amplitude de ces échos en niveaux de gris pour reconstruire l'image de l'organe sur un écran.
+L'échographie présente 3 avantages majeurs : elle est sans danger, indolore (pas de douleur) et non invasive (elle ne pénètre pas dans l'organisme).
 
 ---
 
-## 20. Quels sont les intérêts de l'échographie pendant la grossesse ?
+## 20. Quel est le but des examens sérologiques pendant la grossesse ?
 
 ### Réponse :
-L'échographie permet :
-- D'observer la morphologie du fœtus et du placenta.
-- De suivre la croissance et le développement du fœtus (sexe, présence de jumeaux, surveillance des fonctions vitales).
-- De détecter d'éventuelles malformations ou des signes pouvant être à l'origine d'anomalies chromosomiques, constituant une indication pour une amniocentèse.
+Les examens sérologiques ont pour but de rechercher dans le sang maternel la présence d'anticorps spécifiques de certains micro-organismes présentant un danger pour le fœtus. Si des anticorps spécifiques sont présents, la mère est immunisée et le fœtus est protégé. En leur absence, la mère doit être mise sous surveillance et respecter certaines règles hygiéno-diététiques.
 
 ---
 
-## 21. Citer les avantages de l'échographie.
+## 21. Définir l'amniocentèse et en expliquer le principe.
 
 ### Réponse :
-L'échographie présente 3 avantages majeurs :
-- Elle est sans danger.
-- Elle est indolore (pas de douleur).
-- Elle est non invasive (elle ne pénètre pas dans l'organisme).
+L'amniocentèse est la ponction du liquide amniotique (amnio = liquide amniotique ; -centèse = ponction ou prélèvement). Elle consiste à prélever environ 15 à 20 mL de liquide amniotique, contenant des cellules fœtales, directement dans la poche à l'aide d'une aiguille sous contrôle échographique.
 
 ---
 
-## 22. Quel est le but des examens sérologiques pendant la grossesse ? Donner un exemple.
+## 22. Quels sont les intérêts et les risques de l'amniocentèse ?
 
 ### Réponse :
-Les examens sérologiques ont pour but de rechercher dans le sang maternel la présence d'anticorps spécifiques de certains micro-organismes présentant un danger pour le fœtus. Un exemple est le suivi sérologique de la toxoplasmose.
+L'amniocentèse permet de réaliser le caryotype du fœtus afin de détecter d'éventuelles anomalies chromosomiques. Si une maladie grave et incurable est détectée, elle peut déboucher sur une IMG (Interruption Médicale de Grossesse). Cependant, elle n'est pas sans risque : elle déclenche environ 1% de fausses couches et présente un risque d'infection ou de blessure du fœtus.
 
 ---
 
-## 23. Comment interpréter les résultats des examens sérologiques pendant la grossesse ?
+## 23. Dans quels cas l'amniocentèse est-elle proposée ?
 
 ### Réponse :
-Si des anticorps spécifiques sont présents dans le sang maternel, cela indique que la mère est immunisée contre la maladie et que son fœtus est donc protégé. En cas d'absence de ces anticorps, la mère n'est pas immunisée : elle doit être mise sous surveillance et respecter certaines règles hygiéno-diététiques pour protéger le fœtus.
+Le risque de trisomie 21 augmente fortement avec l'âge de la mère. C'est pourquoi le caryotype est systématiquement proposé aux femmes de plus de 38 ans ou ayant des antécédents familiaux d'anomalies chromosomiques.
 
 ---
 
-## 24. Définir l'amniocentèse.
+## 24. Définir le caryotype.
 
 ### Réponse :
-L'amniocentèse est la ponction du liquide amniotique (amnio = liquide amniotique ; -centèse = ponction ou prélèvement). Elle permet d'analyser les cellules fœtales présentes dans ce liquide pour détecter d'éventuelles anomalies chromosomiques.
+Le caryotype est une photographie ordonnée des chromosomes métaphasiques d'une cellule d'un individu observé en microscopie. Les chromosomes sont placés par paires d'homologues de taille décroissante.
 
 ---
 
-## 25. Définir le diagnostic prénatal (DPN).
+## 25. Décrire un caryotype normal.
+
+### Réponse :
+Un caryotype normal comprend 22 paires d'autosomes et 1 paire de gonosomes (chromosomes sexuels), soit 46 chromosomes au total. Les gonosomes XX correspondent au sexe féminin et les gonosomes XY au sexe masculin. La formule chromosomique est 46,XX pour une femme et 46,XY pour un homme.
+
+---
+
+## 26. Qu'est-ce qu'une trisomie ? Donner un exemple.
+
+### Réponse :
+Une trisomie est la présence de 3 chromosomes au niveau d'une paire chromosomique au lieu de 2, ce qui donne un total de 47 chromosomes. Exemple : la trisomie 21 chez un homme → formule chromosomique 47, XY + 21.
+
+---
+
+## 27. Qu'est-ce qu'une monosomie ? Donner un exemple.
+
+### Réponse :
+Une monosomie est la présence d'un seul chromosome au niveau d'une paire chromosomique, ce qui donne un total de 45 chromosomes. Exemple : le syndrome de Turner chez une femme → formule chromosomique 45, X0.
+
+---
+
+## 28. Citer les anomalies chromosomiques de structure.
+
+### Réponse :
+Il existe 3 types d'anomalies de structure :
+- **Délétion** : perte d'une partie d'un chromosome.
+- **Inversion** : inversion d'une partie d'un chromosome.
+- **Translocation** : transfert de tout ou partie d'un chromosome sur un autre chromosome.
+
+---
+
+## 29. Qu'est-ce qu'un tératogène ?
+
+### Réponse :
+Un tératogène est une substance ou un agent qui provoque des malformations chez l'embryon ou le fœtus. Le terme vient de "térat(o)" = monstre.
+
+---
+
+## 30. Définir le diagnostic prénatal (DPN).
 
 ### Réponse :
 Le diagnostic prénatal (DPN) est un ensemble d'examens médicaux ayant pour but de détecter in utero (dans l'utérus) chez l'enfant une maladie grave avant sa naissance.
-
----
-
-## 26. Pourquoi le risque de trisomie 21 augmente-t-il avec l'âge de la mère ?
-
-### Réponse :
-Le risque de trisomie 21 augmente fortement avec l'âge de la mère car les ovocytes vieillissent avec elle : les erreurs lors de la méiose (mauvaise séparation des chromosomes) deviennent plus fréquentes avec l'âge. C'est pourquoi le caryotype est systématiquement proposé aux femmes de plus de 38 ans ou ayant des antécédents familiaux.
-
----
-
-## 27. Différencier échographie, examens sérologiques et amniocentèse.
-
-### Réponse :
-- **Échographie** : utilise des ultrasons pour visualiser le fœtus et le placenta. Examen non invasif, indolore et sans danger.
-- **Examens sérologiques** : analyses sanguines permettant de détecter des anticorps spécifiques dans le sang maternel (ex : toxoplasmose). Permettent de savoir si la mère est immunisée contre certaines maladies dangereuses pour le fœtus.
-- **Amniocentèse** : ponction du liquide amniotique permettant d'analyser les cellules fœtales et de détecter des anomalies chromosomiques (ex : trisomie 21). Proposée aux femmes de plus de 38 ans ou ayant des antécédents familiaux.

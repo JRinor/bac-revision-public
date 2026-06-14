@@ -45,6 +45,11 @@ L'appareil génital masculin est formé de **gonades**, **voies génitales**, **
 
 **À retenir :** Le **sperme** = spermatozoïdes + liquide séminal + liquide prostatique.
 
+> 📷 *Schéma du prof — Anatomie de l'appareil reproducteur masculin (coupe coronale et sagittale)*
+>
+> ![Anatomie de l'appareil reproducteur masculin (coupe coronale et sagittale)](image2/2.jpg)
+
+
 ---
 
 ## 3. Le spermatozoïde
@@ -58,6 +63,11 @@ L'appareil génital masculin est formé de **gonades**, **voies génitales**, **
 **Structure :** membrane cytoplasmique, acrosome, noyau, cytoplasme, mitochondries, pièce intermédiaire, flagelle (50 µm).
 
 ⚠️ Les spermatozoïdes prélevés dans le testicule **ne sont pas mobiles**. Ils deviennent des cellules mobiles capables de féconder un ovocyte lors de leur **passage dans l'épididyme**.
+
+> 📷 *Schéma du prof — Coupe longitudinale du testicule et structure d'un spermatozoïde*
+>
+> ![Coupe longitudinale du testicule et structure d'un spermatozoïde](image2/3.jpg)
+
 
 ---
 
@@ -79,6 +89,11 @@ Composé d'organes génitaux **internes** et **externes**.
 Regroupés au niveau de la **vulve** : grandes lèvres et petites lèvres (qui protègent la région génitale), **clitoris** (petit organe érectile), orifices urinaire et génital.
 
 **Remarque :** Les **glandes mammaires** sont des glandes annexes qui interviennent dans la **lactation**.
+
+> 📷 *Schéma du prof — Anatomie de l'appareil reproducteur féminin (coupe coronale et sagittale)*
+>
+> ![Anatomie de l'appareil reproducteur féminin (coupe coronale et sagittale)](image2/6.jpg)
+
 
 ---
 
@@ -107,6 +122,11 @@ Regroupés au niveau de la **vulve** : grandes lèvres et petites lèvres (qui p
 - **Méiose II** (division équationnelle) :
   → 4 cellules haploïdes à **23 chromosomes**
 
+> 📷 *Schéma du prof — Différentes étapes de la méiose*
+>
+> ![Différentes étapes de la méiose](image2/10.jpg)
+
+
 ---
 
 ## 6. Spermatogenèse
@@ -127,6 +147,11 @@ Regroupés au niveau de la **vulve** : grandes lèvres et petites lèvres (qui p
 | **Vaisseaux sanguins** | Localisés à l'extérieur des tubes séminifères, à proximité des cellules de Leydig. Les **hormones hypophysaires LH et FSH** qui contrôlent la spermatogenèse sont véhiculées par le sang jusqu'aux tubes séminifères. |
 | **Paroi conjonctive du tube séminifère** | Paroi délimitant chaque tube séminifère |
 
+> 📷 *Schéma du prof — Histologie du testicule (Doc 7)*
+>
+> ![Histologie du testicule (Doc 7)](image2/10.jpg)
+
+
 ### Étapes de la spermatogenèse (2 phases)
 
 **Phase 1 — Spermatocytogenèse :**
@@ -137,6 +162,11 @@ Regroupés au niveau de la **vulve** : grandes lèvres et petites lèvres (qui p
 
 **Phase 2 — Spermiogenèse :**
 - **Spermatide → Spermatozoïde** (haploïde, n = 23) = phase de **différenciation**
+
+> 📷 *Schéma du prof — Différentes étapes de la spermatogenèse*
+>
+> ![Différentes étapes de la spermatogenèse](image2/12.jpg)
+
 
 ---
 
@@ -164,6 +194,11 @@ Un **follicule** = petit sac pluricellulaire arrondi contenant un **ovocyte** et
 
 **Corps jaune :** Les cellules de granulosa se transforment en cellules lutéales (contenant un pigment jaune = la **lutéine**) → **corps jaune** → sécrète la **progestérone**.
 Si pas de fécondation → corps jaune **dégénère**.
+
+> 📷 *Schéma du prof — Histologie de l'ovaire, folliculogenèse et différentes étapes de l'ovogenèse*
+>
+> ![Histologie de l'ovaire, folliculogenèse et différentes étapes de l'ovogenèse](image2/13.jpg)
+
 
 ### 7.2 Étapes de l'ovogenèse
 

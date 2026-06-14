@@ -36,6 +36,11 @@ Les spermatozoïdes rencontrent plusieurs **obstacles** :
 
 ⚠️ **200 à 300 millions** de spermatozoïdes au départ → **quelques centaines** arrivent près de l'ovocyte.
 
+> 📷 *Schéma du prof — Trajet des gamètes et étapes de la fécondation*
+>
+> ![Trajet des gamètes et étapes de la fécondation](image2/15.jpg)
+
+
 ### 2.4 Rencontre des gamètes : fécondation
 
 **Fécondation** = fusion d'un spermatozoïde et d'un ovocyte donnant naissance à une **cellule œuf** (= **zygote**).
@@ -58,6 +63,11 @@ La cellule œuf se divise par **mitoses** successives tout en migrant dans la tr
 - Au stade 16 cellules → **morula** (ressemble à une petite mûre)
 - La morula atteint l'utérus entre le **3ème et le 4ème jour**
 - La morula se **creuse** → cavité contenant du liquide → **blastocyste**
+
+> 📷 *Schéma du prof — De la fécondation à la nidation, et de l'embryon au fœtus*
+>
+> ![De la fécondation à la nidation, et de l'embryon au fœtus](image2/17.jpg)
+
 
 #### Nidation
 
@@ -99,6 +109,11 @@ La circulation sanguine maternelle entre en contact avec la circulation fœtale 
 - Sang maternel hématosé → apporté par l'**artère utérine** → dispersé dans les **chambres intervilleuses** (poches de sang maternel)
 - Sang fœtal non hématosé → arrive par les **artères ombilicales** du **cordon ombilical** → entre dans les chambres intervilleuses
 - C'est au niveau des **chambres intervilleuses** que se font les **échanges** entre sang maternel et sang fœtal.
+
+> 📷 *Schéma du prof — Placenta et circulation materno-fœtale — barrière sélective*
+>
+> ![Placenta et circulation materno-fœtale — barrière sélective](image2/19.jpg)
+
 
 ### 3.3 Le placenta : une barrière sélective ⚠️
 
@@ -170,6 +185,11 @@ Le suivi médical de la grossesse repose sur **3 examens principaux** :
 
 **Indication :** Le risque de trisomie 21 augmente fortement avec **l'âge de la mère**. Le caryotype est systématiquement proposé aux femmes de **plus de 38 ans** ou ayant des **antécédents familiaux**.
 
+> 📷 *Schéma du prof — Principe de l'amniocentèse et caryotype normal*
+>
+> ![Principe de l'amniocentèse et caryotype normal](image2/22.jpg)
+
+
 ---
 
 ### 4.4 Le caryotype
@@ -206,6 +226,11 @@ Gonosomes :
 | **Délétion** | Perte d'une partie d'un chromosome |
 | **Inversion** | Inversion d'une partie d'un chromosome |
 | **Translocation** | Transfert de tout ou partie d'un chromosome sur un autre chromosome |
+
+> 📷 *Schéma du prof — Exemples de caryotypes avec anomalies : trisomie 21 (47,XY+21) et syndrome de Turner (45,X0)*
+>
+> ![Exemples de caryotypes avec anomalies : trisomie 21 (47,XY+21) et syndrome de Turner (45,X0)](image2/23.jpg)
+
 
 ---
 

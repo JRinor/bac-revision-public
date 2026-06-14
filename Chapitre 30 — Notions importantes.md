@@ -61,6 +61,7 @@ Les méthodes contraceptives sont **mécaniques** ou **chimiques**.
 - Se présentent sous forme de crèmes, gelées, sprays, mousses ou ovules.
 - Introduits dans le vagin **avant chaque rapport sexuel** ou associés à d'autres moyens de contraception.
 - Ont le pouvoir d'**immobiliser ou de tuer les spermatozoïdes**.
+- ⚠️ **Efficacité limitée seuls** — toujours recommandés en association avec une autre méthode (diaphragme, préservatif).
 
 **Pilules contraceptives :**
 Les pilules bloquent l'ovulation et/ou modifient l'endomètre et la glaire cervicale pour empêcher le passage des spermatozoïdes.

@@ -258,6 +258,38 @@ La fécondation et les premières heures de développement de l'embryon se font 
 
 ---
 
+## 5. Tableau récapitulatif des méthodes contraceptives ⚠️
+
+| Méthode | Type | Mode d'action | Protège IST | Points clés |
+|---|---|---|---|---|
+| **Préservatif masculin** | Mécanique | Retient les spermatozoïdes | ✅ OUI | Très efficace si bien utilisé |
+| **Préservatif féminin** | Mécanique | Empêche les spermatozoïdes d'entrer | ✅ OUI | Polyuréthane |
+| **Diaphragme / cape cervicale** | Mécanique | Obture le col de l'utérus | ❌ NON | Toujours + spermicide |
+| **Stérilet / DIU** | Mécanique + chimique | Anti-glaire + anti-nidatoire | ❌ NON | 2-4 ans ; médecin ; déconseillé avant 1er enfant |
+| **Spermicide** | Chimique | Tue / immobilise les spermatozoïdes | ❌ NON | Souvent associé à d'autres méthodes |
+| **Pilule combinée** | Chimique | Rétrocontrôle négatif → pas de pic LH → pas d'ovulation + anti-glaire + anti-nidatoire | ❌ NON | Œstrogènes + progestatifs |
+| **Pilule séquentielle** | Chimique | Bloque l'ovulation + anti-glaire + anti-nidatoire | ❌ NON | Œstrogènes puis œstro + progest. |
+| **Micropilule** | Chimique | Anti-glaire + anti-nidatoire (± bloque ovulation) | ❌ NON | Uniquement progestatifs |
+| **Implant** | Chimique | Bloque l'ovulation | ❌ NON | Bâtonnet sous-cutané dans le bras |
+| **Patch** | Chimique | Bloque l'ovulation + anti-glaire | ❌ NON | Timbre 4,5 cm², mensuel, 3 semaines sur 4 |
+| **Pilule du lendemain** | **Contragestion** | Empêche la nidation | ❌ NON | Urgence, dans les 72h ; dose élevée d'œstrogène synthétique |
+
+⚠️ **À retenir absolument :** le préservatif est le **seul moyen** qui protège contre les IST.
+
+---
+
+## 6. Tableau récapitulatif des méthodes d'AMP
+
+| Méthode | Indication | Principe |
+|---|---|---|
+| **Stimulation hormonale** | Anovulation | Analogue GnRH → bloc → FSH → follicules mûrs → hCG → ovulation |
+| **IAC** | Anomalies du sperme / glaire cervicale | Sperme du conjoint déposé dans l'utérus par cathéter |
+| **IAD** | Infertilité masculine grave / maladie génétique | Sperme d'un donneur anonyme |
+| **FIVETE** | Trompes bouchées, anovulation, anomalies sperme | Fécondation in vitro → transfert embryon (stade 8 cellules) |
+| **ICSI** | Infertilité masculine grave | Spermatozoïde injecté directement dans l'ovocyte II |
+
+---
+
 ## 🔁 Récap express — Chapitre 30
 
 - Contraception = empêche la rencontre des gamètes (avant la fécondation)

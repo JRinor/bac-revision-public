@@ -20,6 +20,11 @@ La connaissance des **mécanismes hormonaux** dans la fonction de reproduction a
 
 Les méthodes de contraception et de contragestion permettent, de façon **réversible** et **sans danger**, d'éviter une grossesse non désirée à des personnes en âge de procréer. Elles **ne doivent pas nuire à la fertilité**.
 
+> 📷 *Schéma du prof — Différents moyens de contraception*
+>
+> ![Différents moyens de contraception](image2/33.jpg)
+
+
 ### 2.1 Contraception
 
 La contraception agit **avant la fécondation** en **empêchant la rencontre des gamètes**.
@@ -78,6 +83,11 @@ Il en existe plusieurs types :
 - **Bloquent l'ovulation** et ont une **action anti-glaire** et **anti-nidatoire**.
 
 → **Pilules microdosées ou micropilules** :
+
+> 📷 *Schéma du prof — Modes d'action des pilules contraceptives et contraception d'urgence*
+>
+> ![Modes d'action des pilules contraceptives](image2/35.jpg)
+
 - Contiennent **uniquement des progestatifs**.
 - Action **anti-glaire** et **anti-nidatoire**.
 - Peuvent **empêcher l'ovulation** suivant le progestatif utilisé.
@@ -218,6 +228,11 @@ Représentent environ 1/3 des infertilités. On invoque des **troubles psycholog
 2. **Injection de FSH** tous les jours pour **stimuler les ovaires** et la folliculogenèse → obtention de **plusieurs follicules mûrs**.
 3. **Déclenchement de l'ovulation** par injection d'**hCG** (Human Gonadotropic Hormone = analogue de la LH) → ovulation **36 heures** après.
 
+> 📷 *Schéma du prof — Stimulation ovarienne*
+>
+> ![Stimulation ovarienne — protocole](image2/38.jpg)
+
+
 #### Insémination artificielle
 
 - **Types de stérilités concernées :** masculine (anomalies du sperme) et féminine (problème de glaire cervicale).
@@ -251,10 +266,20 @@ La fécondation et les premières heures de développement de l'embryon se font 
 6. **Nidation** de l'embryon dans l'**endomètre préparé** par des **injections hormonales**.
 7. Les embryons non transférés peuvent être **congelés** pour une **implantation ultérieure**.
 
+> 📷 *Schéma du prof — Principe de la FIVETE (Fécondation In Vitro Et Transfert d'Embryon)*
+>
+> ![Principe de la FIVETE (Fécondation In Vitro Et Transfert d'Embryon)](image2/39.jpg)
+
+
 ##### ICSI = Intra-Cytoplasmic Sperm Injection (= Injection Intra-Cytoplasmique de Spermatozoïdes)
 
 - Technique globalement **identique à la FIVETE**, sauf que la fécondation **ne se réalise pas** par mise en contact des spermatozoïdes et de l'ovocyte II.
 - Le spermatozoïde est **injecté directement dans l'ovocyte II**.
+
+> 📷 *Schéma du prof — Principe de l'ICSI (Injection Intra-Cytoplasmique de Spermatozoïdes)*
+>
+> ![Principe de l'ICSI (Injection Intra-Cytoplasmique de Spermatozoïdes)](image2/40.jpg)
+
 - Utilisée en cas d'**infertilité masculine grave** (quantité insuffisante de spermatozoïdes ou spermatozoïdes non mobiles).
 
 ---

@@ -1,6 +1,6 @@
 # Chapitre 28 — Grossesse : des gamètes au fœtus
 
-## Les notions importantes
+## Les notions importantes (version complète)
 
 ---
 
@@ -16,7 +16,7 @@ Le **placenta** est l'organe qui connecte l'embryon à la mère et permet la nut
 ### 2.1 Trajet des spermatozoïdes dans les voies génitales masculines
 
 - **Érection** : indispensable à la pénétration du pénis dans les voies génitales féminines ; due à un **afflux de sang** dans le pénis.
-- **Éjaculation** : les spermatozoïdes localisés dans l'épididyme sont projetés dans l'urètre, puis dilués dans les liquides séminale et prostatique → formation du **sperme**.
+- **Éjaculation** : les spermatozoïdes localisés dans l'épididyme sont projetés dans l'urètre, puis dilués dans les liquides séminal et prostatique → formation du **sperme**.
 
 ### 2.2 Trajet de l'ovocyte dans les voies génitales féminines
 
@@ -54,11 +54,10 @@ Elle se déroule dans le **tiers supérieur de la trompe utérine**.
 #### Segmentation
 
 La cellule œuf se divise par **mitoses** successives tout en migrant dans la trompe vers l'utérus.
-Elle passe successivement aux stades :
-- **2 blastomères** (1er jour) → **4** → **8** → **16 blastomères**
-- Au stade 16 cellules → appelée **morula** (ressemble à une petite mûre)
-- Atteint l'utérus entre le **3ème et le 4ème jour**
-- La morula se **creuse** → forme une cavité contenant du liquide → appelée **blastocyste**
+- **1er jour** → 2 blastomères → **2ème jour** → 4 → **3ème jour** → 8 → **4ème jour** → 12-16 blastomères
+- Au stade 16 cellules → **morula** (ressemble à une petite mûre)
+- La morula atteint l'utérus entre le **3ème et le 4ème jour**
+- La morula se **creuse** → cavité contenant du liquide → **blastocyste**
 
 #### Nidation
 
@@ -74,12 +73,15 @@ Elle passe successivement aux stades :
 
 | Stade | Caractéristiques |
 |---|---|
-| 3 semaines | Le cœur bat |
-| 8 semaines | Mains et pieds se dessinent ; organes vitaux en place |
-| 12 semaines | Premiers os ; sexe identifiable |
-| 16 semaines | Premiers mouvements ; cheveux |
-| 24 semaines | Perçoit les sons ; respiration viable |
-| 36 semaines | Se positionne tête en bas |
+| 3 semaines | Le cœur bat (1,5g - 0,5cm) |
+| 8 semaines | Mains et pieds se dessinent ; organes vitaux en place (3g - 3cm) |
+| 12 semaines | Premiers os ; sexe identifiable (45g - 10cm) |
+| 16 semaines | Premiers mouvements ; cheveux (160g - 17cm) |
+| 20 semaines | Perçoit les sons (385g - 22cm) |
+| 24 semaines | Respiration viable (650g - 30cm) |
+| 28 semaines | Cerveau se câble ; capable de survivre si naissance prématurée (1,15kg - 35cm) |
+| 32 semaines | Se positionne tête en bas (1,9kg - 40cm) |
+| 36 semaines | Lanugo disparaît ; prend du poids (2,65kg - 46cm) |
 | 40 semaines | **Accouchement** (environ 3,2 kg - 50 cm) |
 
 ---
@@ -145,7 +147,7 @@ Le suivi médical de la grossesse repose sur **3 examens principaux** :
 
 ### 4.2 Examens sérologiques (exemple : toxoplasmose)
 
-**But :** Rechercher dans le **sang maternel** la présence d'**anticorps spécifiques** de certains micro-organismes présentant un danger pour le fœtus (exemple : toxoplasmose).
+**But :** Rechercher dans le **sang maternel** la présence d'**anticorps spécifiques** de certains micro-organismes présentant un danger pour le fœtus.
 
 **Interprétation :**
 - **Présence d'anticorps** → mère **immunisée** → fœtus **protégé**
@@ -155,22 +157,62 @@ Le suivi médical de la grossesse repose sur **3 examens principaux** :
 
 ### 4.3 Amniocentèse et examen cytogénétique
 
-**Définitions :**
+**Définition :**
 - **Amnio(s)** = liquide amniotique
 - **-centèse** = ponction ou prélèvement
 - **Amniocentèse** = ponction du liquide amniotique
 
-**Diagnostic prénatal (DPN) :**
-- Ensemble d'examens médicaux ayant pour but de **détecter in utero** (dans l'utérus) chez l'enfant une **maladie grave**.
-- Le risque de **trisomie 21** augmente fortement avec **l'âge de la mère**.
-- Le caryotype est systématiquement proposé aux femmes de **plus de 38 ans** ou ayant des **antécédents familiaux**.
+**Principe :** Elle consiste à prélever une petite quantité de liquide amniotique (15 à 20 mL), contenant des cellules fœtales, directement dans la poche à l'aide d'une aiguille sous **contrôle échographique**.
+
+**Intérêt :** Le caryotype du fœtus permet de mettre en évidence certaines **anomalies chromosomiques**, permettant éventuellement de déboucher sur une **IMG** (Interruption Médicale de Grossesse) en cas de maladie grave et incurable.
+
+**Risques :** L'amniocentèse déclenche environ **1 % de fausses couches** et présente un risque d'infection ou de blessure du fœtus. ⚠️ Ce n'est pas un examen anodin.
+
+**Indication :** Le risque de trisomie 21 augmente fortement avec **l'âge de la mère**. Le caryotype est systématiquement proposé aux femmes de **plus de 38 ans** ou ayant des **antécédents familiaux**.
+
+---
+
+### 4.4 Le caryotype
+
+**Définition :** Photographie **ordonnée** des chromosomes **métaphasiques** d'une cellule d'un individu observé en microscopie. Les chromosomes sont placés **par paires d'homologues de taille décroissante**.
+
+**Étymologie :** Térat(o) = monstre → **Tératogène** = qui provoque des malformations chez l'embryon ou le fœtus.
+
+#### Caryotype normal
+
+- **22 paires d'autosomes** (chromosomes identiques chez l'homme et la femme)
+- **1 paire de gonosomes** (= chromosomes sexuels)
+- = **46 chromosomes au total**
+
+Gonosomes :
+- **XX** → sexe féminin
+- **XY** → sexe masculin
+
+**Formule chromosomique** (Nombre total de chromosomes ; gonosomes) :
+- Sexe féminin : **46, XX**
+- Sexe masculin : **46, XY**
+
+#### Anomalies de nombre
+
+| Anomalie | Définition | Formule (exemple) |
+|---|---|---|
+| **Trisomie** | Présence de **3 chromosomes** au niveau d'une paire chromosomique (au lieu de 2) → **47 chromosomes** | Trisomie 21 masculin : **47, XY + 21** ; Syndrome du triple X : **47, XX + X** |
+| **Monosomie** | Présence d'**un seul chromosome** au niveau d'une paire chromosomique → **45 chromosomes** | Syndrome de Turner : **45, X0** |
+
+#### Anomalies de structure
+
+| Anomalie | Définition |
+|---|---|
+| **Délétion** | Perte d'une partie d'un chromosome |
+| **Inversion** | Inversion d'une partie d'un chromosome |
+| **Translocation** | Transfert de tout ou partie d'un chromosome sur un autre chromosome |
 
 ---
 
 ## 🔁 Récap express — Chapitre 28
 
 - Fécondation = fusion spermatozoïde + ovocyte → zygote (tiers supérieur de la trompe)
-- Monospermie = un seul spermatozoïde féconde l'ovocyte
+- Monospermie = un seul spermatozoïde féconde l'ovocyte (granules corticaux)
 - Caryogamie = fusion des pronoyaux → cellule diploïde (2n = 46)
 - Segmentation → morula (16 cellules, 3-4ème jour) → blastocyste
 - Nidation = implantation du blastocyste dans l'endomètre (6ème jour)
@@ -178,4 +220,7 @@ Le suivi médical de la grossesse repose sur **3 examens principaux** :
 - Placenta = barrière sélective (les sangs ne se mélangent pas !)
 - 3 examens de suivi : échographie, examens sérologiques, amniocentèse
 - Échographie = non invasif, indolore, sans danger → ultrasons
-- Amniocentèse = ponction du liquide amniotique → diagnostic prénatal
+- Amniocentèse = ponction 15-20mL liquide amniotique → diagnostic prénatal → risque 1% FC
+- Caryotype normal = 22 paires autosomes + 1 paire gonosomes = 46 chromosomes
+- Trisomie = 47 chromosomes / Monosomie = 45 chromosomes
+- Anomalies de structure = Délétion, Inversion, Translocation

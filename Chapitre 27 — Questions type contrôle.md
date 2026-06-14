@@ -222,7 +222,7 @@ Un follicule est un petit sac pluricellulaire arrondi qui renferme un ovocyte et
 ## 29. Qu'est-ce que l'ovulation ?
 
 ### Réponse :
-L'ovulation est la libération de l'ovocyte II par le follicule mûr (follicule de De Graaf). Elle se produit au 14ème jour du cycle menstruel.
+L'ovulation est la libération de l'ovocyte II par le follicule mûr (follicule de De Graaf). Pour un cycle de 28 jours, elle se produit au 14ème jour. Plus généralement, elle survient **14 jours avant les règles suivantes**, quelle que soit la durée du cycle (car la phase lutéale est toujours constante à 14 jours).
 
 ---
 

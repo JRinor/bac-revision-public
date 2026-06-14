@@ -101,23 +101,23 @@ Le cycle ovarien dure en moyenne 28 jours. Par convention, le premier jour du cy
 
 ### Réponse :
 Le cycle ovarien se divise en 3 phases :
-- Phase folliculaire : dure 14 jours (durée variable selon les cycles) ; correspond à la maturation du follicule.
-- Phase ovulatoire : correspond à la libération de l'ovocyte II.
-- Phase lutéale : dure 14 jours (durée constante) ; correspond à la transformation du follicule en corps jaune.
+- Phase folliculaire : sa durée est **variable** selon les cycles (de 10 à 20 jours environ) ; pour un cycle de 28 jours, elle dure en moyenne 14 jours. C'est cette variabilité qui explique que les cycles n'ont pas tous la même durée. Elle correspond à la maturation du follicule.
+- Phase ovulatoire : correspond à la libération de l'ovocyte II ; survient 14 jours avant les règles suivantes.
+- Phase lutéale : dure **14 jours (durée constante)** ; correspond à la transformation du follicule en corps jaune.
 
 ---
 
 ## 15. Qu'est-ce que la phase folliculaire ? Quelle hormone est sécrétée ?
 
 ### Réponse :
-La phase folliculaire correspond à la maturation d'un follicule (transformation d'un follicule secondaire en follicule de De Graaf). Elle dure 14 jours pour un cycle de 28 jours mais sa durée est variable. Pendant cette phase, les follicules sécrètent uniquement des œstrogènes.
+La phase folliculaire correspond à la maturation d'un follicule (transformation d'un follicule secondaire en follicule de De Graaf). Sa durée est **variable selon les cycles** (de 10 à 20 jours environ) : pour un cycle de 28 jours, elle dure en moyenne 14 jours. C'est cette variabilité qui explique que tous les cycles ne durent pas exactement 28 jours. Pendant cette phase, les follicules sécrètent uniquement des œstrogènes.
 
 ---
 
 ## 16. Qu'est-ce que la phase ovulatoire ? Sous l'action de quelle hormone a-t-elle lieu ?
 
 ### Réponse :
-La phase ovulatoire correspond à la rupture du follicule mûr et à la libération de l'ovocyte II (= ovulation). Elle se produit sous l'action d'un pic de LH. L'ovocyte II descend ensuite lentement dans les trompes de Fallope ; s'il n'est pas fécondé dans les 24 heures, il dégénère.
+La phase ovulatoire correspond à la rupture du follicule mûr et à la libération de l'ovocyte II (= ovulation). Elle se produit sous l'action d'un pic de LH. Pour un cycle de 28 jours, cela survient autour du 14ème jour, mais plus généralement **14 jours avant les règles suivantes** (la phase lutéale étant toujours constante à 14 jours). L'ovocyte II descend ensuite lentement dans les trompes de Fallope ; s'il n'est pas fécondé dans les 24 heures, il dégénère.
 
 ---
 

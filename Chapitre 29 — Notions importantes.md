@@ -98,7 +98,8 @@ Le cycle ovarien dure en moyenne **28 jours**. Par convention, le **premier jour
 Le cycle se divise en **3 phases** :
 
 #### Phase folliculaire
-- Elle dure **14 jours** pour un cycle de 28 jours (durée **variable** selon les cycles).
+- Sa durée est **variable** selon les cycles (de 10 à 20 jours environ). Pour un cycle de 28 jours, elle dure en moyenne 14 jours.
+- ⚠️ C'est la variabilité de cette phase qui explique que les cycles ne font pas tous exactement 28 jours.
 - Elle correspond à la **maturation d'un follicule** (transformation d'un follicule secondaire en follicule de De Graaf).
 - Seuls les **œstrogènes** sont sécrétés par le follicule.
 
@@ -187,6 +188,60 @@ La sécrétion importante de **progestérone** par le corps jaune, associée à 
 
 ---
 
+## 5. Schémas de synthèse à savoir dessiner ⚠️ (peut tomber au bac)
+
+### Schéma de la régulation masculine
+
+```
+HYPOTHALAMUS
+    │ GnRH (−) ← rétrocontrôle négatif
+    ▼
+HYPOPHYSE (antéhypophyse)
+    │         │
+    LH (+)   FSH (+)      (−) ← inhibine (cellules de Sertoli)
+    │         │
+    ▼         ▼
+Cellules    Cellules
+de Leydig   de Sertoli
+    │             │
+Testostérone     ABP
+    │             │
+    └─────────────┘
+          │
+   Cellules germinales
+          │
+    SPERMATOGENÈSE (+)
+
+Testostérone → Caractères sexuels secondaires (+)
+Testostérone (grande quantité) → Hypothalamus et Hypophyse (−) = rétrocontrôle négatif
+```
+
+### Schéma de la régulation féminine (simplifié)
+
+```
+HYPOTHALAMUS
+    │ GnRH
+    ▼
+HYPOPHYSE
+    │ LH + FSH
+    ▼
+OVAIRE
+    │
+Phase folliculaire          Phase lutéale
+[follicule]                 [corps jaune]
+    │                           │
+Œstrogènes                 Progestérone + Œstrogènes
+(faible dose) → (−)        (forte dose progest.) → (−)
+(forte dose) → (+) → pic LH → OVULATION
+```
+
+**Légende :**
+- **(+)** = activation / stimulation
+- **(−)** = inhibition / blocage (rétrocontrôle négatif)
+- **(+)** sur la flèche vers l'hypophyse juste avant l'ovulation = rétrocontrôle **positif**
+
+---
+
 ## 🔁 Récap express — Chapitre 29
 
 - Complexe hypothalamo-hypophysaire : situé dans l'encéphale ; hypothalamus + hypophyse + tige pituitaire
@@ -195,7 +250,7 @@ La sécrétion importante de **progestérone** par le corps jaune, associée à 
 - Chez l'homme : LH → cellules de Leydig → testostérone ; FSH → cellules de Sertoli → ABP
 - Testostérone + ABP → spermatogenèse ; testostérone → caractères sexuels secondaires masculins
 - Rétrocontrôle négatif masculin : testostérone (grande quantité) inhibe hypothalamus et hypophyse ; inhibine inhibe FSH
-- Chez la femme : cycle de 28 jours = phase folliculaire (variable) + phase ovulatoire + phase lutéale (14j, constante)
+- Chez la femme : cycle de 28 jours en moyenne = phase folliculaire (**variable**, 10-20j) + phase ovulatoire + phase lutéale (**constante = toujours 14j**) ⚠️
 - Œstrogènes : sécrétés par le follicule, rôle sur l'endomètre et caractères sexuels secondaires
 - Progestérone : sécrétée par le corps jaune (phase lutéale uniquement), prépare l'endomètre à la nidation
 - Rétrocontrôle négatif : faibles [œstrogènes] → inhibent hypophyse → peu de LH/FSH

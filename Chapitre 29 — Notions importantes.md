@@ -40,6 +40,11 @@ Les neurones hypothalamiques produisent des neurohormones appelées **substances
 
 ➡️ LH et FSH = **gonadostimulines** (elles stimulent les gonades).
 
+> 📷 *Schéma du prof — Principaux éléments du complexe hypothalamo-hypophysaire*
+>
+> ![Principaux éléments du complexe hypothalamo-hypophysaire](image2/26.jpg)
+
+
 ---
 
 ## 3. Régulation de la fonction reproductrice chez l'homme
@@ -82,6 +87,11 @@ On dit que la testostérone exerce un **rétrocontrôle négatif** sur l'hypophy
 
 De plus, l'**inhibine** sécrétée par les **cellules de Sertoli** exerce un rétrocontrôle négatif sur l'hypophyse (inhibe la libération de FSH).
 
+> 📷 *Schéma du prof — Schéma de synthèse — régulation de la fonction reproductrice chez l'homme ⚠️ À savoir redessiner !*
+>
+> ![Schéma de synthèse — régulation de la fonction reproductrice chez l'homme ⚠️ À savoir redessiner !](image2/27.jpg)
+
+
 ---
 
 ## 4. Régulation de la fonction reproductrice chez la femme
@@ -90,6 +100,11 @@ Chez la femme, la fonction de reproduction ne dure que de la **puberté** (11-14
 - l'**ovaire** (cycle ovarien) → conduisant à l'ovulation
 - l'**utérus** (cycle utérin) → conduisant à l'apparition des menstruations
 - les **hormones** (cycle hormonal) → assurant le synchronisme entre ces différents cycles
+
+> 📷 *Schéma du prof — Synchronisation des cycles ovarien, utérin et hormonal*
+>
+> ![Synchronisation des cycles ovarien, utérin et hormonal](image2/28.jpg)
+
 
 ### 4.1 Cycle ovarien (voir doc 3)
 
@@ -183,6 +198,11 @@ La libération de **FSH** et de **LH** est **variable** durant le cycle :
 
 ⚠️ Le type de rétrocontrôle dépend de la **concentration sanguine** en hormones ovariennes.
 
+> 📷 *Schéma du prof — Évolution des taux d'hormones chez la femme et rétrocontrôles ovariens*
+>
+> ![Évolution des taux d'hormones chez la femme et rétrocontrôles ovariens](image2/31.jpg)
+
+
 **Phase folliculaire :**
 Le follicule immature sécrète une **faible dose d'œstrogènes** → **rétrocontrôle négatif** sur le complexe hypothalamo-hypophysaire → l'hypophyse sécrète peu de FSH et de LH.
 
@@ -191,6 +211,11 @@ En fin de phase folliculaire, le volumineux follicule de De Graaf sécrète une 
 
 **Phase lutéale :**
 La sécrétion importante de **progestérone** par le corps jaune, associée à la faible quantité d'œstrogènes, **freine** l'hypophyse → baisse du taux de LH et de FSH (**rétrocontrôle négatif**). Le corps jaune régresse, les taux d'hormones ovariennes chutent et un **nouveau cycle commence**.
+
+> 📷 *Schéma du prof — Schéma de synthèse — régulation de la fonction reproductrice chez la femme ⚠️ À savoir redessiner !*
+>
+> ![Schéma de synthèse — régulation de la fonction reproductrice chez la femme ⚠️ À savoir redessiner !](image2/30.jpg)
+
 
 ---
 

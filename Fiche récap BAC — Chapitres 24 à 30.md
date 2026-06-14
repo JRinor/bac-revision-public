@@ -99,7 +99,7 @@
 - **Spermatocytogenèse** : spermatogonie → spermatocyte I → spermatocyte II → spermatide
 - **Spermiogenèse** : spermatide → spermatozoïde (différenciation)
 - Cellules de Leydig → testostérone / Cellules de Sertoli → nourricières
-- Follicule de De Graaf → ovulation au **14ème jour**
+- Follicule de De Graaf → ovulation au **14ème jour** (pour un cycle de 28 jours) = **14 jours avant les règles suivantes**
 - Corps jaune → progestérone → dégénère si pas de fécondation
 
 ---
@@ -153,12 +153,12 @@ Inhibine (Sertoli) → rétrocontrôle négatif sur hypophyse (↓ FSH)
 ### Régulation féminine ⚠️
 - Cycle de 28 jours en moyenne :
   - Phase **folliculaire** = **variable** (10-20j) ; follicule sécrète œstrogènes
-  - Phase **ovulatoire** = pic de LH → ovulation
+  - Phase **ovulatoire** = pic de LH → ovulation (**14 jours avant les règles suivantes**)
   - Phase **lutéale** = **constante 14j** ; corps jaune sécrète progestérone + œstrogènes
 
 | Hormone | Sécrétée par | Rôles |
 |---|---|---|
-| **Œstrogènes** | Follicule | Prolifération endomètre, mucus cervical, caractères sexuels secondaires |
+| **Œstrogènes** | Follicule | Prolifération endomètre, mucus cervical, caractères sexuels secondaires féminins (seins, bassin, pilosité pubienne, ménarche) |
 | **Progestérone** | Corps jaune (phase lutéale) | Aspect en dentelle endomètre, inhibe contractions myomètre, développement glandes mammaires |
 
 ### Rétrocontrôles ovariens ⚠️

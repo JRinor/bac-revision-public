@@ -99,7 +99,13 @@ L'appareil génital féminin est composé d'organes génitaux **internes** (ovai
 ## 12. Quel est le rôle des ovaires ?
 
 ### Réponse :
-Les ovaires sont les gonades féminines. Ils sont situés de part et d'autre de l'utérus et fixés par des ligaments. Ils élaborent les gamètes féminins (ovocytes) et les hormones sexuelles féminines (progestérone et œstrogènes).
+Les ovaires sont les **gonades féminines** (= équivalent féminin des testicules). Il y en a **2**, situés un de chaque côté de l'utérus, fixés par des ligaments.
+
+Ils ont **2 rôles** :
+1. **Produire les ovocytes** (gamètes féminins) → comme les testicules produisent les spermatozoïdes
+2. **Sécréter les hormones sexuelles féminines** : les **œstrogènes** et la **progestérone** → comme les testicules sécrètent la testostérone
+
+💡 **Gonade** = organe qui produit à la fois les gamètes ET les hormones sexuelles. Testicule = gonade masculine / Ovaire = gonade féminine.
 
 ---
 

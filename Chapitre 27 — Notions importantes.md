@@ -149,7 +149,7 @@ Regroupés au niveau de la **vulve** : grandes lèvres et petites lèvres (qui p
 
 > 📷 *Schéma du prof — Histologie du testicule (Doc 7)*
 >
-> ![Histologie du testicule (Doc 7)](image2/9.jpg)
+> ![Histologie du testicule (Doc 7)](image2/10.jpg)
 
 
 ### Étapes de la spermatogenèse (2 phases)

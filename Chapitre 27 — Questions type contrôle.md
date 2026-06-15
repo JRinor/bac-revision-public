@@ -94,6 +94,8 @@ Le spermatozoïde est organisé en **3 parties** :
 ### Réponse :
 L'appareil génital féminin est composé d'organes génitaux **internes** (ovaires, trompes de Fallope, utérus, vagin) et d'organes génitaux **externes** regroupés au niveau de la vulve (grandes lèvres, petites lèvres, clitoris, orifices urinaire et génital).
 
+💡 **Rôle du vagin :** le vagin est l'organe de l'accouplement (= réceptacle du pénis lors du rapport sexuel). C'est aussi la voie d'entrée des spermatozoïdes et la voie de sortie du bébé à l'accouchement. Son milieu est **acide**, ce qui élimine beaucoup de spermatozoïdes (effet spermicide naturel).
+
 ---
 
 ## 12. Quel est le rôle des ovaires ?
@@ -368,3 +370,22 @@ Un androgène est une substance qui provoque l'apparition des caractères sexuel
 
 ### Réponse :
 La ménarche est l'apparition des premières règles chez la jeune fille, à la puberté. Elle marque le début de la fonction reproductrice féminine. Le mot vient de "méno" = mois.
+
+---
+
+## 36. Reconnaître les étymologies importantes du chapitre 27.
+
+### Réponse :
+Ces racines grecques ou latines peuvent tomber au BAC sous forme de "définir le terme" ou "expliquer l'étymologie" :
+
+| Racine | Sens | Exemple |
+|---|---|---|
+| **Physi(o)** | Nature, fonctionnement | Physiologie = étude du fonctionnement des organes |
+| **Orchi(o)** | Testicule | Cryptorchidie = testicule non descendu |
+| **Spermato** | Sperme, semence | Spermatogenèse = formation des spermatozoïdes |
+| **Cervic(o)** | Col (utérus ou nuque) | Glaire cervicale = mucus du col de l'utérus |
+| **Salping(o)** | Trompe | Salpingite = inflammation d'une trompe |
+| **Méno** | Mois, menstruations | Ménarche = premières règles / Ménopause = arrêt des règles |
+| **Oo / Ov(o)** | Œuf, ovocyte | Ovogenèse = formation de l'ovocyte |
+| **Andr(o)** | Homme, mâle | Androgène = hormone des caractères masculins |
+| **Gén(o) / -genèse** | Formation, production | Gamétogenèse = formation des gamètes |

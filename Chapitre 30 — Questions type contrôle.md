@@ -181,9 +181,20 @@ Les infertilités se répartissent en **trois tiers** :
 ## 21. Citer les causes d'infertilité féminine.
 
 ### Réponse :
-- **Causes mécaniques** : glaire cervicale anormale, malformation de l'utérus. Diagnostiquées par hystérosalpingographie ou échographie.
-- **Causes infectieuses** : infections génitales (mycose, cervicite, endométrite) → salpingites → obstruction des trompes.
+- **Causes mécaniques** : glaire cervicale anormale, malformation de l'utérus. Diagnostiquées par **hystérosalpingographie** (= radiographie de l'utérus et des trompes après injection d'un produit de contraste) ou échographie.
+- **Causes infectieuses** : infections génitales mal soignées → salpingites → obstruction des trompes.
 - **Causes hormonales** : dérèglements entraînant une **anovulation** (ex : FSH ou LH insuffisante).
+
+💡 **Vocabulaire des infections génitales féminines** (peut tomber au BAC) :
+
+| Terme | Définition |
+|---|---|
+| **Mycose** | Infection due à un champignon inférieur |
+| **Cervicite** | Inflammation du col de l'utérus |
+| **Endométrite** | Inflammation de la muqueuse de l'utérus |
+| **Salpingite** | Inflammation d'une trompe utérine → peut provoquer une obstruction → infertilité |
+
+💡 **Gynéc(o)** = femme → **Gynécologie** = étude des maladies de l'appareil génital féminin.
 
 ---
 
@@ -249,6 +260,8 @@ L'insémination artificielle consiste à déposer des spermatozoïdes dans le va
 |---|---|---|
 | Sperme | Du **conjoint** | D'un **donneur** anonyme |
 | Indication | Anomalies du sperme / glaire cervicale | Infertilité masculine grave ou maladie génétique du père |
+
+⚠️ **IAD — point important :** l'identité du donneur n'est **pas connue** par le couple (anonymat total). Cependant, des **critères physiques identiques à ceux du père** (couleur de peau, couleur des yeux, taille...) sont pris en compte pour le choix du donneur.
 
 ---
 

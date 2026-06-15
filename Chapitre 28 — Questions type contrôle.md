@@ -115,6 +115,7 @@ La nidation est l'implantation du blastocyste dans la muqueuse utérine (endomè
 | **3 semaines** | Le cœur bat (0,5 cm, 1,5 g) |
 | **8 semaines** | Mains et pieds se dessinent, organes vitaux en place |
 | **12 semaines** | Premiers os, sexe identifiable |
+| **16 semaines** | **Premiers mouvements** perçus par la mère, cheveux |
 | **20 semaines** | Perçoit les sons |
 | **24 semaines** | Respiration viable (peut survivre si naissance prématurée) |
 | **40 semaines** | **Accouchement** (~3,2 kg, ~50 cm) |

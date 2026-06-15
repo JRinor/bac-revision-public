@@ -14,7 +14,16 @@ Le complexe hypothalamo-hypophysaire est constitué par l'**hypothalamus** et l'
 ## 2. Qu'est-ce qu'une hormone ?
 
 ### Réponse :
-Une hormone est une substance sécrétée par une **glande endocrine** dans le sang.
+Une hormone est une substance sécrétée par une **glande endocrine** dans le sang. Elle agit à distance sur des cellules cibles qui possèdent des **récepteurs spécifiques**.
+
+Il existe **2 grands types d'hormones** :
+
+| Type | Nature chimique | Exemples dans ce chapitre |
+|---|---|---|
+| **Hormones protéiques** | De nature **protéique** (protéines) | GnRH, LH, FSH |
+| **Hormones stéroïdiennes** | De nature **lipidique** (dérivées du cholestérol) | Testostérone, œstrogènes, progestérone |
+
+💡 **Pourquoi c'est important ?** Les hormones stéroïdiennes sont **liposolubles** (solubles dans les graisses) : elles peuvent traverser la membrane cellulaire directement. Les hormones protéiques ne le peuvent pas — elles se fixent sur des récepteurs en surface.
 
 ---
 
@@ -186,6 +195,13 @@ Les œstrogènes (sécrétés par les follicules) :
 - Stimulent la **prolifération de l'endomètre**
 - Stimulent la sécrétion du **mucus cervical**
 - Provoquent le développement des **caractères sexuels secondaires féminins** à la puberté
+
+💡 **Il existe 3 œstrogènes naturels** (les trois sont de nature **stéroïdienne/lipidique**) :
+- **Œstradiol** (le plus puissant, dominant en âge de procréer)
+- **Œstrone** (dominant après la ménopause)
+- **Œstriol** (produit en grande quantité pendant la grossesse par le placenta)
+
+⚠️ Au BAC, "les œstrogènes" désigne surtout l'**œstradiol** — c'est l'hormone principale du cycle.
 
 ---
 

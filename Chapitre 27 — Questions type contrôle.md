@@ -170,14 +170,22 @@ La méiose est l'ensemble des étapes permettant, à partir d'une cellule **dipl
 ## 21. Qu'est-ce que le brassage intrachromosomique ? Lors de quelle phase a-t-il lieu ?
 
 ### Réponse :
-Le brassage intrachromosomique est un échange de fragments entre les chromatides de chromosomes homologues (= crossing-over). Il a lieu lors de la **Prophase I** de la méiose I.
+Le brassage intrachromosomique est un échange de fragments entre les chromatides de **chromosomes homologues** (= **crossing-over**). Il a lieu lors de la **Prophase I** de la méiose I.
+
+💡 **Image simple :** imagine deux chromosomes identiques (un venant du père, un de la mère). Pendant le crossing-over, ils s'échangent des morceaux → on obtient des chromosomes "mixtes" père/mère. Résultat : des gamètes **génétiquement uniques**.
 
 ---
 
 ## 22. Qu'est-ce que le brassage interchromosomique ? Lors de quelle phase a-t-il lieu ?
 
 ### Réponse :
-Le brassage interchromosomique est la séparation **aléatoire** des chromosomes homologues lors de la division cellulaire. Il a lieu lors de l'**Anaphase I** de la méiose I.
+Le brassage interchromosomique est la séparation **aléatoire** des chromosomes homologues dans les cellules filles. Il a lieu lors de l'**Anaphase I** de la méiose I.
+
+💡 **Image simple :** imagine 23 paires de chromosomes. À l'Anaphase I, chaque paire se sépare et chaque chromosome va dans une cellule fille de façon **aléatoire** (comme un tirage au sort). On obtient ainsi des millions de combinaisons possibles différentes.
+
+⚠️ **Différence clé :**
+- **Intra**chromosomique = échange de morceaux **À L'INTÉRIEUR** d'une paire (Prophase I)
+- **Inter**chromosomique = séparation aléatoire **ENTRE** les paires (Anaphase I)
 
 ---
 
@@ -201,14 +209,20 @@ La spermatogenèse est l'ensemble des étapes qui aboutissent à la production d
 ## 25. Citer les étapes de la spermatogenèse.
 
 ### Réponse :
+
 **Phase 1 — Spermatocytogenèse :**
-1. **Spermatogonie** (2n = 46) → multiplication par mitose
-2. **Spermatocyte I** (2n = 46) → phase d'accroissement
-3. **Spermatocyte II** (n = 23) → Méiose I
-4. **Spermatide** (n = 23) → Méiose II
+
+| Cellule | Ploïdie | Ce qui se passe |
+|---|---|---|
+| **Spermatogonie** | 2n = 46 | Se multiplie par **mitose** |
+| **Spermatocyte I** | 2n = 46 | S'accroît (grossit) |
+| *(Méiose I)* → **Spermatocyte II** | n = 23 | Issu de la méiose I = division réductionnelle |
+| *(Méiose II)* → **Spermatide** | n = 23 | Issu de la méiose II = division équationnelle |
 
 **Phase 2 — Spermiogenèse :**
-5. **Spermatide → Spermatozoïde** (n = 23) → différenciation
+- **Spermatide → Spermatozoïde** (n = 23) : la spermatide se différencie (allongement, flagelle, acrosome…) sans se diviser.
+
+💡 **Moyen mnémo :** **"Go I II Tide Zoïde"** = Spermatogo**nie** → Spermatocyte **I** → Spermatocyte **II** → Sperma**tide** → Spermatozoïde
 
 ---
 
@@ -233,9 +247,15 @@ Un **follicule** est un petit sac pluricellulaire arrondi qui renferme un ovocyt
 |---|---|
 | **Follicule primordial** | Ovocyte I + quelques cellules folliculaires. Stock à la naissance : 1-2 millions → 300 000 à la puberté |
 | **Follicule primaire** | Cellules folliculaires en **une seule couche** autour de l'ovocyte I |
-| **Follicule secondaire** | Plusieurs couches (granulosa) + zone pellucide + thèques interne et externe |
+| **Follicule secondaire** | Plusieurs couches de cellules = **granulosa** + zone pellucide + **thèques** interne et externe |
 | **Follicule tertiaire** | Formation de l'**antrum** (cavité remplie de liquide folliculaire) |
 | **Follicule de De Graaf (mûr)** | Antrum volumineux ; ovocyte I finit la méiose I → ovocyte II + 1er globule polaire → **OVULATION** |
+
+💡 **Vocabulaire simplifié :**
+- **Granulosa** = couches de cellules qui entourent et nourrissent l'ovocyte (comme une enveloppe protectrice). Elles sécrètent les **œstrogènes**.
+- **Thèques** = couche externe du follicule, comme une coque. La **thèque interne** sécrète aussi des hormones.
+- **Antrum** = cavité qui se forme à l'intérieur du follicule, remplie de liquide. Plus il est gros, plus le follicule est mature.
+- **Zone pellucide** = membrane transparente qui entoure directement l'ovocyte (comme une membrane d'œuf).
 
 ---
 
@@ -262,13 +282,20 @@ Après l'ovulation, les cellules de la granulosa du follicule se transforment en
 ## 31. Citer les étapes de l'ovogenèse.
 
 ### Réponse :
-1. Phase de multiplication → **oogonie** (2n = 46)
-2. Phase d'accroissement → **ovocyte I** (2n = 46)
-3. Phase de maturation : ovocyte I **bloqué** en 1ère division de méiose (200 000 à 400 000 à la naissance)
-4. Puberté → reprise de la 1ère division → **ovocyte II** (n = 23) + 1er globule polaire → **OVULATION**
-5. Ovocyte II **bloqué** en 2ème division de méiose
-6. **Fécondation** → reprise de la 2ème division → 2ème globule polaire + **cellule œuf** (2n = 46)
-7. Ménopause : environ **400 ovocytes II** ovulés sur toute une vie
+
+| Étape | Cellule | Ploïdie | Déclencheur |
+|---|---|---|---|
+| Multiplication | **Oogonie** | 2n = 46 | Vie embryonnaire |
+| Accroissement | **Ovocyte I** | 2n = 46 | Vie embryonnaire |
+| ⛔ 1er **BLOCAGE** | Ovocyte I bloqué en prophase I | 2n = 46 | Jusqu'à la puberté |
+| Reprise méiose I | **Ovocyte II** + 1er globule polaire | n = 23 | Pic de LH → **OVULATION** |
+| ⛔ 2ème **BLOCAGE** | Ovocyte II bloqué en métaphase II | n = 23 | Jusqu'à la fécondation |
+| Reprise méiose II | **Cellule œuf** + 2ème globule polaire | 2n = 46 | Entrée du spermatozoïde |
+
+💡 **Pourquoi ces blocages ?**
+L'ovocyte s'arrête et attend le "bon signal" avant de continuer à se diviser. C'est une économie d'énergie : inutile de finir la méiose si aucun spermatozoïde n'est là.
+
+⚠️ Environ **400 ovocytes II** seulement sont ovulés sur toute la vie (1 par cycle, ~40 ans de fertilité).
 
 ---
 
@@ -305,4 +332,3 @@ Un androgène est une substance qui provoque l'apparition des caractères sexuel
 
 ### Réponse :
 La ménarche est l'apparition des premières règles chez la jeune fille, à la puberté. Elle marque le début de la fonction reproductrice féminine. Le mot vient de "méno" = mois.
-                                                     

@@ -65,12 +65,18 @@ La LH possède des récepteurs sur les **cellules de Leydig** du testicule. Sa f
 ### Réponse :
 La FSH possède des récepteurs sur les **cellules de Sertoli** du testicule. Sa fixation entraîne la libération d'une protéine de liaison : l'**ABP** (Androgen Binding Protein). L'ensemble **testostérone + ABP** se fixe sur les cellules germinales et active la spermatogenèse.
 
+💡 **ABP = "taxi de la testostérone"** : la testostérone ne peut pas atteindre seule les cellules germinales. L'ABP la "transporte" et lui permet de s'y fixer pour déclencher la spermatogenèse.
+
 ---
 
 ## 9. Pourquoi la testostérone seule ne peut-elle pas activer la spermatogenèse ?
 
 ### Réponse :
 La testostérone seule ne peut pas se fixer sur les cellules germinales. Elle nécessite la présence de l'**ABP** produite par les cellules de Sertoli sous l'action de la FSH. C'est le complexe **testostérone + ABP** qui active la spermatogenèse.
+
+💡 **Astuce pour retenir LH/FSH chez l'homme :**
+- **LH** → cellules de **L**eydig → **testostérone** (L comme Leydig)
+- **FSH** → cellules de **S**ertoli → **ABP** → active la spermatogenèse (S comme Sertoli)
 
 ---
 
@@ -203,35 +209,51 @@ La progestérone est sécrétée par les cellules du **corps jaune**. Or le corp
 ## 24. Qu'est-ce qu'un rétrocontrôle négatif chez la femme ?
 
 ### Réponse :
-On parle de rétrocontrôle négatif lorsque les hormones ovariennes en **faible concentration** (notamment les œstrogènes) **inhibent** la sécrétion de FSH ou de LH par l'hypophyse → elles "freinent" le complexe hypothalamo-hypophysaire.
+On parle de rétrocontrôle négatif lorsque les hormones ovariennes en **faible concentration** **inhibent** la sécrétion de LH et FSH par l'hypophyse → elles "freinent" le complexe hypothalamo-hypophysaire.
+
+💡 **Analogie du thermostat :** quand la pièce est assez chaude (assez d'hormones), le thermostat s'éteint. Quand les hormones ovariennes sont suffisantes, elles "disent" à l'hypophyse d'arrêter d'en demander plus → **rétrocontrôle négatif** = **frein**.
 
 ---
 
 ## 25. Qu'est-ce qu'un rétrocontrôle positif chez la femme ?
 
 ### Réponse :
-On parle de rétrocontrôle positif lorsque les hormones ovariennes en **forte concentration** (notamment les œstrogènes) **activent** la sécrétion de FSH ou de LH par l'hypophyse. Ce phénomène se produit **juste avant l'ovulation** et déclenche le pic de LH.
+On parle de rétrocontrôle positif lorsque les œstrogènes en **très forte concentration** (dépassant un seuil critique) **activent** la sécrétion de LH par l'hypophyse → cela déclenche le **pic de LH** et donc l'**ovulation**.
+
+💡 **Analogie de l'avalanche :** au lieu de freiner, une grande quantité d'œstrogènes déclenche une réaction en chaîne qui amplifie la sécrétion de LH → **rétrocontrôle positif** = **accélérateur**.
+
+⚠️ Le rétrocontrôle positif n'a lieu **qu'une seule fois par cycle**, juste avant l'ovulation. Tout le reste du cycle = rétrocontrôle négatif.
 
 ---
 
 ## 26. Expliquer le rétrocontrôle pendant la phase folliculaire.
 
 ### Réponse :
-Pendant la phase folliculaire, le follicule immature sécrète une **faible dose d'œstrogènes** → **rétrocontrôle négatif** sur le complexe hypothalamo-hypophysaire → l'hypophyse sécrète peu de FSH et de LH.
+Pendant la phase folliculaire, le follicule immature sécrète une **faible dose d'œstrogènes** → **rétrocontrôle négatif** sur l'hypophyse → peu de FSH et LH sécrétées. Le follicule grossit progressivement.
 
 ---
 
 ## 27. Expliquer le rétrocontrôle juste avant l'ovulation.
 
 ### Réponse :
-En fin de phase folliculaire, le volumineux follicule de De Graaf sécrète une **grande quantité d'œstrogènes** qui dépasse un seuil critique → le rétrocontrôle devient **positif** → il déclenche un **pic de LH** qui provoque l'**ovulation**.
+En fin de phase folliculaire, le follicule de De Graaf (très gros) sécrète une **grande quantité d'œstrogènes** qui dépasse un **seuil critique** → le rétrocontrôle bascule et devient **positif** → **pic de LH** → **ovulation**.
+
+⚠️ C'est l'unique moment du cycle où le rétrocontrôle est positif.
 
 ---
 
 ## 28. Expliquer le rétrocontrôle pendant la phase lutéale.
 
 ### Réponse :
-Pendant la phase lutéale, la sécrétion importante de **progestérone** par le corps jaune (associée à peu d'œstrogènes) **freine** l'hypophyse → baisse du taux de LH et FSH (**rétrocontrôle négatif**). Le corps jaune régresse, les hormones chutent et un **nouveau cycle commence**.
+Pendant la phase lutéale, le corps jaune sécrète de la **progestérone** (+ un peu d'œstrogènes) en grande quantité → **rétrocontrôle négatif** → l'hypophyse freine LH et FSH. Sans LH, le corps jaune dégénère → chute hormonale → règles → nouveau cycle.
+
+💡 **Récap des rétrocontrôles en 1 coup d'œil :**
+
+| Phase | Hormones ovariennes | Rétrocontrôle | Effet |
+|---|---|---|---|
+| Folliculaire | Œstrogènes faibles | **Négatif** | Freine l'hypophyse |
+| Pré-ovulatoire | Œstrogènes très élevés | **Positif** | Pic de LH → ovulation |
+| Lutéale | Progestérone élevée | **Négatif** | Freine → corps jaune dégénère → règles |
 
 ---
 
@@ -254,4 +276,7 @@ Ces cycles durent en moyenne **28 jours**.
 
 ---
 
-## 31. À quel mom
+## 31. À quel moment du cycle la fécondité est-elle maximale ?
+
+### Réponse :
+La fécondité est maximale autour de l'**ovulation**, soit **14 jours avant les règles suivantes**. À cette période, la glaire cervicale devient perméable aux spermatozoïdes, l'ovocyte est présent dans la trompe et les spermatozoïdes peuvent survivre 4 à 5 jours dans les voies génitales féminines.

@@ -56,11 +56,13 @@ La fécondation est la fusion d'un spermatozoïde et d'un ovocyte, donnant naiss
 ## 7. Décrire les étapes de la fécondation dans l'ordre.
 
 ### Réponse :
-1. **Fixation** : le spermatozoïde se fixe sur la membrane pellucide de l'ovocyte.
-2. **Réaction acrosomiale** : les enzymes de l'acrosome digèrent la corona radiata et perforent la zone pellucide.
-3. **Fusion des membranes plasmiques** : activation de l'ovocyte II → expulsion du 2ème globule polaire + libération des granules corticaux (= **monospermie** : empêche l'entrée d'autres spermatozoïdes).
+1. **Fixation** : le spermatozoïde se fixe sur la **zone pellucide** de l'ovocyte.
+2. **Réaction acrosomiale** : les enzymes de l'acrosome digèrent la **corona radiata** (couronne de cellules folliculaires autour de l'ovocyte) et perforent la zone pellucide.
+3. **Fusion des membranes plasmiques** : activation de l'ovocyte II → expulsion du 2ème globule polaire + libération des **granules corticaux** → **monospermie** (un seul spermatozoïde féconde).
 4. **Pénétration du noyau** : le noyau du spermatozoïde pénètre dans l'ovocyte II → forme le **pronoyau mâle**.
 5. **Caryogamie** : fusion du pronoyau mâle et du pronoyau femelle → **cellule œuf (zygote)** diploïde (2n = 46).
+
+💡 **Moyen mnémo — "FRFPC"** : **F**ixation → **R**éaction acrosomiale → **F**usion des membranes → **P**énétration du noyau → **C**aryogamie
 
 ---
 
@@ -68,6 +70,8 @@ La fécondation est la fusion d'un spermatozoïde et d'un ovocyte, donnant naiss
 
 ### Réponse :
 La monospermie est le mécanisme qui garantit qu'**un seul spermatozoïde** féconde l'ovocyte. Elle est assurée par la libération de **granules corticaux** lors de la fusion des membranes plasmiques : ces granules modifient la zone pellucide et empêchent l'entrée de tout autre spermatozoïde.
+
+💡 **Granules corticaux** = petits sacs stockés juste sous la membrane de l'ovocyte. Dès qu'un spermatozoïde fusionne, ils explosent et libèrent des enzymes qui "verrouillent" la zone pellucide → comme un verrou qui se met en place dès que la porte est ouverte par le premier.
 
 ---
 
@@ -267,4 +271,3 @@ Exemples : alcool, certains médicaments (thalidomide), infections virales.
 
 ### Réponse :
 Le diagnostic prénatal (DPN) est un ensemble d'examens médicaux ayant pour but de détecter **in utero** (dans l'utérus) chez l'enfant une maladie grave avant sa naissance.
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       

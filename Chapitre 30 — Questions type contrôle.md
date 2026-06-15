@@ -152,9 +152,12 @@ L'IMG (Interruption Médicale de Grossesse) est une interruption pour raisons m�
 ## 18. Expliquer le principe de l'interruption médicamenteuse.
 
 ### Réponse :
-L'interruption médicamenteuse repose sur 2 médicaments en 2 étapes :
-1. Prise d'un **antiprogestatif** (type RU486) → bloque l'action de la progestérone → muqueuse impropre au maintien de la grossesse.
-2. **48 heures après** : prise de **prostaglandines** → contractions + ouverture du col → expulsion du fœtus par voie naturelle.
+L'interruption médicamenteuse repose sur **2 médicaments en 2 étapes** :
+1. Prise d'un **antiprogestatif** (ex : RU486 = mifépristone) → bloque l'action de la progestérone → l'endomètre ne peut plus maintenir la grossesse.
+2. **48 heures après** : prise de **prostaglandines** → provoquent les contractions de l'utérus + ouverture du col → expulsion de l'embryon par voie naturelle.
+
+💡 **Pourquoi bloquer la progestérone ?**
+La progestérone est indispensable pour maintenir l'endomètre et donc la grossesse. Sans elle, l'endomètre s'effondre : c'est comme retirer le sol sous l'embryon. Les prostaglandines viennent ensuite déclencher les contractions pour expulser.
 
 ---
 
@@ -252,15 +255,19 @@ L'insémination artificielle consiste à déposer des spermatozoïdes dans le va
 ## 29. Qu'est-ce que la FIVETE ? Décrire ses étapes.
 
 ### Réponse :
-La **FIVETE** (Fécondation In Vitro Et Transfert d'Embryon) = fécondation et début de développement de l'embryon **en milieu artificiel (in vitro)**.
+La **FIVETE** (Fécondation In Vitro Et Transfert d'Embryon) = fécondation et début de développement de l'embryon **en milieu artificiel (in vitro)**, en dehors du corps de la femme.
 
 Étapes :
-1. Traitement des spermatozoïdes pour les rendre fécondants.
-2. Stimulation ovarienne (hCG) + prélèvement des ovocytes par **cœlioscopie** sous anesthésie générale.
-3. Mise en présence ovocyte II + spermatozoïdes en milieu de culture (4 à 24h après prélèvement).
-4. Fécondation in vitro → segmentation dans le milieu de culture.
-5. Transfert de l'embryon au **stade 8 cellules** (3 jours après) dans l'endomètre préparé par injections hormonales.
-6. Nidation → les embryons non utilisés peuvent être **congelés**.
+1. **Traitement des spermatozoïdes** pour les rendre fécondants (capacitation).
+2. **Stimulation ovarienne** (injection hCG) + **prélèvement des ovocytes** par **cœlioscopie** (caméra introduite dans l'abdomen) sous anesthésie générale.
+3. **Mise en contact** : ovocyte II + spermatozoïdes dans un milieu de culture (4 à 24h après prélèvement) → fécondation in vitro.
+4. **Segmentation** : l'embryon se divise dans le milieu de culture.
+5. **Transfert** de l'embryon au **stade 8 cellules** (3 jours après) dans l'endomètre préparé par injections hormonales.
+6. **Nidation** → les embryons non utilisés peuvent être **congelés**.
+
+💡 **Différence FIVETE / corps** : dans la FIVETE, la fécondation et les premiers jours de développement se font **dans un tube en laboratoire** (in vitro = "dans le verre"), puis l'embryon est replacé dans l'utérus.
+
+💡 **Moyen mnémo — les 3 étapes clés :** **Prélèvement → Fécondation in vitro → Transfert au stade 8 cellules**
 
 ---
 
@@ -292,4 +299,3 @@ La cryptorchidie est l'absence de descente d'un ou des deux testicules dans les 
 
 ### Réponse :
 ⚠️ **Le préservatif masculin ou féminin** est le **seul** moyen de contraception qui protège contre les IST. Aucune pilule, aucun stérilet, aucun implant ne protège contre les IST.
-                                                                                                                                                                                                                                                                                                                                 

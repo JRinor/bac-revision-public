@@ -300,11 +300,18 @@ L'ovulation est la libération de l'ovocyte II par le follicule de De Graaf. Ell
 ## 30. Qu'est-ce que le corps jaune ? Quel est son rôle ?
 
 ### Réponse :
-Après l'ovulation, les cellules de la granulosa du follicule se transforment en cellules lutéales (contenant un pigment jaune = la lutéine) → **corps jaune**.
+Après l'ovulation, le follicule qui vient de libérer l'ovocyte ne disparaît pas : il se transforme en **corps jaune** (il prend une couleur jaune d'où son nom).
 
-- Le corps jaune sécrète de la **progestérone**.
-- **Sans fécondation** : le corps jaune dégénère 14 jours après l'ovulation → chute hormonale → règles.
-- **Avec fécondation** : le corps jaune est **maintenu** pour soutenir la grossesse.
+💡 **Corps jaune = les restes du follicule après l'ovulation**, qui deviennent une mini-glande temporaire.
+
+**Son rôle :** sécréter de la **progestérone** (hormone qui prépare l'utérus à accueillir un embryon).
+
+**Ensuite, 2 scénarios :**
+
+| Situation | Ce qui se passe |
+|---|---|
+| **Pas de fécondation** | Le corps jaune dégénère après 14 jours → la progestérone chute → l'endomètre s'effondre → **règles** |
+| **Fécondation** | Le corps jaune est **maintenu** par l'embryon (via l'hormone hCG) → continue à produire de la progestérone pour soutenir la grossesse |
 
 ---
 

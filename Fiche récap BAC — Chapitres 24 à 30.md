@@ -77,11 +77,14 @@
 ### Homme
 - Gonades = **testicules** (spermatozoïdes + testostérone)
 - Spermatozoïde : 60 µm, 300-400 millions/éjaculation, mobile grâce à l'épididyme, survit 4-5j
+- **Structure spermatozoïde** : **Tête** (acrosome + noyau) → **Pièce intermédiaire** (mitochondries = énergie) → **Flagelle** (50 µm = déplacement)
 - **Sperme** = spermatozoïdes + liquide séminal (vésicules séminales) + liquide prostatique (prostate alcalin)
+- **Androgène** = substance qui provoque les caractères sexuels masculins (testostérone = androgène principal)
 
 ### Femme
 - Gonades = **ovaires** (ovocytes + progestérone + œstrogènes)
-- Ovocyte capté par le pavillon, survit 24h, s'arrête dans le tiers supérieur de la trompe
+- Ovocyte capté par le pavillon, survit **24h**, s'arrête dans le tiers supérieur de la trompe
+- **Ménarche** = premières règles (puberté) / **Ménopause** = arrêt définitif des règles (~45-50 ans)
 
 ### Méiose ⚠️
 - Cellule diploïde (2n=46) → **4 cellules haploïdes** (n=23)
@@ -100,7 +103,7 @@
 - **Spermiogenèse** : spermatide → spermatozoïde (différenciation)
 - Cellules de Leydig → testostérone / Cellules de Sertoli → nourricières
 - Follicule de De Graaf → ovulation au **14ème jour** (pour un cycle de 28 jours) = **14 jours avant les règles suivantes**
-- Corps jaune → progestérone → dégénère si pas de fécondation
+- Corps jaune → progestérone → dégénère si pas de fécondation / **maintenu par hCG** si fécondation
 
 ---
 
@@ -125,12 +128,21 @@
 - **Examens sérologiques** : présence d'anticorps → immunisée ? (ex : toxoplasmose)
 - **Amniocentèse** : ponction 15-20 mL liquide amniotique sous contrôle écho → caryotype fœtal ; **risque 1% FC**
 
+### Repères développement fœtal ⚠️
+- **3 semaines** : le cœur bat (souvent demandé au BAC !)
+- **8 semaines** : mains et pieds, organes vitaux en place → fin de la période **embryon**
+- **9ème semaine** : devient **fœtus**
+- **24 semaines** : respiration viable (peut survivre si prématuré)
+- **40 semaines** : accouchement (~3,2 kg / 50 cm)
+- **Tératogène** = substance qui provoque des malformations chez l'embryon (alcool, tabac, certains médicaments)
+
 ### Caryotype ⚠️
 - Normal : **22 paires autosomes + 1 paire gonosomes = 46 chromosomes**
 - **46, XX** = féminin / **46, XY** = masculin
 - Trisomie = 47 chromosomes (ex : trisomie 21 = 47, XY + 21)
 - Monosomie = 45 chromosomes (ex : syndrome de Turner = 45, X0)
 - Anomalies de structure : Délétion / Inversion / Translocation
+- **DPN** (Diagnostic PréNatal) = ensemble d'examens pour détecter une maladie grave in utero
 
 ---
 
@@ -182,24 +194,38 @@ Inhibine (Sertoli) → rétrocontrôle négatif sur hypophyse (↓ FSH)
 - **Pilule du lendemain** = contragestion d'urgence, dans les **72h**, empêche la nidation
 - **Stérilet** = anti-glaire + anti-nidatoire ; déconseillé avant 1er enfant
 
+- **Aménorrhée** = absence de règles (a/an = absence + méno = mois)
+
 ### Interruption de grossesse
+⚠️ **SA** = Semaines d'Aménorrhée (comptées depuis les dernières règles, pas depuis la fécondation)
+
 | Type | Délai | Lieu | Principe |
 |---|---|---|---|
-| **Médicamenteuse** | jusqu'à 7 SA (= 5 sem. grossesse) | Cabinet ou établissement de santé | RU486 (antiprogestatif) + prostaglandines 48h après |
-| **Chirurgicale** | jusqu'à 14 SA (= 12 sem. grossesse) | Obligatoirement établissement de santé | Aspiration de l'œuf + dilatation col |
-- **IVG** : jusqu'à 12ème sem. de grossesse / **IMG** : jusqu'à la fin de grossesse (maladie grave ou risque mère)
+| **Médicamenteuse** | jusqu'à **7 SA** (= 5 sem. de grossesse) | Cabinet ou établissement de santé | RU486 (antiprogestatif) bloque progestérone + prostaglandines 48h après → contractions |
+| **Chirurgicale** | jusqu'à **14 SA** (= 12 sem. de grossesse) | Obligatoirement établissement de santé | Aspiration de l'œuf sous anesthésie |
+
+- **IVG** : volontaire, jusqu'à la **12ème semaine de grossesse** (14 SA)
+- **IMG** : médicale (maladie grave incurable ou risque pour la mère), jusqu'à la **fin de grossesse**
 
 ### Infertilité (1/3 féminine / 1/3 masculine / 1/3 inconnue)
-- Féminine : causes mécaniques (trompes, glaire), infectieuses (salpingite), hormonales (anovulation)
-- Masculine : détectée par **spermogramme** → azoospermie / oligospermie / asthénospermie / tératospermie / hypospermie
+- Féminine : causes mécaniques (trompes, glaire), infectieuses (**salpingite** = inflammation trompe → obstruction), hormonales (**anovulation** = pas d'ovulation)
+- Masculine : détectée par **spermogramme** → moyen mnémo **HAOTA** :
+  - **H**ypospermie (volume sperme < 1,5 mL)
+  - **A**zoospermie (absence totale de spermatozoïdes)
+  - **O**ligospermie (peu de spermatozoïdes)
+  - **T**ératospermie (formes anormales)
+  - **A**sthénospermie (mobilité insuffisante)
+- **Cryptorchidie** = testicules non descendus dans les bourses → trop chaud → infertilité masculine
 
 ### AMP
 | Méthode | Pour qui | Principe |
 |---|---|---|
 | Stimulation hormonale | Anovulation | FSH → follicules mûrs → hCG → ovulation |
 | IAC / IAD | Anomalie sperme / glaire / maladie génétique | Dépôt spermatozoïdes par cathéter |
-| **FIVETE** | Trompes bouchées, anovulation, anomalies sperme | Fécondation in vitro → transfert embryon (stade 8 cellules) |
-| **ICSI** | Infertilité masculine grave | Spermatozoïde injecté **directement** dans l'ovocyte II |
+| **FIVETE** | Trompes bouchées, anovulation, anomalies sperme | Fécondation in vitro → transfert embryon (stade 8 cellules, 3 jours après) |
+| **ICSI** | Infertilité masculine grave | Spermatozoïde injecté **directement** dans l'ovocyte II (micropipette) |
+
+- **hCG** (Human Gonadotropic Hormone) = hormone analogue de la LH utilisée en AMP pour déclencher l'ovulation ; aussi produite naturellement par l'embryon après nidation (maintient le corps jaune) → détectée par les **tests de grossesse**
 
 ---
 

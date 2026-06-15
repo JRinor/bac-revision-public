@@ -77,14 +77,15 @@ Ces liquides permettent la survie et le déplacement des spermatozoïdes.
 ## 10. Décrire la structure d'un spermatozoïde.
 
 ### Réponse :
-Le spermatozoïde est composé de :
-- Une **membrane cytoplasmique**
-- Un **acrosome** (contient des enzymes utiles lors de la fécondation)
-- Un **noyau** (contenant l'ADN)
-- Un **cytoplasme**
-- Des **mitochondries** (fournissent l'énergie pour la mobilité)
-- Une **pièce intermédiaire**
-- Un **flagelle** (50 µm — permet le déplacement)
+Le spermatozoïde est organisé en **3 parties** :
+
+| Partie | Composants | Rôle |
+|---|---|---|
+| **Tête** | Acrosome + Noyau (ADN) + Membrane cytoplasmique | Acrosome : enzymes pour percer l'ovocyte. Noyau : transmet l'ADN paternel. |
+| **Pièce intermédiaire** | Mitochondries | Produit l'énergie (ATP) nécessaire pour faire battre le flagelle |
+| **Flagelle** | Filament de 50 µm | Propulse le spermatozoïde dans les voies génitales |
+
+💡 **Pièce intermédiaire** = la partie entre la tête et le flagelle (comme un "cou"). C'est là que sont concentrées les **mitochondries** — le moteur du spermatozoïde. Sans elles, pas de mouvement possible.
 
 ---
 

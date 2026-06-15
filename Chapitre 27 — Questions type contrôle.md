@@ -179,9 +179,20 @@ Chaque individu provient de la fusion d'un spermatozoïde et d'un ovocyte. Si ch
 ## 20. Définir la méiose et citer ses deux divisions.
 
 ### Réponse :
-La méiose est l'ensemble des étapes permettant, à partir d'une cellule **diploïde (46 chromosomes)**, d'obtenir **4 cellules haploïdes (23 chromosomes)**. Elle comprend deux divisions successives :
-- **Méiose I** : division réductionnelle
-- **Méiose II** : division équationnelle
+La méiose est l'ensemble des étapes permettant, à partir d'une cellule **diploïde (46 chromosomes)**, d'obtenir **4 cellules haploïdes (23 chromosomes)**.
+
+Elle comprend **2 divisions successives** :
+
+| Division | Nom | Ce qu'elle fait |
+|---|---|---|
+| **Méiose I** | Division **réductionnelle** | Divise par 2 le nombre de chromosomes : 46 → 23. C'est là que les paires de chromosomes se séparent. |
+| **Méiose II** | Division **équationnelle** | Divise les chromatides comme une mitose classique. 23 → encore 23 (le nombre ne change pas, mais les cellules se séparent à nouveau). |
+
+💡 **Pour retenir :**
+- **Réductionnelle** = ça **réduit** le nombre de chromosomes (46 → 23)
+- **Équationnelle** = ça **équilibre** les deux cellules obtenues (comme une mitose, le nombre reste pareil)
+
+💡 **Résultat final :** 1 cellule de départ (46 chr) → **4 cellules** (23 chr chacune)
 
 ---
 

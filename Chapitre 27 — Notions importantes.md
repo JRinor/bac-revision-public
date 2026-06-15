@@ -92,7 +92,7 @@ Regroupés au niveau de la **vulve** : grandes lèvres et petites lèvres (qui p
 
 > 📷 *Schéma du prof — Anatomie de l'appareil reproducteur féminin (coupe coronale et sagittale)*
 >
-> ![Anatomie de l'appareil reproducteur féminin (coupe coronale et sagittale)](image2/6.jpg)
+> ![Anatomie de l'appareil reproducteur féminin (coupe coronale et sagittale)](image2/5.jpg)
 
 
 ---
@@ -124,7 +124,7 @@ Regroupés au niveau de la **vulve** : grandes lèvres et petites lèvres (qui p
 
 > 📷 *Schéma du prof — Différentes étapes de la méiose*
 >
-> ![Différentes étapes de la méiose](image2/10.jpg)
+> ![Différentes étapes de la méiose](image2/9.jpg)
 
 
 ---
@@ -149,7 +149,7 @@ Regroupés au niveau de la **vulve** : grandes lèvres et petites lèvres (qui p
 
 > 📷 *Schéma du prof — Histologie du testicule (Doc 7)*
 >
-> ![Histologie du testicule (Doc 7)](image2/10.jpg)
+> ![Histologie du testicule (Doc 7)](image2/9.jpg)
 
 
 ### Étapes de la spermatogenèse (2 phases)
@@ -165,7 +165,7 @@ Regroupés au niveau de la **vulve** : grandes lèvres et petites lèvres (qui p
 
 > 📷 *Schéma du prof — Différentes étapes de la spermatogenèse*
 >
-> ![Différentes étapes de la spermatogenèse](image2/12.jpg)
+> ![Différentes étapes de la spermatogenèse](image2/11.jpg)
 
 
 ---
@@ -197,7 +197,7 @@ Si pas de fécondation → corps jaune **dégénère**.
 
 > 📷 *Schéma du prof — Histologie de l'ovaire, folliculogenèse et différentes étapes de l'ovogenèse*
 >
-> ![Histologie de l'ovaire, folliculogenèse et différentes étapes de l'ovogenèse](image2/13.jpg)
+> ![Histologie de l'ovaire, folliculogenèse et différentes étapes de l'ovogenèse](image2/12.jpg)
 
 
 ### 7.2 Étapes de l'ovogenèse
@@ -226,3 +226,4 @@ Si pas de fécondation → corps jaune **dégénère**.
 - Follicule de De Graaf → ovulation au **14ème jour** (pour un cycle de 28 jours) = **14 jours avant les règles suivantes**
 - Corps jaune → progestérone
 - Ménopause = arrêt définitif des règles
+  

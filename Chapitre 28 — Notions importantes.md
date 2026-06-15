@@ -38,7 +38,7 @@ Les spermatozoïdes rencontrent plusieurs **obstacles** :
 
 > 📷 *Schéma du prof — Trajet des gamètes et étapes de la fécondation*
 >
-> ![Trajet des gamètes et étapes de la fécondation](image2/15.jpg)
+> ![Trajet des gamètes et étapes de la fécondation](image2/14.jpg)
 
 
 ### 2.4 Rencontre des gamètes : fécondation
@@ -66,7 +66,7 @@ La cellule œuf se divise par **mitoses** successives tout en migrant dans la tr
 
 > 📷 *Schéma du prof — De la fécondation à la nidation, et de l'embryon au fœtus*
 >
-> ![De la fécondation à la nidation, et de l'embryon au fœtus](image2/17.jpg)
+> ![De la fécondation à la nidation, et de l'embryon au fœtus](image2/16.jpg)
 
 
 #### Nidation
@@ -112,7 +112,7 @@ La circulation sanguine maternelle entre en contact avec la circulation fœtale 
 
 > 📷 *Schéma du prof — Placenta et circulation materno-fœtale — barrière sélective*
 >
-> ![Placenta et circulation materno-fœtale — barrière sélective](image2/19.jpg)
+> ![Placenta et circulation materno-fœtale — barrière sélective](image2/18.jpg)
 
 
 ### 3.3 Le placenta : une barrière sélective ⚠️

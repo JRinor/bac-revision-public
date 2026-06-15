@@ -119,9 +119,20 @@ Les trompes de Fallope servent au transport et à la rencontre des gamètes. Leu
 ## 14. Décrire la structure de l'utérus.
 
 ### Réponse :
-L'utérus est un organe creux musculeux de la taille d'une petite poire renversée. Il est formé de 2 parties : le corps et le col de l'utérus (qui débouche dans le vagin). Il est composé de :
-- L'**endomètre** (couche interne) : évolue au cours du cycle ; éliminé lors des règles s'il n'y a pas de grossesse.
-- Le **myomètre** (couche externe) : muscles lisses qui se contractent au moment de l'accouchement et en début de cycle pour expulser l'endomètre.
+L'utérus est un organe **creux** et **musculeux**, de la taille d'une petite poire renversée. C'est là que se développe le bébé pendant la grossesse.
+
+**2 parties :**
+- Le **corps** : la partie principale, large, où s'implante l'embryon
+- Le **col** : la partie basse, étroite, qui débouche dans le vagin (c'est par là que sort le bébé à l'accouchement)
+
+**2 couches dans la paroi :**
+
+| Couche | Nom | Rôle |
+|---|---|---|
+| Interne | **Endomètre** | Muqueuse qui s'épaissit chaque mois pour accueillir un éventuel embryon. Si pas de grossesse → elle est éliminée = **les règles** |
+| Externe | **Myomètre** | Muscle lisse épais. Se contracte à l'accouchement pour expulser le bébé, et en début de cycle pour évacuer l'endomètre |
+
+💡 **Moyen mnémo :** **Endo**mètre = couche **interne** (endo = dedans) / **Myo**mètre = muscle (myo = muscle)
 
 ---
 

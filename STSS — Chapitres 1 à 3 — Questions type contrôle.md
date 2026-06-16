@@ -250,4 +250,84 @@ C'est un diagnostic réalisé avec plusieurs acteurs locaux (= **diagnostic part
 - **Précarité** : instabilité des conditions de vie (emploi, logement, ressources), facteur de fragilisation.
 - **Exclusion sociale** : situation de marginalisation, sans accès aux droits sociaux, avec rupture des liens avec la société.
 
-✅ **Il est important de retenir :** pauvreté (manque de ressources) → pré
+✅ **Il est important de retenir :** pauvreté (manque de ressources) → précarité (instabilité) → exclusion (rupture des liens, marginalisation) : une gradation.
+
+---
+
+## 24. Quelles sont les obligations issues de la loi du 29 juillet 1998 relative à la lutte contre les exclusions ?
+
+### Réponse :
+La loi vise à garantir sur tout le territoire l'**accès effectif de tous aux droits fondamentaux** (emploi, logement, protection de la santé, justice, formation et culture, protection de la famille et de l'enfance). Les pouvoirs publics ont l'**obligation** de mettre en œuvre les moyens nécessaires pour **informer et accompagner** les individus sur leurs droits, dans les délais les plus rapides.
+
+✅ **Il est important de retenir :** loi de 1998 = obligation d'informer et d'accompagner pour l'accès effectif aux droits fondamentaux.
+
+---
+
+## 25. Définir le non-recours aux droits. Quels en sont les facteurs ?
+
+### Réponse :
+Le non-recours désigne la situation de personnes **éligibles** à des aides sociales mais qui n'en bénéficient **pas**, malgré les obligations d'information et d'accompagnement des pouvoirs publics.
+
+**Facteurs individuels** : méconnaissance des dispositifs, coût et complexité d'accès, effet **stigmatisant**.
+**Facteurs institutionnels** : multiplicité des dispositifs, conditions d'accès complexes à comprendre.
+
+✅ **Il est important de retenir :** non-recours = éligible mais ne bénéficie pas de l'aide ; causes individuelles (méconnaissance, stigmatisation) et institutionnelles (complexité).
+
+---
+
+## 26. Qu'est-ce que l'urgence sociale ? Citer les dispositifs qui la composent.
+
+### Réponse :
+L'urgence sociale est un mode d'intervention apportant une réponse **ponctuelle** à des situations mettant en jeu l'**intégrité physique** des individus. Elle est **temporaire** et ne traite pas le problème **sur le fond**.
+
+Le **dispositif de veille sociale** comprend : le **SIAO** (coordination), le **115** (appel téléphonique sans-abri), des **structures d'accueil de jour**, des **CHRS** (centres d'hébergement et de réinsertion sociale), et des **maraudes** (équipes mobiles, notamment en hiver).
+
+✅ **Il est important de retenir :** urgence sociale = ponctuelle, intégrité physique ; dispositifs clés = SIAO, 115, CHRS, maraudes.
+
+---
+
+## 27. En quoi le RSA est-il un dispositif « dans la durée » ?
+
+### Réponse :
+Le RSA est un dispositif d'**accompagnement social et professionnel** qui facilite l'accès à l'emploi. Retrouver un emploi pour des personnes qui en sont éloignées nécessite du **temps** : il faut d'abord régler les **problèmes périphériques à l'emploi** (santé, addiction, logement, formation), puis, dans un second temps seulement, rechercher un emploi.
+
+✅ **Il est important de retenir :** RSA = dispositif dans la durée car il faut régler les problèmes périphériques avant de retrouver un emploi.
+
+---
+
+## 28. Expliquer pourquoi les dispositifs d'urgence et les dispositifs dans la durée sont complémentaires.
+
+### Réponse :
+Les interventions d'**urgence** sont incontournables dès lors que des personnes sont exposées à des menaces vitales ou touchées dans leur dignité ; elles permettent en outre de **repérer** les personnes en difficulté.
+
+L'accompagnement dans la **durée** permet ensuite à l'individu de se **réinsérer progressivement** dans la vie sociale et professionnelle (logement, emploi…) et de retrouver une **autonomie sociale**. L'objectif n'est plus seulement de répondre à une nécessité vitale, mais de retisser des liens sociaux durables.
+
+✅ **Il est important de retenir :** urgence = repérer + sécuriser sur l'instant ; durée = réinsérer durablement ; les deux sont complémentaires.
+
+---
+
+## 29. Présenter la grille d'analyse à utiliser pour étudier un dispositif s'inscrivant dans une politique sociale.
+
+### Réponse :
+- **Politique de rattachement** : à quelle politique sociale appartient le dispositif ?
+- **Public visé** : qui sont les bénéficiaires (critères d'éligibilité) ?
+- **Objectifs** : quel besoin/problème social cherche-t-il à résoudre ?
+- **Acteurs et financement** : qui met en œuvre et qui finance ?
+- **Modalités d'action** : comment agit concrètement le dispositif ?
+- **Intérêt et limites** : quels apports, quelles limites (accessibilité, conditions…) ?
+
+✅ **Il est important de retenir :** politique de rattachement, public visé, objectifs, acteurs/financement, modalités d'action, intérêt/limites — les 6 points de la grille.
+
+---
+
+## 30. Méthode : comment montrer la complémentarité de plusieurs dispositifs ou politiques face à un même problème social ?
+
+### Réponse :
+1. Identifier le **problème social** commun traité.
+2. Présenter **chaque dispositif/politique** séparément (objectifs, public, acteurs).
+3. Montrer qu'ils interviennent à des **niveaux différents** ou sur des **aspects différents** du problème (ex. urgence vs durée ; santé vs social ; national vs local).
+4. Conclure sur le fait qu'**aucun des deux seul** ne suffirait à traiter le problème dans son ensemble → leur **articulation** est nécessaire.
+
+⚠️ C'est un type de question très fréquent au bac STSS : il ne s'agit pas d'opposer les dispositifs, mais de montrer qu'ils se **complètent**.
+
+✅ **Il est important de retenir :** problème commun → présenter chaque dispositif → montrer qu'ils agissent à des niveaux/aspects différents → conclure sur leur articulation nécessaire.

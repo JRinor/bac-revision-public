@@ -101,6 +101,8 @@ Une politique transversale est **interministérielle** (élaborée avec plusieur
 
 *Exemple : la politique en faveur de la jeunesse, qui mobilise éducation, logement, santé, emploi…*
 
+💡 **En clair :** une politique "transversale", c'est une politique qui touche à plein de domaines à la fois, donc qui ne peut pas être gérée par un seul ministère ou un seul acteur. Par exemple, pour aider les jeunes, il faut s'occuper à la fois de leur logement, de leur santé, de leur emploi, de leur formation... Du coup, plusieurs ministères (interministérielle) et plusieurs acteurs (État, région, associations... = partenariale) doivent travailler ensemble. Et le public visé n'est pas une catégorie bien précise mais un ensemble flou et large de personnes concernées par ces différents problèmes.
+
 ✅ **Il est important de retenir :** transversale = interministérielle + partenariale, pour un public aux contours flous.
 
 ---
@@ -248,11 +250,4 @@ C'est un diagnostic réalisé avec plusieurs acteurs locaux (= **diagnostic part
 - **Précarité** : instabilité des conditions de vie (emploi, logement, ressources), facteur de fragilisation.
 - **Exclusion sociale** : situation de marginalisation, sans accès aux droits sociaux, avec rupture des liens avec la société.
 
-✅ **Il est important de retenir :** pauvreté (manque de ressources) → précarité (instabilité) → exclusion (rupture des liens, marginalisation) : une gradation.
-
----
-
-## 24. Quelles sont les obligations issues de la loi du 29 juillet 1998 relative à la lutte contre les exclusions ?
-
-### Réponse :
-La loi vise à garantir sur tout le territoire l'**accès effectif de tous aux droits fondamentaux** (emploi, logement, protection de la santé, justice, formation et culture, protection de la famille et de l'enfance). Les pouvoirs publics ont l'**obligation** de mettre en œuvre les moyens nécessaires pour **informer et accompagner** les individus sur leurs droits, dans les délais les plus 
+✅ **Il est important de retenir :** pauvreté (manque de ressources) → pré

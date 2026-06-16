@@ -10,19 +10,9 @@
 
 ## 1. Chapitre 1 — Origine et évolution des politiques sociales
 
-### 1.1 Repères historiques
-
-- **Antiquité** : premières formes d'aide sociale, pour éviter les violences liées aux famines et permettre aux plus démunis de se nourrir.
-- **Charité** (œuvre de l'Église) → **assistance / bienfaisance** au 19^e siècle (apparition des **bureaux de bienfaisance**, aide plus large).
-- Le principe de **solidarité** s'inscrit progressivement dans les **textes de loi** (famille, emploi, santé) → on parle alors de **solidarité nationale**, qui devient la responsabilité de l'**État**.
-
-### 1.2 Définitions clés
+### 1.1 Définitions clés
 
 **Politique sociale** : ensemble d'actions qui assurent la **protection des travailleurs** et garantissent un **minimum de bien-être** aux individus, en réduisant les inégalités liées aux différences de situation entre individus.
-
-**État providence (ou État social)** : fondé sur le principe de **solidarité** ; désigne l'ensemble des actions de l'État dans le domaine social pour garantir un niveau minimum de bien-être à la population. L'assistance aux plus démunis devient une **obligation légale**.
-
-**Cohésion sociale** : création de liens sociaux entre les membres d'un groupe ; fait de « faire tenir ensemble » les différentes composantes de la société. Favorise l'intégration des individus, leur attachement au groupe et leur participation à la vie sociale (valeurs et règles communes acceptées par chacun).
 
 **Solidarité** : logique de **redistribution**, liée à l'assistance et aux différents modes d'intervention ; protège les individus contre certains risques (maladie, chômage…).
 

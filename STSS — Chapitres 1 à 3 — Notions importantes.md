@@ -18,14 +18,14 @@
 
 ⚠️ **À ne pas confondre** : la solidarité est le **principe** sur lequel s'appuie la cohésion sociale ; la cohésion sociale est le **résultat recherché** (renforcer les liens sociaux, éviter l'exclusion).
 
-### 1.3 Domaines d'intervention des politiques sociales
+### 1.2 Domaines d'intervention des politiques sociales
 
 Les politiques sociales agissent pour améliorer les conditions de vie dans trois grands domaines :
 - le **travail** (conditions de travail)
 - la **protection sociale** (couverture des risques sociaux)
 - la **formation professionnelle et l'emploi** (aide à l'insertion)
 
-### 1.4 La pauvreté : constat et évolution de la prise en charge
+### 1.3 La pauvreté : constat et évolution de la prise en charge
 
 **Constat du père Joseph Wresinski** : la pauvreté a des **origines multiples** (multifactorielle) et certains facteurs **se transmettent de génération en génération** (santé fragile, illettrisme, absence de qualification, logement insalubre…). Les facteurs de pauvreté **se cumulent et se transmettent**.
 
@@ -37,7 +37,7 @@ Les politiques sociales agissent pour améliorer les conditions de vie dans troi
 
 - **Revenu minimum** déjà existant : **SMIC** (travailleurs) et **RSA** (personnes sans emploi, sous conditions).
 
-### 1.5 Les quatre caractéristiques des politiques sociales actuelles ⚠️
+### 1.4 Les quatre caractéristiques des politiques sociales actuelles ⚠️
 
 C'est l'une des notions les **plus demandées** au bac (souvent via l'analyse d'une politique sociale donnée en document).
 

@@ -2,6 +2,22 @@
 
 > Pistes relevées en relecture. À décider ensemble : ce qu'on applique au texte et au plan mémo. Rien n'est encore intégré.
 
+## 0. Durée de l'exposé — TROP COURT (priorité haute)
+
+**Problème** : l'exposé doit durer 10 min. Or, à l'oral (≈ 135 mots/min) :
+- **Q1 : ~824 mots → ~6 min.** Nettement trop court.
+- **Q2 : ~1052 mots → ~8 min.** Un peu juste.
+
+Un exposé de 6 min serait pénalisé sur le critère « tirer pleinement profit du temps » de la grille.
+
+**Pistes pour allonger la Q1 avec du contenu utile (pas du remplissage)** :
+- Expliciter la distinction **consommateur / victime** (voir point 2 ci-dessous) → ajoute du fond et de la durée.
+- Développer le **mécanisme des deepfakes** : à quel point les outils IA sont devenus accessibles, rapides et gratuits.
+- Étoffer la partie **loi / prévention** : fonctionnement de la vérification d'âge, raisons du contournement, loi SREN 2024 (à confirmer, voir « À vérifier »).
+- Ajouter un risque IA-spécifique : la **pédopornographie générée par IA**.
+
+**Pour la Q2** : quelques ajouts ciblés en partie II (conséquences documentées) suffiraient à approcher les 10 min.
+
 ## 1. Resserrer le lien IA ↔ chiffre ARCOM (priorité)
 
 **Problème** : le sujet porte sur l'IA dans la porno, mais le « 2,3 millions de mineurs/mois » concerne la pornographie en général, pas l'IA. Un jury peut demander : « où est l'IA dans ce chiffre ? »

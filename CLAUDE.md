@@ -21,17 +21,19 @@
 
 ### 1. Préparation (20 min)
 
-Je ne sais pas à l'avance laquelle des deux questions sera choisie par le jury : je dois donc préparer des notes pour **les deux questions**, pas une seule. C'est pendant ce temps que je prépare mes notes/brouillon pour l'exposé.
+Je ne sais pas à l'avance laquelle des deux questions sera choisie par le jury : je dois donc préparer des notes pour **les deux questions**, pas une seule. C'est pendant ce temps que je prépare mon support écrit pour l'exposé (notes, plan, mots-clés, idées directrices).
 
 ### 2. Le jury choisit une des deux questions
 
 ### 3. Exposé (10 min)
 
-Debout, sans notes, je présente la question tirée et ma réponse argumentée. Le jury n'interrompt pas.
+Debout, je présente la question tirée et ma réponse argumentée. Le jury n'interrompt pas.
+
+J'ai le droit de m'appuyer sur le support écrit préparé pendant les 20 min (notes, plan, mots-clés, idées directrices, éventuellement schéma/tableau) — ce n'est pas une épreuve "sans notes". Je peux montrer ce support au jury mais pas le lui remettre ; il ne peut ni le garder ni l'évaluer. L'objectif reste de ne pas le lire mot à mot : il doit servir de fil conducteur, pas de texte récité (cf. les plans mémorisables).
 
 ### 4. Entretien (10 min)
 
-Le jury pose des questions principalement sur le texte que j'ai récité (l'exposé), et éventuellement un peu sur mon projet d'orientation. J'ai le droit d'utiliser le **tableau** pour répondre/illustrer mes réponses pendant cette partie.
+Le jury pose des questions principalement sur le texte que j'ai présenté (l'exposé), et éventuellement un peu sur mon projet d'orientation. Je peux aussi m'appuyer sur mon support pendant cette partie, et j'ai le droit d'utiliser le **tableau** pour répondre/illustrer mes réponses. Le jury ne peut pas me demander d'écrire (ni sur une feuille, ni au tableau) pour répondre à des questions ou faire des exercices.
 
 **Jury** : généralement 2 personnes (prof de spécialité + un autre membre).
 
@@ -59,8 +61,8 @@ Contenu du dossier `Grand Oral/` à ce jour :
 - [ ] Relire et fact-checker le texte de la Question 2 (comme fait pour Q1)
 - [ ] Plan mémorisable (mots-clés) pour la Question 2
 - [ ] Lien clair entre chaque question et mon projet d'orientation (pas encore fait, à faire en priorité)
-- [ ] Anticiper 5-6 questions probables du jury sur chaque sujet (texte récité + un peu d'orientation)
-- [ ] S'entraîner à voix haute, debout, sans notes, chronométré (10 min) pour chaque question
+- [ ] Anticiper 5-6 questions probables du jury sur chaque sujet (texte présenté + un peu d'orientation)
+- [ ] S'entraîner à voix haute, debout, support sous les yeux mais sans le lire mot à mot, chronométré (10 min) pour chaque question
 - [ ] Réfléchir à ce que je pourrais utiliser/écrire au tableau pendant l'entretien
 
 ---

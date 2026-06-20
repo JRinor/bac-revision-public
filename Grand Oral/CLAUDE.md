@@ -42,4 +42,4 @@ Le jury pose des questions principalement sur le texte que j'ai présenté (l'ex
 - Clarté et structure du propos (plus que la quantité d'infos)
 - Capacité à argumenter, à rester calme même sans réponse parfaite
 - Aisance à l'oral : regarder le jury, articuler, ne pas réciter par cœur
-- Voir aussi `Grand Oral/Grille d'évaluation officielle.md` pour les critères précis du jury (qualité orale, prise de parole en continu, connaissances, interaction, argumentation)
+- Voir aussi `Grand Oral/Commun/Grille d'évaluation officielle.md` pour les critères précis du jury (qualité orale, prise de parole en continu, connaissances, interaction, argumentation)

@@ -11,10 +11,13 @@ Dans le cadre de ma démarche d'étude, j'ai mené une recherche
 documentaire à partir de sources institutionnelles et d'articles
 spécialisés. Selon l'ARCOM, environ 2,3 millions de mineurs consultent
 chaque mois des sites pornographiques en France. L'apparition de
-nouvelles technologies, comme les ***deepfakes*** pornographiques créés
-grâce à l'intelligence artificielle, soulève de nombreuses
-interrogations concernant la protection des jeunes, le respect du
-consentement et les conséquences sur la santé mentale.
+nouvelles technologies, comme les ***deepfakes*** pornographiques —
+des images ou vidéos truquées grâce à l'intelligence artificielle, qui
+font apparaître le visage d'une personne réelle dans une scène à
+caractère sexuel qu'elle n'a jamais réalisée, sans son consentement —
+soulève de nombreuses interrogations concernant la protection des
+jeunes, le respect du consentement et les conséquences sur la santé
+mentale.
 
 Cette situation relève du champ de la santé publique car elle concerne
 une population vulnérable, les adolescents, et mobilise différents
@@ -95,14 +98,25 @@ une action s'appuie sur une loi du 30 juillet 2020, qui impose aux sites
 pornographiques la mise en œuvre d'un dispositif fiable de vérification
 de l'âge des utilisateurs, sous peine de lourdes sanctions. L'ARCOM
 participe notamment au contrôle de ces mesures visant à mieux protéger
-les jeunes sur Internet.
+les jeunes sur Internet. Cette loi vise toutefois l'accès aux sites
+pornographiques classiques, et ne traite pas spécifiquement des
+deepfakes évoqués en première partie.
+
+C'est une loi plus récente, la loi SREN du 21 mai 2024, qui apporte une
+réponse ciblée sur ce point : elle crée un article spécifique du code
+pénal (226-8-1) sanctionnant la diffusion, sans consentement, d'un
+deepfake à caractère sexuel, jusqu'à trois ans d'emprisonnement et
+75 000 euros d'amende lorsque l'infraction est commise en ligne.
+Cette loi comporte cependant une limite : elle punit la diffusion d'un
+deepfake, mais pas sa simple création tant qu'il n'est pas rendu public,
+ce qui laisse subsister une zone grise.
 
 L'éducation à la sexualité et l'éducation au numérique constituent des
 actions de prévention importantes. Elles permettent de développer
 l'esprit critique des jeunes, de sensibiliser au respect du consentement
 et de prévenir les risques liés aux usages du numérique.
 
-Toutefois, l'analyse de la situation montre également certaines limites.
+Toutefois, l'analyse de la situation montre également d'autres limites.
 Les avancées technologiques rendent ces mesures parfois plus faciles à
 contourner. En effet, l'utilisation d'outils, comme un VPN qui est très
 facile d'accès pour tous, permet de contourner les restrictions de

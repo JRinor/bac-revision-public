@@ -10,14 +10,14 @@ facilement accessible, y compris pour les mineurs.
 Dans le cadre de ma démarche d'étude, j'ai mené une recherche
 documentaire à partir de sources institutionnelles et d'articles
 spécialisés. Selon l'ARCOM, environ 2,3 millions de mineurs consultent
-chaque mois des sites pornographiques en France. L'apparition de
-nouvelles technologies, comme les ***deepfakes*** pornographiques —
-des images ou vidéos truquées grâce à l'intelligence artificielle, qui
-font apparaître le visage d'une personne réelle dans une scène à
-caractère sexuel qu'elle n'a jamais réalisée, sans son consentement —
-soulève de nombreuses interrogations concernant la protection des
-jeunes, le respect du consentement et les conséquences sur la santé
-mentale.
+chaque mois des sites pornographiques en France. À cela s'ajoute
+l'apparition de nouvelles technologies, comme les ***deepfakes***
+pornographiques. Il s'agit d'images ou de vidéos truquées grâce à
+l'intelligence artificielle, qui font apparaître le visage d'une
+personne réelle dans une scène à caractère sexuel qu'elle n'a jamais
+réalisée, sans son consentement. Cela soulève de nombreuses
+interrogations concernant la protection des jeunes, le respect du
+consentement et les conséquences sur la santé mentale.
 
 Cette situation relève du champ de la santé publique car elle concerne
 une population vulnérable, les adolescents, et mobilise différents
@@ -29,7 +29,7 @@ individus.
 Dans un premier temps, j'ai cherché à comprendre l'ampleur du phénomène
 à travers les données recueillies.
 
-Les documents consultés montrent qu'une part importante des jeunes est
+Premier constat : une part importante des jeunes est
 exposée à la pornographie en ligne. Selon l'ARCOM, **plus d'un mineur
 sur trois consulte chaque mois des sites pornographiques en France**,
 soit environ **2,3 millions de mineurs par mois**. Cette exposition est
@@ -39,7 +39,7 @@ sites au moins une fois par mois, et cette proportion atteint près des
 contexte marqué par une utilisation de plus en plus précoce des
 téléphones portables, des réseaux sociaux et des outils numériques.
 
-L'analyse des documents met également en évidence l'apparition de
+À ces chiffres s'ajoute un phénomène plus récent : l'apparition de
 nouveaux contenus créés grâce à l'intelligence artificielle, notamment
 les ***deepfakes*** pornographiques. Ces contenus permettent de produire
 des images ou des vidéos à caractère sexuel représentant une personne
@@ -52,7 +52,7 @@ la vie quotidienne, l'accessibilité croissante des outils d'intelligence
 artificielle, le manque d'éducation au numérique ainsi que l'utilisation
 intensive des réseaux sociaux par les adolescents.
 
-Ainsi, les documents analysés montrent que cette problématique ne relève
+On voit donc que cette problématique ne relève
 pas uniquement d'une évolution technologique mais constitue également un
 enjeu social et sanitaire touchant particulièrement les populations les
 plus vulnérables.
@@ -62,18 +62,17 @@ plus vulnérables.
 Dans un second temps, j'ai étudié les conséquences de ces pratiques sur
 la santé et le bien-être des jeunes.
 
-Les sources consultées mettent en évidence plusieurs répercussions
-possibles sur la santé mentale des victimes de ***deepfakes***
-pornographiques. Ces personnes peuvent développer de l'anxiété, une
+Sur la santé mentale des victimes de ***deepfakes***
+pornographiques, plusieurs répercussions reviennent régulièrement dans les sources consultées. Ces personnes peuvent développer de l'anxiété, une
 perte d'estime de soi, un sentiment de honte ou encore un isolement
 social.
 
-L'analyse montre également que ces situations peuvent favoriser le
+Au-delà de l'aspect psychologique, ces situations peuvent favoriser le
 cyberharcèlement et entraîner des difficultés scolaires, relationnelles
 ou familiales. Même lorsque les contenus sont entièrement artificiels,
 les conséquences psychologiques pour les victimes restent réelles.
 
-Par ailleurs, les documents étudiés soulignent que les femmes et les
+Par ailleurs, on constate que les femmes et les
 jeunes filles sont particulièrement exposées à ce type de violences
 numériques. Cette situation contribue à renforcer certaines inégalités
 de genre ainsi que certaines formes de violence en ligne.
@@ -87,7 +86,7 @@ ce qui justifie l'intervention des acteurs de santé publique.
 Enfin, j'ai analysé les réponses apportées par les pouvoirs publics et
 les différents acteurs concernés.
 
-Les documents étudiés montrent que la protection des jeunes face aux
+La protection des jeunes face aux
 risques liés à la pornographie et à l'intelligence artificielle mobilise
 plusieurs acteurs : l'État, l'ARCOM, l'Éducation nationale, les
 associations de prévention, les professionnels de santé ainsi que les
@@ -116,7 +115,7 @@ actions de prévention importantes. Elles permettent de développer
 l'esprit critique des jeunes, de sensibiliser au respect du consentement
 et de prévenir les risques liés aux usages du numérique.
 
-Toutefois, l'analyse de la situation montre également d'autres limites.
+Toutefois, d'autres limites apparaissent.
 Les avancées technologiques rendent ces mesures parfois plus faciles à
 contourner. En effet, l'utilisation d'outils, comme un VPN qui est très
 facile d'accès pour tous, permet de contourner les restrictions de
@@ -133,7 +132,7 @@ Pour conclure, cette démarche d'étude m'a permis de montrer que le
 développement de l'intelligence artificielle dans les contenus
 pornographiques constitue un véritable enjeu de santé publique.
 
-L'analyse des documents consultés met en évidence l'apparition de
+On retient surtout l'apparition de
 nouveaux risques liés à l'intelligence artificielle dans les contenus
 pornographiques. Ces pratiques peuvent avoir des conséquences
 importantes sur la santé mentale, le bien-être et la vie sociale des

@@ -14,7 +14,7 @@ Pour répondre à cette question, je montrerai d'abord en quoi il s'agit d'un ph
 
 Dans un premier temps, j'ai cherché à comprendre l'ampleur du phénomène à travers les données recueillies.
 
-Les documents consultés montrent qu'une part importante des jeunes est exposée à la pornographie en ligne. Selon l'ARCOM, environ 2,3 millions de mineurs consultent chaque mois des sites pornographiques en France, où ils représentent près de 12 % de l'audience. Cette exposition est par ailleurs de plus en plus précoce. Elle s'inscrit dans un contexte marqué par un usage très tôt des téléphones portables, des réseaux sociaux et des outils numériques.
+Les documents consultés montrent qu'une part importante des jeunes est exposée à la pornographie en ligne. Selon l'ARCOM, environ 2,3 millions de mineurs consultent chaque mois des sites pornographiques en France. Cette exposition est par ailleurs de plus en plus précoce. Elle s'inscrit dans un contexte marqué par un usage très tôt des téléphones portables, des réseaux sociaux et des outils numériques.
 
 L'analyse des documents met également en évidence l'apparition de nouveaux contenus créés grâce à l'intelligence artificielle, notamment les deepfakes pornographiques. Ces contenus permettent de produire des images ou des vidéos à caractère sexuel représentant une personne sans son consentement, à partir d'une simple photographie accessible en ligne.
 

@@ -2,7 +2,7 @@
 
 ## Chiffres / repères à retenir
 
-- **2,3 millions** de mineurs/mois sur sites porno (ARCOM) — ≈ **12 %** de l'audience
+- **2,3 millions** de mineurs/mois sur sites porno (ARCOM)
 - Exposition **de plus en plus précoce**
 - **Deepfake** = image/vidéo sexuelle truquée par IA, **sans consentement**, à partir d'une simple photo
 - **Loi du 30 juillet 2020** → vérification de l'âge obligatoire, contrôle ARCOM
@@ -23,7 +23,7 @@
 
 → *« D'abord, l'ampleur du phénomène… »*
 
-- 2,3 M/mois, 12 % audience, exposition précoce
+- 2,3 M/mois, exposition précoce
 - Contexte : téléphone, réseaux sociaux, numérique tôt
 - **Deepfakes** = image sexuelle sans consentement, à partir d'une photo
 - **Déterminants** : omniprésence du numérique / outils IA accessibles / manque d'éducation au numérique / usage intensif réseaux sociaux

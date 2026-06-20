@@ -1,7 +1,3 @@
-# **En quoi le développement de l'intelligence artificielle dans les contenus pornographiques constitue-t-il un enjeu de santé publique pour la protection des jeunes ?**
-
-## Introduction
-
 J'ai choisi ce sujet parce que l'intelligence artificielle est
 aujourd'hui partout, surtout sur Internet et les réseaux sociaux. Et en
 même temps, la pornographie en ligne est devenue beaucoup plus facile
@@ -21,8 +17,6 @@ consentement, et les conséquences sur la santé mentale.
 C'est pour ça que ça relève de la santé publique : ça touche une
 population vulnérable, les adolescents, et ça mobilise plusieurs
 acteurs — la prévention, l'éducation, la protection des individus.
-
-## I. Un phénomène numérique en expansion qui favorise l'exposition des jeunes à de nouveaux risques
 
 Dans un premier temps, j'ai voulu comprendre l'ampleur du phénomène.
 
@@ -51,8 +45,6 @@ Donc on voit que ce n'est pas juste une question de technologie : c'est
 aussi un enjeu social et sanitaire, qui touche en particulier les
 populations les plus vulnérables.
 
-## II. Des conséquences sur la santé mentale et la vie sociale des jeunes
-
 Dans un second temps, je me suis intéressé aux conséquences de tout ça
 sur la santé et le bien-être des jeunes.
 
@@ -75,8 +67,6 @@ violence en ligne.
 Donc on le voit : les conséquences touchent à la fois la santé mentale,
 la vie sociale, l'intégration des jeunes — et c'est justement pour ça
 que les acteurs de santé publique doivent intervenir.
-
-## III. Les réponses des acteurs publics face à un enjeu de santé publique
 
 Enfin, je me suis demandé comment les pouvoirs publics répondaient à ça.
 
@@ -116,8 +106,6 @@ normalement être bloqués.
 Donc on voit bien que protéger les mineurs, ça demande une approche
 globale : de la prévention, de l'éducation, de l'accompagnement des
 victimes, et de la régulation des plateformes.
-
-## Conclusion
 
 Pour conclure, ce travail m'a permis de montrer que le développement de
 l'intelligence artificielle dans les contenus pornographiques est un

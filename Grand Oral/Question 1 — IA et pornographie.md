@@ -27,11 +27,14 @@ Dans un premier temps, j'ai cherché à comprendre l'ampleur du phénomène
 à travers les données recueillies.
 
 Les documents consultés montrent qu'une part importante des jeunes est
-exposée à la pornographie en ligne. Selon l'ARCOM, **près de 40 % des
-enfants et adolescents consultent chaque mois des sites**
-pornographiques en France. Cette exposition s'inscrit dans un contexte
-marqué par une utilisation de plus en plus précoce des téléphones
-portables, des réseaux sociaux et des outils numériques.
+exposée à la pornographie en ligne. Selon l'ARCOM, **plus d'un mineur
+sur trois consulte chaque mois des sites pornographiques en France**,
+soit environ **2,3 millions de mineurs par mois**. Cette exposition est
+très précoce : dès 12 ans, plus de la moitié des garçons visitent ces
+sites au moins une fois par mois, et cette proportion atteint près des
+**deux tiers chez les 16-17 ans**. Cette exposition s'inscrit dans un
+contexte marqué par une utilisation de plus en plus précoce des
+téléphones portables, des réseaux sociaux et des outils numériques.
 
 L'analyse des documents met également en évidence l'apparition de
 nouveaux contenus créés grâce à l'intelligence artificielle, notamment
@@ -122,7 +125,4 @@ pornographiques. Ces pratiques peuvent avoir des conséquences
 importantes sur la santé mentale, le bien-être et la vie sociale des
 jeunes, tout en renforçant certaines formes de violences numériques.
 
-Face à ces enjeux, une mobilisation coordonnée des pouvoirs publics, des
-acteurs de l'éducation, des professionnels de santé et des plateformes
-numériques apparaît nécessaire afin de renforcer la prévention, la
-protection des mineurs et l'accompagnement des victimes.
+Face à ces enjeux, une mobilisation c

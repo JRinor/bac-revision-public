@@ -17,12 +17,21 @@
 
 **Question 2** : Dans quelle mesure l'exposition précoce à la pornographie constitue-t-elle un enjeu de santé publique chez les adolescents ?
 
-## Déroulé de l'épreuve (20 min)
+## Déroulé de l'épreuve
 
-1. **Tirage au sort** — j'entre, je me présente, je tire une des deux questions.
-2. **Exposé (5 à 10 min)** — debout, sans notes, je présente la question et ma réponse argumentée. Le jury n'interrompt pas.
-3. **Échange sur le fond (10 min)** — le jury approfondit, me challenge, vérifie que je maîtrise vraiment le sujet.
-4. **Échange sur mon projet d'orientation (5 min)** — lien entre la question traitée et mes études/projet après le bac.
+### 1. Préparation (20 min)
+
+Je ne sais pas à l'avance laquelle des deux questions sera choisie par le jury : je dois donc préparer des notes pour **les deux questions**, pas une seule. C'est pendant ce temps que je prépare mes notes/brouillon pour l'exposé.
+
+### 2. Le jury choisit une des deux questions
+
+### 3. Exposé (10 min)
+
+Debout, sans notes, je présente la question tirée et ma réponse argumentée. Le jury n'interrompt pas.
+
+### 4. Entretien (10 min)
+
+Le jury pose des questions principalement sur le texte que j'ai récité (l'exposé), et éventuellement un peu sur mon projet d'orientation. J'ai le droit d'utiliser le **tableau** pour répondre/illustrer mes réponses pendant cette partie.
 
 **Jury** : généralement 2 personnes (prof de spécialité + un autre membre).
 
@@ -34,8 +43,4 @@
 
 ## À préparer avant lundi
 
-- [ ] Plan détaillé de l'exposé pour la Question 1
-- [ ] Plan détaillé de l'exposé pour la Question 2
-- [ ] Lien clair entre la question et mon projet d'orientation
-- [ ] Anticiper 5-6 questions probables du jury sur chaque sujet
-- [ ] S'entraîner à voix haute, debout, sans notes, chronométré (5 à 10 min)
+- [ ] Plan détaillé de l'exposé pour la Question 1 (au cas où elle est 

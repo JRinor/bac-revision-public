@@ -8,11 +8,13 @@ Dans le cadre de ma démarche d'étude, j'ai mené une recherche documentaire à
 
 Cette situation relève du champ de la santé publique car elle concerne une population vulnérable, les adolescents, et mobilise différents acteurs chargés de la prévention, de l'éducation et de la protection des individus.
 
+Pour répondre à cette question, je montrerai d'abord en quoi il s'agit d'un phénomène numérique en expansion qui multiplie les risques pour les jeunes ; j'analyserai ensuite ses conséquences sur leur santé mentale et leur vie sociale ; enfin, j'étudierai les réponses apportées par les acteurs publics et leurs limites.
+
 ## I. Un phénomène numérique en expansion qui favorise l'exposition des jeunes à de nouveaux risques
 
 Dans un premier temps, j'ai cherché à comprendre l'ampleur du phénomène à travers les données recueillies.
 
-Les documents consultés montrent qu'une part importante des jeunes est exposée à la pornographie en ligne. Selon l'ARCOM, près de 40 % des enfants et adolescents consultent chaque mois des sites pornographiques en France. Cette exposition s'inscrit dans un contexte marqué par une utilisation de plus en plus précoce des téléphones portables, des réseaux sociaux et des outils numériques.
+Les documents consultés montrent qu'une part importante des jeunes est exposée à la pornographie en ligne. Selon l'ARCOM, environ 2,3 millions de mineurs consultent chaque mois des sites pornographiques en France, où ils représentent près de 12 % de l'audience. Cette exposition est par ailleurs de plus en plus précoce. Elle s'inscrit dans un contexte marqué par un usage très tôt des téléphones portables, des réseaux sociaux et des outils numériques.
 
 L'analyse des documents met également en évidence l'apparition de nouveaux contenus créés grâce à l'intelligence artificielle, notamment les deepfakes pornographiques. Ces contenus permettent de produire des images ou des vidéos à caractère sexuel représentant une personne sans son consentement, à partir d'une simple photographie accessible en ligne.
 
@@ -53,3 +55,5 @@ Pour conclure, cette démarche d'étude m'a permis de montrer que le développem
 L'analyse des documents consultés met en évidence l'apparition de nouveaux risques liés à l'intelligence artificielle dans les contenus pornographiques. Ces pratiques peuvent avoir des conséquences importantes sur la santé mentale, le bien-être et la vie sociale des jeunes, tout en renforçant certaines formes de violences numériques.
 
 Face à ces enjeux, une mobilisation coordonnée des pouvoirs publics, des acteurs de l'éducation, des professionnels de santé et des plateformes numériques apparaît nécessaire afin de renforcer la prévention, la protection des mineurs et l'accompagnement des victimes.
+
+On peut enfin se demander si la régulation, toujours en retard sur l'innovation, pourra suffire à elle seule, ou si la véritable protection des jeunes ne passera pas avant tout par l'éducation au numérique et au consentement, dès le plus jeune âge.

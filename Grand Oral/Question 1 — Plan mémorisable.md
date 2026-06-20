@@ -10,9 +10,11 @@ But : ne pas réciter par cœur. Retenir une **structure en 5 blocs** + **3-4 mo
 
 ## 0. Introduction — "Pourquoi ce sujet"
 
-Mots-clés : **IA croissante / pornographie accessible / 2,3 millions mineurs par mois (ARCOM) / deepfakes / consentement / santé publique**
+Mots-clés : **IA croissante / pornographie accessible / 2,3 millions mineurs par mois (ARCOM) / deepfakes = images/vidéos truquées sans consentement / santé publique**
 
 Idée à garder : je choisis ce sujet car l'IA est partout, la pornographie est facilement accessible aux mineurs, et de nouveaux outils (deepfakes) créent de nouveaux risques → ça concerne une population vulnérable → donc c'est un enjeu de santé publique.
+
+Définition à glisser naturellement la première fois que je dis "deepfake" : *"un deepfake, c'est une image ou une vidéo truquée par l'IA qui fait croire qu'une personne réelle apparaît dans une scène qu'elle n'a jamais vécue, sans son consentement."*
 
 ---
 
@@ -38,11 +40,13 @@ Phrase-pivot : "même si le contenu est faux, la souffrance est réelle — anxi
 
 ## III. Réponses des acteurs publics — et leurs limites
 
-Mots-clés : **ARCOM / loi du 30 juillet 2020 / vérification de l'âge / Éducation nationale / éducation à la sexualité et au numérique / LIMITE : VPN, contournement facile**
+Mots-clés : **ARCOM / loi du 30 juillet 2020 = vérification de l'âge sur les sites / loi SREN 21 mai 2024, art. 226-8-1 = sanctionne la diffusion de deepfakes sexuels (3 ans / 75 000€ en ligne) / LIMITE SREN : punit la diffusion, pas la création / Éducation nationale / éducation à la sexualité et au numérique / LIMITE technique : VPN, contournement facile**
 
-Fil : *qui agit (acteurs) → comment (loi + prévention) → mais ça suffit pas (limite technique)*
+Fil : *qui agit (acteurs) → 2 lois différentes (2020 = âge sur les sites, SREN 2024 = deepfakes spécifiquement) → éducation → mais ça suffit pas (limites légale + technique)*
 
-Phrase-pivot : "la loi de 2020 oblige les sites à vérifier l'âge, l'ARCOM contrôle, l'école éduque — mais un simple VPN permet de contourner ça."
+Phrase-pivot : "la loi de 2020 oblige les sites à vérifier l'âge, mais elle ne traite pas les deepfakes — c'est la loi SREN de 2024 qui s'en occupe, en sanctionnant leur diffusion sans consentement. Mais elle ne punit pas la simple création, et un VPN permet de contourner les restrictions."
+
+⚠️ Piège possible du jury : "la loi de 2020 s'applique-t-elle aux deepfakes ?" → Non, c'est bien la distinction à avoir en tête (2020 = accès aux sites / SREN 2024 = deepfakes).
 
 ---
 

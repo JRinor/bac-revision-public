@@ -43,4 +43,10 @@ Le jury pose des questions principalement sur le texte que j'ai récité (l'expo
 
 ## À préparer avant lundi
 
-- [ ] Plan détaillé de l'exposé pour la Question 1 (au cas où elle est 
+- [ ] Plan détaillé de l'exposé pour la Question 1 (au cas où elle est choisie)
+- [ ] Plan détaillé de l'exposé pour la Question 2 (au cas où elle est choisie)
+- [ ] Notes de préparation utilisables en 20 min pour chacune des deux questions
+- [ ] Lien clair entre la question et mon projet d'orientation
+- [ ] Anticiper 5-6 questions probables du jury sur chaque sujet (portant sur le texte récité, et un peu sur l'orientation)
+- [ ] S'entraîner à voix haute, debout, sans notes, chronométré (10 min) pour chaque question
+- [ ] Réfléchir à ce que je pourrais utiliser/écrire au tableau pendant l'entretien

@@ -40,7 +40,7 @@ L'analyse des documents met également en évidence l'apparition de
 nouveaux contenus créés grâce à l'intelligence artificielle, notamment
 les ***deepfakes*** pornographiques. Ces contenus permettent de produire
 des images ou des vidéos à caractère sexuel représentant une personne
-sans son consentement, à partir d’une simple photographie accessible en
+sans son consentement, à partir d'une simple photographie accessible en
 ligne.
 
 Cette étude permet d'identifier plusieurs déterminants favorisant
@@ -91,9 +91,9 @@ associations de prévention, les professionnels de santé ainsi que les
 plateformes numériques.
 
 Afin de limiter l'exposition des mineurs aux contenus pornographiques,
-une action s’appuie sur une loi du 30 juillet 2020, qui impose aux sites
-pornographiques la mise en œuvre d’un dispositif fiable de vérification
-de l’âge des utilisateurs, sous peine de lourdes sanctions. L'ARCOM
+une action s'appuie sur une loi du 30 juillet 2020, qui impose aux sites
+pornographiques la mise en œuvre d'un dispositif fiable de vérification
+de l'âge des utilisateurs, sous peine de lourdes sanctions. L'ARCOM
 participe notamment au contrôle de ces mesures visant à mieux protéger
 les jeunes sur Internet.
 
@@ -104,8 +104,8 @@ et de prévenir les risques liés aux usages du numérique.
 
 Toutefois, l'analyse de la situation montre également certaines limites.
 Les avancées technologiques rendent ces mesures parfois plus faciles à
-contourner. En effet, l'utilisation d’outils, comme un VPN qui est très
-facile d’accès pour tous, permet de contourner les restrictions de
+contourner. En effet, l'utilisation d'outils, comme un VPN qui est très
+facile d'accès pour tous, permet de contourner les restrictions de
 localisation et d'accéder à des contenus qui devraient normalement être
 restreints.
 
@@ -125,4 +125,7 @@ pornographiques. Ces pratiques peuvent avoir des conséquences
 importantes sur la santé mentale, le bien-être et la vie sociale des
 jeunes, tout en renforçant certaines formes de violences numériques.
 
-Face à ces enjeux, une mobilisation c
+Face à ces enjeux, une mobilisation coordonnée des pouvoirs publics, des
+acteurs de l'éducation, des professionnels de santé et des plateformes
+numériques apparaît nécessaire afin de renforcer la prévention, la
+protection des mineurs et l'accompagnement des victimes.

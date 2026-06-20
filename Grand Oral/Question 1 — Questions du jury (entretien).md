@@ -56,4 +56,4 @@ Sujet d'actualité, qui me concerne en tant que jeune, à la croisée du numéri
 Sources institutionnelles (ARCOM) et articles spécialisés. *(Savoir en citer une ou deux précisément.)*
 
 **Quel lien avec votre projet d'orientation ?**
-*(À préparer selon le projet réel — ex. : métiers du social, de la santé, de la prévention, de l'éducation.)*
+Je veux devenir infirmière (IFSI). L'infirmière a un rôle de prévention et d'éducation à la santé, notamment auprès des jeunes — ce qui rejoint directement mon sujet sur la protection des mineurs et leur santé mentale. *(Détails dans `Projet d'orientation (entretien).md`.)*

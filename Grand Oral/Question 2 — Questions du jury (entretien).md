@@ -64,4 +64,4 @@ Ma question porte sur l'exposition précoce à la pornographie en général et s
 *(À préparer : intérêt pour la santé publique, la jeunesse, la prévention.)*
 
 **Quel lien avec votre projet d'orientation ?**
-*(À préparer selon le projet réel — santé, social, éducation, prévention.)*
+Je veux devenir infirmière (IFSI). C'est un métier de soin mais aussi de prévention et d'éducation à la santé : exactement le rôle que j'évoque pour protéger les jeunes. Une infirmière scolaire ou en pédiatrie est en première ligne sur ces questions. *(Détails dans `Projet d'orientation (entretien).md`.)*

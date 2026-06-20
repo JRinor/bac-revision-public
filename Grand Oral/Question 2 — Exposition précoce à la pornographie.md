@@ -4,7 +4,9 @@
 
 J'ai choisi ce sujet car l'accès à Internet et aux réseaux sociaux est aujourd'hui très répandu chez les adolescents. Cette évolution facilite également l'accès à des contenus pornographiques parfois dès le plus jeune âge. La pornographie est devenue un sujet de préoccupation pour les acteurs de santé publique en raison de ses possibles conséquences sur le développement, les représentations de la sexualité et le bien-être des jeunes.
 
-Afin de répondre à ma problématique, j'ai mené une recherche documentaire à partir de données de l'ARCOM, d'articles de presse et de ressources spécialisées. J'ai également diffusé un questionnaire auprès de 41 jeunes afin de recueillir leur perception de cette problématique. Enfin, j'ai tenté de prendre contact avec Le CAP de Mulhouse dans le but de réaliser un guide d'entretien avec un professionnel. Le guide d'entretien n'a finalement pas pu avoir lieu, mais les informations disponibles sur le site de la structure m'ont permis de mieux comprendre les actions de prévention et d'accompagnement proposées aux jeunes.
+Afin de répondre à ma problématique, j'ai mené une recherche documentaire à partir de données de l'ARCOM, d'articles de presse et de ressources spécialisées. J'ai également diffusé un questionnaire auprès de 41 jeunes afin de recueillir leur perception de cette problématique. Ces résultats n'ont pas de valeur statistique représentative, mais ils donnent un aperçu intéressant du ressenti des jeunes. Enfin, j'ai tenté de prendre contact avec Le CAP de Mulhouse dans le but de réaliser un guide d'entretien avec un professionnel. Le guide d'entretien n'a finalement pas pu avoir lieu, mais les informations disponibles sur le site de la structure m'ont permis de mieux comprendre les actions de prévention et d'accompagnement proposées aux jeunes.
+
+Pour répondre à cette question, je montrerai d'abord en quoi l'exposition précoce à la pornographie est facilitée par les usages numériques ; j'étudierai ensuite ses conséquences possibles sur les adolescents ; enfin, j'analyserai les actions de prévention et les acteurs mobilisés pour les protéger.
 
 ## I. Une exposition précoce à la pornographie facilitée par les usages numériques
 
@@ -42,7 +44,7 @@ De plus, 78 % déclarent connaître les VPN et 63,4 % savent que ces outils perm
 
 Face à cette situation, 90,2 % des répondants considèrent que les pouvoirs publics doivent renforcer la protection des mineurs sur Internet et 87,8 % se déclarent favorables à une vérification plus stricte de l'âge sur les sites pornographiques.
 
-L'éducation apparaît également comme un levier essentiel de prévention. En effet, plus de 80 % des répondants considèrent que l'éducation à la vie affective et sexuelle à l'école est importante pour sensibiliser les jeunes.
+L'éducation apparaît également comme un levier essentiel de prévention primaire, c'est-à-dire une action menée en amont, avant l'apparition des difficultés. En effet, plus de 80 % des répondants considèrent que l'éducation à la vie affective et sexuelle à l'école est importante pour sensibiliser les jeunes.
 
 Concernant les acteurs de la protection, les répondants identifient principalement les parents (90,2 %), les plateformes Internet (70,7 %), l'État (68,3 %) et l'école (56,1 %).
 
@@ -55,3 +57,5 @@ Cette démarche d'étude m'a permis de montrer que l'exposition précoce à la p
 Les recherches documentaires et les résultats de mon questionnaire mettent en évidence une exposition précoce et facilitée par les outils numériques. Ils montrent également que cette exposition peut influencer les représentations des relations amoureuses et avoir des effets négatifs sur les adolescents.
 
 Face à cette situation, les actions de prévention apparaissent essentielles. La protection des jeunes repose sur une mobilisation conjointe des familles, de l'école, des professionnels de santé, des structures spécialisées, des plateformes numériques et des pouvoirs publics afin de favoriser un usage plus sécurisé d'Internet et de mieux accompagner les adolescents.
+
+On peut enfin se demander si l'interdiction et le contrôle de l'âge suffiront à protéger les jeunes, ou si la véritable protection ne passe pas avant tout par l'éducation à la vie affective et sexuelle, afin de leur donner les clés pour prendre du recul face à ces contenus.

@@ -1,192 +1,165 @@
 # Question 2 — S'entraîner à mémoriser le texte
 
-> Chaque version ci-dessous est le texte EXACT avec des trous à des endroits différents. Réponses dans le fichier *Mémoriser le texte — RÉPONSES.md* (ou comparer au Texte complet ci-dessous).
-
-## Texte complet (référence)
-
-Bonjour, je m'appelle Aurela et aujourd'hui je vais vous expliquer dans quelle mesure l'exposition précoce à la pornographie constitue un enjeu de santé publique chez les adolescents.
-
-J'ai choisi ce sujet car l'accès à Internet et aux réseaux sociaux est aujourd'hui très répandu chez les adolescents. Cette évolution facilite également l'accès à des contenus pornographiques parfois dès le plus jeune âge. La pornographie est devenue un sujet de préoccupation pour les acteurs de santé publique en raison de ses possibles conséquences sur le développement, les représentations de la sexualité et le bien-être des jeunes.
-
-Afin de répondre à ma problématique, j'ai mené une recherche documentaire à partir de données de l'ARCOM, d'articles de presse et de ressources spécialisées. J'ai également diffusé un questionnaire auprès de 41 jeunes afin de recueillir leur perception de cette problématique. Ces résultats n'ont pas de valeur statistique représentative, mais ils donnent un aperçu intéressant du ressenti des jeunes. Enfin, j'ai tenté de prendre contact avec Le CAP de Mulhouse dans le but de réaliser un guide d'entretien avec un professionnel. Le guide d'entretien n'a finalement pas pu avoir lieu, mais les informations disponibles sur le site de la structure m'ont permis de mieux comprendre les actions de prévention et d'accompagnement proposées aux jeunes.
-
-Pour répondre à cette question, je montrerai d'abord en quoi l'exposition précoce à la pornographie est facilitée par les usages numériques ; j'étudierai ensuite ses conséquences possibles sur les adolescents ; enfin, j'analyserai les actions de prévention et les acteurs mobilisés pour les protéger.
-
-**I.** Dans un premier temps, j'ai cherché à comprendre l'ampleur du phénomène. L'exposition des mineurs à la pornographie est aujourd'hui à la fois fréquente et précoce. Selon les données de l'ARCOM relayées par la presse, plus de la moitié des garçons s'y rendent chaque mois dès l'âge de 12 ans : ce n'est donc pas un phénomène marginal, mais une réalité de masse qui commence très tôt. Mon questionnaire confirme cette précocité, puisque près de 88 % des jeunes interrogés estiment que la première exposition a lieu avant 15 ans. Cette précocité s'explique surtout par la facilité d'accès. Pour huit jeunes interrogés sur dix, accéder à ces contenus est facile, et c'est avant tout le téléphone portable, ainsi que les réseaux sociaux, qui le permettent. Ce sont donc les usages numériques du quotidien qui exposent les adolescents. On peut ainsi identifier plusieurs déterminants : la généralisation des smartphones, l'accès permanent à Internet et l'omniprésence des réseaux sociaux. L'exposition précoce n'est pas un accident : elle est le produit direct de l'environnement numérique dans lequel grandissent les jeunes.
-
-**II.** Dans un second temps, j'ai étudié les conséquences de cette exposition. Le principal risque concerne la construction de la sexualité. À un âge où les adolescents se construisent, une exposition précoce et répétée peut façonner une vision déformée des relations et favoriser une sexualisation précoce. Ce n'est pas une simple crainte : des rapports institutionnels, comme celui de l'Académie nationale de médecine en 2023 et celui du Sénat, le documentent. Près d'un adolescent sur deux ayant déjà eu un rapport sexuel déclare avoir cherché à reproduire des pratiques vues dans ces vidéos. La pornographie devient alors une forme d'« éducation » à la sexualité, mais une éducation faussée. Ces contenus tendent aussi à banaliser la violence, en particulier envers les femmes. Ce dernier rapport souligne d'ailleurs que la pornographie met souvent en scène des rapports dégradants ou violents, ce qui peut influencer la façon dont les adolescents se représentent les relations entre les sexes et le consentement. Mon questionnaire montre que les jeunes eux-mêmes en sont conscients : la quasi-totalité estime que la pornographie influence la vision des relations amoureuses, et près de neuf sur dix qu'elle peut avoir des effets négatifs sur les adolescents. C'est justement parce que ce problème touche le développement et le bien-être de toute une classe d'âge qu'il relève de la santé publique, et non d'un simple choix individuel. Il justifie donc l'intervention des acteurs de la prévention et de la protection.
-
-**III.** Enfin, j'ai analysé les réponses possibles et leurs limites. La première réponse est technique : la vérification de l'âge imposée aux sites pornographiques. Mais elle se révèle insuffisante. La grande majorité des jeunes que j'ai interrogés la jugent peu efficace, et beaucoup connaissent des outils comme les VPN, qui permettent de contourner facilement ces restrictions. Une protection uniquement technique est donc vouée à être contournée. C'est pourquoi la prévention par l'éducation paraît essentielle. Il s'agit de prévention primaire, c'est-à-dire une action menée en amont, avant l'apparition des difficultés : l'éducation à la vie affective et sexuelle, qui développe l'esprit critique et aide les jeunes à prendre du recul face à ces contenus. Les jeunes que j'ai interrogés y sont d'ailleurs très favorables. Cette protection ne repose pas sur un seul acteur. Les répondants citent d'abord les parents, puis les plateformes, l'État et l'école : la responsabilité est partagée. Des structures spécialisées, comme Le CAP de Mulhouse, complètent ce dispositif en accueillant, écoutant et orientant les jeunes confrontés à des comportements à risque liés à leurs usages numériques. Une protection efficace est donc globale : elle associe la régulation, l'éducation et l'accompagnement.
-
-**Conclusion.** Pour conclure, cette démarche m'a permis de montrer que l'exposition précoce à la pornographie constitue bien un enjeu de santé publique chez les adolescents. Facilitée par les usages numériques, elle survient de plus en plus tôt ; elle peut alors fausser la construction de la sexualité et banaliser la violence, à un âge déterminant pour le développement. Et parce que les réponses purement techniques sont facilement contournées, la protection des jeunes ne peut être que globale : elle suppose la régulation, mais surtout l'éducation et l'accompagnement, portés ensemble par les familles, l'école, l'État et les structures spécialisées. On peut enfin se demander si l'interdiction et le contrôle de l'âge suffiront à protéger les jeunes, ou si la véritable protection ne passe pas avant tout par l'éducation à la vie affective et sexuelle, afin de leur donner les clés pour prendre du recul face à ces contenus.
+> Chaque version est le texte EXACT de l'exposé, avec seulement des trous sur les mots-clés. Rien n'est résumé ni modifié. Le corrigé = le fichier RÉPONSES.
 
 ---
 
-## L'ossature (à mémoriser EN PREMIER)
+## Version 1 — Facile (environ 1 mot clé sur 6)
 
-- **Intro** : choix du sujet → démarche (recherche ARCOM/presse + questionnaire 41 jeunes + Le CAP) → annonce du plan
-- **I** : exposition fréquente ET précoce (12 ans / 88 % avant 15 ans) → facile d'accès (téléphone, réseaux) → déterminants → « pas un accident »
-- **II** : construction de la sexualité (vision déformée, ~1 sur 2 reproduit) → banalisation de la violence → jeunes conscients → **donc** santé publique
-- **III** : technique (vérif. âge) insuffisante (VPN) → éducation = prévention primaire → responsabilité partagée (+ Le CAP) → protection **globale**
-- **Conclusion** : oui, enjeu de santé publique → résumé → ouverture (interdiction vs éducation)
+Bonjour, je m'appelle Aurela et aujourd'hui je vais vous expliquer dans quelle mesure l'exposition précoce à la pornographie constitue un enjeu de **____** publique chez les adolescents.
 
----
+J'ai choisi ce sujet car l'accès à Internet et aux réseaux sociaux est aujourd'hui très répandu chez les adolescents. Cette évolution facilite également l'accès à des contenus pornographiques parfois dès le plus jeune âge. La pornographie est devenue un sujet de préoccupation pour les acteurs de **____** publique en raison de ses possibles conséquences sur le **____**, les représentations de la **____** et le bien-être des jeunes.
 
-## Version 1 — trous sur les noms-clés et les chiffres
+Afin de répondre à ma problématique, j'ai mené une recherche documentaire à partir de données de l'**____**, d'articles de presse et de ressources spécialisées. J'ai également diffusé un **____** auprès de **____** jeunes afin de recueillir leur perception de cette problématique. Ces résultats n'ont pas de valeur statistique **____**, mais ils donnent un aperçu intéressant du ressenti des jeunes. Enfin, j'ai tenté de prendre contact avec Le **____** de Mulhouse dans le but de réaliser un guide d'entretien avec un professionnel. Le guide d'entretien n'a finalement pas pu avoir lieu, mais les informations disponibles sur le site de la structure m'ont permis de mieux comprendre les actions de **____** et d'accompagnement proposées aux jeunes.
 
-Bonjour, je m'appelle Aurela et aujourd'hui je vais vous expliquer dans quelle mesure l'exposition ______ à la pornographie constitue un ______ de ______ ______ chez les adolescents.
+Pour répondre à cette question, je montrerai d'abord en quoi l'exposition précoce à la pornographie est facilitée par les usages **____** ; j'étudierai ensuite ses conséquences possibles sur les adolescents ; enfin, j'analyserai les actions de **____** et les acteurs mobilisés pour les protéger.
 
-J'ai choisi ce sujet car l'accès à ______ et aux ______ ______ est aujourd'hui très répandu chez les adolescents. La pornographie est devenue un sujet de ______ pour les acteurs de santé publique en raison de ses conséquences sur le ______, les ______ de la sexualité et le ______ des jeunes.
+## I. Une exposition précoce à la pornographie facilitée par les usages numériques
 
-Afin de répondre à ma problématique, j'ai mené une ______ ______ à partir de données de l'______, d'articles de presse et de ressources spécialisées. J'ai également diffusé un ______ auprès de ______ jeunes. Ces résultats n'ont pas de valeur ______ ______, mais ils donnent un aperçu du ressenti des jeunes. Enfin, j'ai tenté de prendre contact avec ______ ______ ______ dans le but de réaliser un guide d'entretien.
+Dans un premier temps, j'ai cherché à comprendre l'**____** du phénomène.
 
-Pour répondre à cette question, je montrerai d'abord en quoi l'exposition est ______ par les ______ ______ ; j'étudierai ensuite ses ______ ; enfin, j'analyserai les actions de ______ et les ______.
+L'exposition des mineurs à la pornographie est aujourd'hui à la fois **____** et **____**. Selon les données de l'ARCOM relayées par la presse, plus de la moitié des garçons s'y rendent chaque mois dès l'âge de **____** ans : ce n'est donc pas un phénomène **____**, mais une réalité de masse qui commence très tôt. Mon questionnaire confirme cette précocité, puisque près de **____** % des jeunes interrogés estiment que la première exposition a lieu avant **____** ans.
 
-**I.** L'exposition des mineurs est aujourd'hui à la fois ______ et ______. Selon l'______, plus de la moitié des ______ s'y rendent chaque mois dès l'âge de ______ ans : ce n'est donc pas un phénomène ______, mais une réalité de masse. Mon questionnaire le confirme : près de ______ % estiment que la première exposition a lieu avant ______ ans. Cette précocité s'explique surtout par la ______ ______ : avant tout le ______ ______, ainsi que les ______ ______. On peut identifier plusieurs ______ : la généralisation des ______, l'accès permanent à ______ et l'omniprésence des ______ ______. L'exposition précoce n'est pas un ______ : elle est le produit de l'______ ______.
+Cette précocité s'explique surtout par la facilité d'**____**. Pour huit jeunes interrogés sur dix, accéder à ces contenus est facile, et c'est avant tout le **____** portable, ainsi que les réseaux sociaux, qui le permettent. Ce sont donc les usages numériques du quotidien qui exposent les adolescents.
 
-**II.** Le principal risque concerne la ______ de la ______. Une exposition précoce et répétée peut façonner une vision ______ des relations et favoriser une ______ ______. Des rapports comme celui de l'______ ______ ______ et celui du ______ le documentent : près d'______ ______ ______ ______ ayant eu un rapport déclare avoir cherché à ______ des pratiques vues. La pornographie devient une « ______ » faussée. Ces contenus tendent aussi à ______ la ______, en particulier envers les ______, ce qui influence la vision des relations et du ______. Les jeunes eux-mêmes en sont ______. C'est parce que ce problème touche le ______ de toute une ______ ______ qu'il relève de la ______ ______.
+On peut ainsi identifier plusieurs **____** : la généralisation des **____**, l'accès permanent à Internet et l'omniprésence des réseaux sociaux. L'exposition précoce n'est pas un accident : elle est le produit direct de l'environnement **____** dans lequel grandissent les jeunes.
 
-**III.** La première réponse est ______ : la vérification de l'______. Mais elle est ______ : le ______ permet de la contourner. C'est pourquoi la ______ par l'______ est essentielle : c'est de la ______ ______, l'éducation à la ______ ______ ______ ______. La responsabilité est ______ : les ______, les ______, l'______ et l'______, + ______ ______. Une protection efficace est donc ______ : elle associe la ______, l'______ et l'______.
+## II. Des conséquences sur le développement des adolescents
 
-**Conclusion.** L'exposition précoce constitue bien un ______ de ______ ______. Elle peut fausser la ______ de la ______ et ______ la ______. Comme les réponses techniques sont ______, la protection doit être ______. On peut se demander si l'______ suffira, ou si la vraie clé est l'______.
+Dans un second temps, j'ai étudié les conséquences de cette exposition.
 
----
+Le principal risque concerne la **____** de la sexualité. À un âge où les adolescents se construisent, une exposition précoce et répétée peut façonner une vision **____** des relations et favoriser une sexualisation précoce. Ce n'est pas une simple crainte : des rapports institutionnels, comme celui de l'**____** nationale de médecine en **____** et celui du **____**, le documentent. Près d'un adolescent sur **____** ayant déjà eu un rapport sexuel déclare avoir cherché à reproduire des pratiques vues dans ces vidéos. La pornographie devient alors une forme d'« éducation » à la sexualité, mais une éducation **____**.
 
-## Version 2 — trous sur les verbes et les mots de liaison
+Ces contenus tendent aussi à **____** la violence, en particulier envers les femmes. Ce dernier rapport souligne d'ailleurs que la pornographie met souvent en scène des rapports **____** ou violents, ce qui peut influencer la façon dont les adolescents se représentent les relations entre les sexes et le **____**.
 
-Bonjour, je m'appelle Aurela et aujourd'hui je vais vous ______ dans quelle mesure l'exposition précoce à la pornographie ______ un enjeu de santé publique chez les adolescents.
+Mon questionnaire montre que les jeunes eux-mêmes en sont conscients : la quasi-totalité estime que la pornographie influence la vision des relations amoureuses, et près de **____** sur dix qu'elle peut avoir des effets négatifs sur les adolescents.
 
-J'ai ______ ce sujet car l'accès à Internet et aux réseaux sociaux ______ aujourd'hui très répandu. La pornographie ______ ______ un sujet de préoccupation en raison de ses conséquences sur le développement, les représentations de la sexualité et le bien-être des jeunes.
+C'est justement parce que ce problème touche le développement et le bien-être de toute une classe d'âge qu'il relève de la **____** publique, et non d'un simple choix individuel. Il justifie donc l'intervention des acteurs de la **____** et de la protection.
 
-Afin de ______ à ma problématique, j'ai ______ une recherche documentaire, j'ai ______ un questionnaire auprès de 41 jeunes, et j'ai ______ de prendre contact avec Le CAP de Mulhouse.
+## III. Des actions de prévention nécessaires pour protéger les mineurs
 
-Je ______ d'abord en quoi l'exposition est facilitée par les usages numériques ; j'______ ensuite ses conséquences ; ______, j'______ les actions de prévention.
+Enfin, j'ai analysé les réponses possibles et leurs limites.
 
-**I.** L'exposition des mineurs ______ aujourd'hui à la fois fréquente et précoce. Plus de la moitié des garçons ______ chaque mois dès 12 ans : ce n'______ ______ pas un phénomène marginal, mais une réalité de masse. Cette précocité ______ surtout par la facilité d'accès. Ce ______ ______ les usages numériques du quotidien qui ______ les adolescents. L'exposition précoce n'______ pas un accident : elle ______ le produit de l'environnement numérique.
+La première réponse est **____** : la vérification de l'**____** imposée aux sites pornographiques. Mais elle se révèle **____**. La grande majorité des jeunes que j'ai interrogés la jugent peu efficace, et beaucoup connaissent des outils comme les **____**, qui permettent de contourner facilement ces restrictions. Une protection uniquement technique est donc vouée à être **____**.
 
-**II.** Le principal risque ______ la construction de la sexualité. Une exposition précoce et répétée peut ______ une vision déformée et ______ une sexualisation précoce. Des rapports le ______. La pornographie ______ alors une « éducation » faussée. Ces contenus ______ aussi à ______ la violence. C'est ______ parce que ce problème ______ le développement de toute une classe d'âge qu'il ______ de la santé publique.
+C'est pourquoi la prévention par l'éducation paraît essentielle. Il s'agit de prévention **____**, c'est-à-dire une action menée en **____**, avant l'apparition des difficultés : l'éducation à la vie **____** et sexuelle, qui développe l'esprit **____** et aide les jeunes à prendre du recul face à ces contenus. Les jeunes que j'ai interrogés y sont d'ailleurs très **____**.
 
-**III.** La première réponse ______ technique. Mais elle se ______ insuffisante. Une protection uniquement technique ______ ______ vouée à être contournée. ______ la prévention par l'éducation ______ essentielle. Cette protection ne ______ pas sur un seul acteur. Une protection efficace ______ ______ globale : elle ______ la régulation, l'éducation et l'accompagnement.
+Cette protection ne repose pas sur un seul acteur. Les répondants citent d'abord les **____**, puis les plateformes, l'État et l'école : la **____** est partagée. Des structures spécialisées, comme Le **____** de Mulhouse, complètent ce dispositif en accueillant, écoutant et orientant les jeunes confrontés à des comportements à risque liés à leurs usages numériques.
 
-**Conclusion.** Cette démarche m'a ______ de montrer que l'exposition précoce ______ bien un enjeu de santé publique. Et ______ les réponses techniques sont facilement contournées, la protection ne ______ ______ que globale. On peut enfin se ______ si l'interdiction suffira.
+Une protection efficace est donc **____** : elle associe la **____**, l'éducation et l'accompagnement.
 
----
+## Conclusion
 
-## Version 3 — squelette (on ne garde que les débuts de phrase)
+Pour conclure, cette démarche m'a permis de montrer que l'exposition précoce à la pornographie constitue bien un enjeu de **____** publique chez les adolescents. Facilitée par les usages numériques, elle survient de plus en plus tôt ; elle peut alors fausser la construction de la **____** et banaliser la **____**, à un âge déterminant pour le développement.
 
-Compléter chaque phrase jusqu'au bout (réponses = Texte complet ci-dessus).
+Et parce que les réponses purement techniques sont facilement contournées, la protection des jeunes ne peut être que **____** : elle suppose la régulation, mais surtout l'**____** et l'accompagnement, portés ensemble par les familles, l'école, l'État et les structures spécialisées.
 
-**Intro.** Bonjour, je m'appelle Aurela et aujourd'hui je vais vous expliquer ______. J'ai choisi ce sujet car ______. La pornographie est devenue ______. Afin de répondre à ma problématique, j'ai ______. Pour répondre à cette question, je montrerai d'abord ______ ; j'étudierai ensuite ______ ; enfin ______.
-
-**I.** Dans un premier temps, ______. L'exposition des mineurs est aujourd'hui ______. Selon l'ARCOM, ______. Mon questionnaire ______. Cette précocité s'explique ______. On peut identifier plusieurs ______. L'exposition précoce n'est pas un accident : ______.
-
-**II.** Dans un second temps, ______. Le principal risque concerne ______. Une exposition précoce et répétée peut ______. Des rapports ______. La pornographie devient alors ______. Ces contenus tendent aussi à ______. C'est justement parce que ______.
-
-**III.** Enfin, ______. La première réponse est technique : ______. Mais ______. C'est pourquoi ______. Cette protection ne repose pas ______. Une protection efficace est donc globale : ______.
-
-**Conclusion.** Pour conclure, ______. Et parce que ______. On peut enfin se demander ______.
+On peut enfin se demander si l'**____** et le contrôle de l'âge suffiront à protéger les jeunes, ou si la véritable protection ne passe pas avant tout par l'éducation à la vie **____** et sexuelle, afin de leur donner les clés pour prendre du **____** face à ces contenus.
 
 ---
 
-## Relances sur les transitions (le plus important)
+## Version 2 — Moyen (environ 1 mot sur 4)
 
-Les trous de mémoire arrivent surtout AUX TRANSITIONS. À tester séparément :
+**____**, je m'appelle Aurela et aujourd'hui je vais vous expliquer dans quelle **____** l'exposition précoce à la pornographie constitue un **____** de santé publique chez les **____**.
 
-- « Tu te présentes, et juste après tu dis quoi ? »
-- « Tes trois parties, dans l'ordre ? »
-- « Tu as montré que l'exposition est précoce. Tu enchaînes sur quoi ? » → la facilité d'accès
-- « Après les déterminants, comment tu passes à la partie II ? »
-- « Tu viens de parler des conséquences. Comment tu justifies que c'est de la santé publique ? »
-- « En partie III, dans quel ordre : le technique, l'éducation, les acteurs ? »
-- « Ta toute dernière phrase, l'ouverture ? »
+J'ai choisi ce sujet car l'accès à Internet et aux réseaux sociaux est aujourd'hui très **____** chez les adolescents. Cette évolution **____** également l'accès à des contenus pornographiques parfois dès le plus jeune âge. La pornographie est devenue un sujet de **____** pour les acteurs de santé publique en raison de ses possibles **____** sur le développement, les **____** de la sexualité et le bien-être des jeunes.
 
+Afin de **____** à ma problématique, j'ai mené une recherche documentaire à partir de données de l'**____**, d'articles de **____** et de ressources spécialisées. J'ai également diffusé un questionnaire auprès de **____** jeunes afin de recueillir leur **____** de cette problématique. Ces résultats n'ont pas de valeur **____** représentative, mais ils donnent un aperçu intéressant du ressenti des jeunes. Enfin, j'ai tenté de prendre **____** avec Le CAP de Mulhouse dans le but de réaliser un guide d'**____** avec un professionnel. Le guide d'entretien n'a finalement pas pu avoir lieu, mais les informations disponibles sur le **____** de la structure m'ont permis de mieux comprendre les actions de prévention et d'**____** proposées aux jeunes.
 
+Pour répondre à cette question, je montrerai d'abord en quoi l'exposition précoce à la pornographie est **____** par les usages numériques ; j'étudierai ensuite ses **____** possibles sur les adolescents ; enfin, j'**____** les actions de prévention et les acteurs **____** pour les protéger.
 
-Bonjour, je m'appelle Aurela et aujourd'hui je vais vous expliquer dans _____(1) _____(2) _____(3) _____(4) _____(5) _____(6) _____(7) constitue _____(8) _____(9) _____(10) _____(11) _____(12) chez _____(13) _____(14)
+## I. Une exposition précoce à la pornographie facilitée par les usages numériques
 
-_____(15) _____(16) ce sujet car l'accès à Internet et aux réseaux sociaux est _____(17) _____(18) _____(19) _____(20) _____(21) _____(22) _____(23) _____(24) facilite _____(25) l'accès à des _____(26) pornographiques _____(27) dès _____(28) _____(29) _____(30) _____(31) La _____(32) est devenue un _____(33) de _____(34) pour les _____(35) _____(36) _____(37) _____(38) en raison de _____(39) _____(40) _____(41) sur le _____(42) les _____(43) de la _____(44) et le _____(45) des jeunes.
+Dans un premier temps, j'ai cherché à **____** l'ampleur du phénomène.
 
+L'exposition des mineurs à la pornographie est aujourd'hui à la fois fréquente et **____**. Selon les données de l'ARCOM **____** par la presse, plus de la moitié des garçons s'y rendent chaque **____** dès l'âge de **____** ans : ce n'est donc pas un phénomène **____**, mais une réalité de **____** qui commence très tôt. Mon questionnaire confirme cette **____**, puisque près de **____** % des jeunes interrogés estiment que la première **____** a lieu avant 15 ans.
 
+Cette précocité s'explique surtout par la **____** d'accès. Pour huit jeunes interrogés sur dix, accéder à ces **____** est facile, et c'est avant tout le téléphone **____**, ainsi que les réseaux sociaux, qui le **____**. Ce sont donc les usages **____** du quotidien qui exposent les adolescents.
 
+On peut ainsi identifier plusieurs **____** : la généralisation des smartphones, l'accès **____** à Internet et l'**____** des réseaux sociaux. L'exposition précoce n'est pas un **____** : elle est le produit **____** de l'environnement numérique dans lequel grandissent les jeunes.
 
+## II. Des conséquences sur le développement des adolescents
 
-Bonjour, je m'appelle ______ et aujourd'hui je vais vous ______ dans quelle mesure l'exposition ______ à la pornographie constitue un ______ de santé publique chez les ______.
+Dans un **____** temps, j'ai étudié les **____** de cette exposition.
 
-J'ai choisi ce ______ car l'accès à ______ et aux réseaux sociaux est aujourd'hui très ______ chez les adolescents. Cette évolution facilite également l'accès à des contenus pornographiques parfois dès le plus ______ âge. La pornographie est devenue un sujet de ______ pour les acteurs de santé publique en raison de ses possibles conséquences sur le ______, les représentations de la ______ et le bien-être des jeunes.
+Le principal **____** concerne la construction de la sexualité. À un âge où les adolescents se construisent, une exposition précoce et **____** peut façonner une vision déformée des relations et favoriser une **____** précoce. Ce n'est pas une simple crainte : des rapports **____**, comme celui de l'Académie nationale de médecine en 2023 et celui du **____**, le documentent. Près d'un adolescent sur deux ayant déjà eu un **____** sexuel déclare avoir cherché à **____** des pratiques vues dans ces vidéos. La pornographie devient alors une forme d'« **____** » à la sexualité, mais une éducation faussée.
 
-Afin de répondre à ma ______, j'ai mené une recherche ______ à partir de données de l'ARCOM, d'articles de ______ et de ressources spécialisées. J'ai également diffusé un ______ auprès de 41 jeunes afin de recueillir leur ______ de cette problématique. Ces résultats n'ont pas de valeur statistique représentative, mais ils donnent un aperçu ______ du ressenti des jeunes.
+Ces contenus tendent aussi à banaliser la **____**, en particulier envers les femmes. Ce dernier rapport souligne d'ailleurs que la pornographie met souvent en scène des rapports dégradants ou **____**, ce qui peut **____** la façon dont les adolescents se représentent les relations entre les sexes et le **____**.
 
-Enfin, j'ai tenté de prendre ______ avec Le CAP de Mulhouse dans le but de réaliser un guide d'______ avec un professionnel. Le guide d'entretien n'a finalement pas pu avoir lieu, mais les informations ______ sur le site de la structure m'ont permis de mieux comprendre les actions de ______ et d'accompagnement proposées aux ______.
+Mon questionnaire montre que les jeunes **____** en sont conscients : la **____** estime que la pornographie influence la vision des relations **____**, et près de neuf sur dix qu'elle peut avoir des **____** négatifs sur les adolescents.
 
-Pour répondre à cette ______, je montrerai d'abord en quoi l'exposition précoce à la pornographie est ______ par les usages numériques ; j'étudierai ensuite ses conséquences possibles sur les ______ ; enfin, j'analyserai les actions de prévention et les acteurs ______ pour les protéger.
+C'est justement parce que ce problème **____** le développement et le bien-être de toute une **____** d'âge qu'il relève de la santé **____**, et non d'un simple choix **____**. Il justifie donc l'**____** des acteurs de la prévention et de la protection.
 
-I. Dans un premier ______, j'ai cherché à comprendre l'ampleur du ______. L'exposition des mineurs à la pornographie est aujourd'hui à la fois ______ et précoce.
+## III. Des actions de prévention nécessaires pour protéger les mineurs
 
-Selon les données de l'ARCOM relayées par la ______, plus de la moitié des garçons s'y rendent chaque ______ dès l'âge de 12 ans : ce n'est donc pas un phénomène ______, mais une réalité de masse qui commence très ______.
+**____**, j'ai analysé les réponses possibles et leurs **____**.
 
-Mon questionnaire confirme cette ______, puisque près de 88 % des jeunes interrogés estiment que la première ______ a lieu avant 15 ans.
+La première réponse est technique : la vérification de l'**____** imposée aux sites pornographiques. Mais elle se révèle **____**. La grande majorité des jeunes que j'ai interrogés la jugent peu **____**, et beaucoup connaissent des outils comme les **____**, qui permettent de **____** facilement ces restrictions. Une protection uniquement **____** est donc vouée à être contournée.
 
-Cette précocité s'explique surtout par la facilité d'______. Pour huit jeunes interrogés sur dix, accéder à ces contenus est ______, et c'est avant tout le téléphone ______, ainsi que les réseaux sociaux, qui le permettent.
+C'est pourquoi la **____** par l'éducation paraît essentielle. Il s'agit de prévention **____**, c'est-à-dire une action menée en **____**, avant l'apparition des difficultés : l'éducation à la vie affective et **____**, qui développe l'esprit **____** et aide les jeunes à prendre du **____** face à ces contenus. Les jeunes que j'ai interrogés y sont d'ailleurs très favorables.
 
-Ce sont donc les usages ______ du quotidien qui exposent les adolescents. On peut ainsi identifier plusieurs ______ : la généralisation des smartphones, l'accès ______ à Internet et l'omniprésence des réseaux sociaux.
+Cette protection ne repose pas sur un seul **____**. Les répondants citent d'abord les **____**, puis les **____**, l'État et l'école : la responsabilité est **____**. Des structures **____**, comme Le CAP de Mulhouse, complètent ce **____** en accueillant, écoutant et **____** les jeunes confrontés à des comportements à risque liés à leurs usages numériques.
 
-L'exposition précoce n'est pas un ______ : elle est le produit ______ de l'environnement numérique dans lequel grandissent les ______.
+Une protection efficace est donc **____** : elle associe la régulation, l'**____** et l'accompagnement.
 
-II. Dans un second temps, j'ai étudié les ______ de cette exposition.
+## Conclusion
 
-Le principal risque concerne la ______ de la sexualité.
+Pour conclure, cette démarche m'a permis de montrer que l'exposition **____** à la pornographie constitue bien un enjeu de santé **____** chez les adolescents. Facilitée par les usages **____**, elle survient de plus en plus tôt ; elle peut alors **____** la construction de la sexualité et banaliser la violence, à un âge **____** pour le développement.
 
-À un âge où les adolescents se construisent, une exposition précoce et répétée peut ______ une vision déformée des relations et favoriser une ______ précoce.
+Et parce que les réponses purement **____** sont facilement contournées, la **____** des jeunes ne peut être que globale : elle suppose la **____**, mais surtout l'éducation et l'**____**, portés ensemble par les familles, l'**____**, l'État et les structures spécialisées.
 
-Ce n'est pas une simple ______ : des rapports institutionnels, comme celui de l'Académie nationale de médecine en ______ et celui du Sénat, le documentent.
+On peut enfin se demander si l'interdiction et le **____** de l'âge suffiront à protéger les jeunes, ou si la **____** protection ne passe pas avant tout par l'éducation à la vie affective et **____**, afin de leur donner les **____** pour prendre du recul face à ces contenus.
 
-Près d'un adolescent sur ______ ayant déjà eu un rapport sexuel déclare avoir cherché à ______ des pratiques vues dans ces vidéos.
+---
 
-La pornographie devient alors une forme d'« ______ » à la sexualité, mais une éducation ______.
+## Version 3 — Difficile (environ 1 mot sur 2)
 
-Ces contenus tendent aussi à ______ la violence, en particulier envers les ______.
+**____**, je m'appelle Aurela et **____** je vais vous expliquer dans **____** mesure l'**____** précoce à la pornographie **____** un enjeu de **____** publique chez les **____**.
 
-Ce dernier rapport souligne d'ailleurs que la pornographie met souvent en scène des rapports ______ ou violents, ce qui peut influencer la façon dont les adolescents se représentent les relations entre les ______ et le consentement.
+J'ai **____** ce sujet car l'accès à **____** et aux réseaux sociaux est **____** très répandu chez les **____**. Cette évolution **____** également l'accès à des **____** pornographiques parfois dès le **____** jeune âge. La pornographie est **____** un sujet de préoccupation pour les **____** de santé publique en raison de ses **____** conséquences sur le **____**, les représentations de la **____** et le **____** des jeunes.
 
-Mon questionnaire montre que les jeunes eux-mêmes en sont ______ : la quasi-totalité estime que la pornographie influence la vision des relations amoureuses, et près de ______ sur dix qu'elle peut avoir des effets négatifs sur les adolescents.
+Afin de **____** à ma problématique, j'ai **____** une recherche **____** à partir de données de l'**____**, d'articles de **____** et de ressources **____**. J'ai également **____** un questionnaire auprès de **____** jeunes afin de **____** leur perception de cette **____**. Ces résultats n'ont pas de **____** statistique représentative, mais ils donnent un **____** intéressant du ressenti des **____**. Enfin, j'ai tenté de prendre **____** avec Le **____** de Mulhouse dans le **____** de réaliser un guide d'entretien avec un **____**. Le guide d'entretien n'a **____** pas pu avoir lieu, mais les **____** disponibles sur le site de la **____** m'ont permis de mieux **____** les actions de **____** et d'accompagnement **____** aux jeunes.
 
-C'est justement parce que ce problème touche le ______ et le bien-être de toute une classe d'âge qu'il relève de la santé ______, et non d'un simple choix individuel.
+Pour **____** à cette question, je **____** d'abord en quoi l'**____** précoce à la pornographie est **____** par les usages **____** ; j'étudierai **____** ses conséquences **____** sur les adolescents ; **____**, j'analyserai les actions de **____** et les acteurs **____** pour les protéger.
 
-Il justifie donc l'intervention des acteurs de la ______ et de la protection.
+## I. Une exposition précoce à la pornographie facilitée par les usages numériques
 
-III. Enfin, j'ai analysé les réponses possibles et leurs ______.
+Dans un **____** temps, j'ai cherché à **____** l'ampleur du **____**.
 
-La première réponse est ______ : la vérification de l'âge imposée aux sites pornographiques.
+L'**____** des mineurs à la pornographie est **____** à la fois fréquente et **____**. Selon les **____** de l'ARCOM relayées par la **____**, plus de la **____** des garçons s'y rendent chaque **____** dès l'âge de **____** ans : ce n'est donc pas un phénomène **____**, mais une réalité de **____** qui commence très **____**. Mon questionnaire **____** cette précocité, puisque **____** de 88 % des jeunes **____** estiment que la première **____** a lieu avant **____** ans.
 
-Mais elle se révèle ______.
+Cette **____** s'explique surtout par la **____** d'accès. Pour **____** jeunes interrogés sur dix, accéder à ces **____** est facile, et c'est avant **____** le téléphone **____**, ainsi que les **____** sociaux, qui le **____**. Ce sont donc les **____** numériques du quotidien qui **____** les adolescents.
 
-La grande majorité des jeunes que j'ai interrogés la jugent peu efficace, et beaucoup connaissent des outils comme les ______, qui permettent de contourner facilement ces ______.
+On peut ainsi **____** plusieurs **____** : la **____** des smartphones, l'accès **____** à Internet et l'**____** des réseaux sociaux. L'**____** précoce n'est pas un **____** : elle est le **____** direct de l'**____** numérique dans lequel **____** les jeunes.
 
-Une protection uniquement technique est donc vouée à être ______.
+## II. Des conséquences sur le développement des adolescents
 
-C'est pourquoi la prévention par l'______ paraît essentielle.
+Dans un **____** temps, j'ai **____** les conséquences de cette **____**.
 
-Il s'agit de prévention ______, c'est-à-dire une action menée en amont, avant l'apparition des difficultés : l'éducation à la vie ______ et sexuelle, qui développe l'esprit ______ et aide les jeunes à prendre du recul face à ces contenus.
+Le principal **____** concerne la **____** de la sexualité. À un âge où les adolescents se **____**, une exposition **____** et répétée peut **____** une vision **____** des relations et favoriser une **____** précoce. Ce n'est pas une simple **____** : des rapports **____**, comme celui de l'Académie **____** de médecine en **____** et celui du **____**, le documentent. Près d'un adolescent sur **____** ayant déjà eu un **____** sexuel déclare avoir **____** à reproduire des **____** vues dans ces vidéos. La pornographie **____** alors une forme d'« **____** » à la sexualité, mais une éducation **____**.
 
-Les jeunes que j'ai interrogés y sont d'ailleurs très ______.
+Ces contenus **____** aussi à **____** la violence, en particulier envers les **____**. Ce dernier **____** souligne d'ailleurs que la pornographie met souvent en **____** des rapports dégradants ou **____**, ce qui peut **____** la façon dont les adolescents se **____** les relations entre les sexes et le **____**.
 
-Cette protection ne repose pas sur un seul ______.
+Mon questionnaire **____** que les jeunes **____** en sont **____** : la **____** estime que la pornographie **____** la vision des **____** amoureuses, et près de **____** sur dix qu'elle peut avoir des effets **____** sur les adolescents.
 
-Les répondants citent d'abord les ______, puis les plateformes, l'État et l'école : la responsabilité est ______.
+C'est **____** parce que ce problème **____** le développement et le **____** de toute une **____** d'âge qu'il **____** de la santé **____**, et non d'un simple **____** individuel. Il **____** donc l'intervention des acteurs de la **____** et de la protection.
 
-Des structures spécialisées, comme Le CAP de Mulhouse, complètent ce ______ en accueillant, écoutant et orientant les jeunes confrontés à des comportements à ______ liés à leurs usages numériques.
+## III. Des actions de prévention nécessaires pour protéger les mineurs
 
-Une protection efficace est donc ______ : elle associe la régulation, l'éducation et l'______.
+**____**, j'ai analysé les **____** possibles et leurs **____**.
 
-Conclusion. Pour conclure, cette ______ m'a permis de montrer que l'exposition précoce à la pornographie constitue bien un ______ de santé publique chez les adolescents.
+La **____** réponse est **____** : la vérification de l'**____** imposée aux **____** pornographiques. Mais elle se **____** insuffisante. La grande **____** des jeunes que j'ai **____** la jugent peu **____**, et beaucoup connaissent des **____** comme les **____**, qui permettent de **____** facilement ces restrictions. Une **____** uniquement technique est donc **____** à être contournée.
 
-Facilitée par les usages ______, elle survient de plus en plus tôt ; elle peut alors fausser la ______ de la sexualité et banaliser la ______, à un âge déterminant pour le ______.
+C'est pourquoi la **____** par l'éducation paraît **____**. Il s'agit de prévention **____**, c'est-à-dire une action menée en **____**, avant l'**____** des difficultés : l'éducation à la vie **____** et sexuelle, qui **____** l'esprit critique et **____** les jeunes à prendre du **____** face à ces contenus. Les jeunes que j'ai interrogés y sont d'ailleurs très **____**.
 
-Et parce que les réponses purement techniques sont facilement ______, la protection des jeunes ne peut être que ______ : elle suppose la régulation, mais surtout l'éducation et l'accompagnement, portés ensemble par les ______, l'école, l'État et les structures spécialisées.
+Cette **____** ne repose pas sur un **____** acteur. Les répondants **____** d'abord les **____**, puis les plateformes, l'**____** et l'école : la **____** est partagée. Des structures **____**, comme Le **____** de Mulhouse, **____** ce dispositif en **____**, écoutant et **____** les jeunes confrontés à des **____** à risque liés à leurs usages **____**.
 
-On peut enfin se demander si l'interdiction et le contrôle de l'âge ______ à protéger les jeunes, ou si la véritable protection ne passe pas avant tout par l'éducation à la vie affective et sexuelle, afin de leur donner les ______ pour prendre du recul face à ces contenus.
+Une **____** efficace est donc **____** : elle **____** la régulation, l'**____** et l'accompagnement.
 
+## Conclusion
 
+Pour **____**, cette démarche m'a **____** de montrer que l'exposition **____** à la pornographie **____** bien un **____** de santé publique chez les **____**. Facilitée par les **____** numériques, elle **____** de plus en plus tôt ; elle peut alors **____** la construction de la **____** et banaliser la **____**, à un âge **____** pour le développement.
 
+Et **____** que les réponses purement **____** sont facilement **____**, la **____** des jeunes ne peut être que **____** : elle **____** la régulation, mais surtout l'**____** et l'accompagnement, portés **____** par les familles, l'école, l'**____** et les structures **____**.
 
-Afin de _____(46) _____(47) _____(48) _____(49) j'ai _____(50) _____(51) _____(52) _____(53) _____(54) _____(55) de données de l'ARCOM, _____(56) de _____(57) et de _____(58) _____(59) J'ai _____(60) diffusé un questionnaire auprès de 41 jeunes _____(61) _____(62) _____(63) leur _____(64) de cette _____(65) _____(66) _____(67) n'ont pas _____(68) _____(69) _____(70) _____(71) mais ils _____(72) _____(73) _____(74) _____(75) _____(76) _____(77) des jeunes. Enfin, j'ai _____(78) _____(79) _____(80) contact avec Le CAP de Mulhouse dans le _____(81) de réaliser un guide _____(82) avec un professionnel. Le guide d'entretien n'a finalement pas pu avoir lieu, mais les informations disponibles sur le site de la _____(83) m'ont _____(84) de mieux _____(85) les _____(86) de _____(87) et _____(88) proposées aux jeunes.
+On peut **____** se demander si l'**____** et le contrôle de l'**____** suffiront à **____** les jeunes, ou si la **____** protection ne passe pas avant **____** par l'éducation à la vie **____** et sexuelle, afin de leur **____** les clés pour prendre du **____** face à ces **____**.

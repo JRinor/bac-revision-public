@@ -2,10 +2,6 @@
 
 **Problématique : En quoi le développement de l'intelligence artificielle dans les contenus pornographiques constitue-t-il un enjeu de santé publique pour la protection des jeunes ?**
 
-> Les lignes *en italique* = béquilles (débuts de phrase) en cas de trou de mémoire. À supprimer au fur et à mesure que c'est maîtrisé.
-
-> **À bien dire** : **ARCOM** (pas « ACROM ») · « **des acteurs de** santé publique » (pas « de la santé publique »).
-
 ## Chiffres / repères à retenir
 
 - **2,3 millions** de mineurs/mois sur sites porno (ARCOM) — ≈ **12 %** de l'audience

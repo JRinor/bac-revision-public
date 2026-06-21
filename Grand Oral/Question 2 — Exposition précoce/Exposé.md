@@ -1,6 +1,8 @@
-# Dans quelle mesure l'exposition précoce à la pornographie constitue-t-elle un enjeu de santé publique chez les adolescents ?
+# Question 2 — Corrigé (texte complet)
 
-## Introduction
+> Ce fichier est le texte EXACT de l'exposé. C'est le corrigé de référence pour toutes les versions à trous.
+
+---
 
 Bonjour, je m'appelle Aurela et aujourd'hui je vais vous expliquer dans quelle mesure l'exposition précoce à la pornographie constitue un enjeu de santé publique chez les adolescents.
 

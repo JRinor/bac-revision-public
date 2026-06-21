@@ -78,6 +78,72 @@ Je montrerai d'abord ______ ; ensuite ______ ; enfin ______.
 
 ---
 
+## Version 4 — noms précis et énumérations (les trous changent encore)
+
+**Intro**
+
+Bonjour, je m'appelle Aurela et aujourd'hui je vais vous expliquer en quoi l'exposition précoce à la ______ constitue un enjeu de santé publique chez les ______.
+
+J'ai choisi ce sujet car l'accès à ______ et aux ______ ______ est aujourd'hui très répandu. La pornographie est devenue un sujet de ______ en raison de ses conséquences sur les jeunes.
+
+Afin de répondre à ma problématique, j'ai mené une ______ ______, diffusé un questionnaire auprès de 41 jeunes, et fait des recherches sur Le CAP de Mulhouse.
+
+Je montrerai d'abord en quoi l'exposition est facilitée par les ______ ______ ; ensuite ses conséquences ; enfin les actions de ______ et les ______.
+
+**I.** Selon l'______, plus de la moitié des ______ s'y rendent chaque mois dès l'âge de 12 ans. Cette précocité s'explique par la facilité d'accès : le ______ ______ et les ______ ______. On identifie plusieurs déterminants : la généralisation des ______, l'accès permanent à ______ et l'omniprésence des ______ ______.
+
+**II.** Le principal risque concerne la construction de la ______. Des rapports comme celui de l'______ ______ ______ ______ et du ______ le documentent. Ces contenus banalisent aussi la violence, surtout envers les ______, ce qui fausse la vision des relations et du ______.
+
+**III.** La réponse technique (vérification de l'______) est insuffisante : le ______ la contourne. D'où la prévention par l'éducation, c'est de la prévention ______. La responsabilité est partagée : les ______, les ______, l'______ et l'______, + Le CAP. La protection efficace associe la ______, l'______ et l'______.
+
+**Conclusion** : c'est bien un enjeu de ______ ______. Ouverture : la vraie clé est-elle l'______ à la ______ ______ et ______ ?
+
+---
+
+## Version 5 — débuts de phrase (sujets et transitions)
+
+**Intro**
+
+______, je m'appelle Aurela et aujourd'hui je vais vous expliquer en quoi l'exposition précoce à la pornographie constitue un enjeu de santé publique chez les adolescents.
+
+______ ce sujet car l'accès à Internet et aux réseaux sociaux est aujourd'hui très répandu. ______ est devenue un sujet de préoccupation en raison de ses conséquences sur le développement, les représentations de la sexualité et le bien-être des jeunes.
+
+______ à ma problématique, j'ai mené une recherche documentaire, diffusé un questionnaire auprès de 41 jeunes, et fait des recherches sur Le CAP de Mulhouse.
+
+Je montrerai ______ en quoi l'exposition est facilitée par les usages numériques ; ______ ses conséquences ; ______ les actions de prévention.
+
+**I.** ______, j'ai cherché à comprendre l'ampleur du phénomène. ______ l'ARCOM, plus de la moitié des garçons s'y rendent dès 12 ans. ______ le confirme : près de 88 % avant 15 ans. ______ s'explique surtout par la facilité d'accès. ______ les usages numériques du quotidien qui exposent les adolescents.
+
+**II.** ______, j'ai étudié les conséquences de cette exposition. ______ concerne la construction de la sexualité. ______ tendent aussi à banaliser la violence. ______ parce que ce problème touche le développement de toute une classe d'âge qu'il relève de la santé publique.
+
+**III.** ______, j'ai analysé les réponses possibles et leurs limites. ______ est technique : la vérification de l'âge. ______ la prévention par l'éducation paraît essentielle. ______ ne repose pas sur un seul acteur. ______ est donc globale.
+
+**Conclusion** : ______, cette démarche m'a permis de montrer que l'exposition précoce constitue bien un enjeu de santé publique. ______ les réponses techniques sont facilement contournées, la protection ne peut être que globale. ______ se demander si l'interdiction suffira, ou si la vraie protection ne passe pas avant tout par l'éducation.
+
+---
+
+## Version 6 — mix (un trou sur deux, partout)
+
+**Intro**
+
+Bonjour, je m'appelle Aurela et aujourd'hui je vais vous expliquer en quoi ______ à la pornographie constitue un enjeu de ______ chez les ______.
+
+J'ai choisi ce sujet car l'accès à Internet et aux réseaux sociaux ______. La pornographie est devenue un sujet de préoccupation en raison de ______.
+
+Afin de répondre à ma problématique, j'ai ______, ______, et ______.
+
+Je montrerai d'abord ______ ; ensuite ______ ; enfin ______.
+
+**I.** L'exposition des mineurs est aujourd'hui ______. Selon l'ARCOM, plus de la moitié des garçons ______ : ce n'est donc pas ______, mais ______. Cette précocité s'explique par ______. L'exposition précoce n'est pas un accident : ______.
+
+**II.** Le principal risque concerne ______. Une exposition précoce et répétée peut ______. Près d'un adolescent sur deux ______. La pornographie devient alors ______. Ces contenus tendent aussi à ______. C'est justement parce que ______ qu'il relève de la santé publique.
+
+**III.** La première réponse est technique, mais ______. C'est pourquoi ______ : il s'agit de prévention primaire. La responsabilité est partagée : ______. Une protection efficace est donc globale : ______.
+
+**Conclusion** : l'exposition précoce constitue bien ______. Facilitée par le numérique, elle ______ ; elle peut ______. Et parce que ______, la protection ne peut être que globale. On peut enfin se demander ______.
+
+---
+
 ## Relances sur les transitions (le plus important)
 
 Les trous de mémoire arrivent surtout AUX TRANSITIONS. À tester séparément :

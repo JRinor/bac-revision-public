@@ -24,7 +24,7 @@ On peut ainsi identifier plusieurs déterminants : la généralisation des smart
 
 Dans un second temps, j'ai étudié les conséquences de cette exposition.
 
-Le principal risque concerne la construction de la sexualité. À un âge où les adolescents se construisent, une exposition précoce et répétée peut façonner une vision déformée des relations et favoriser une sexualisation précoce. Ce n'est pas une simple crainte : des rapports institutionnels, comme celui de l'Académie nationale de médecine en 2023 et celui du Sénat, le documentent. Près d'un adolescent sur deux ayant déjà eu un rapport sexuel déclare avoir cherché à reproduire des pratiques vues dans ces vidéos. La pornographie devient alors une forme d'« éducation » à la sexualité, mais une éducation faussée.
+Le principal risque concerne la construction de la sexualité. À un âge où les adolescents se construisent, une exposition précoce et répétée peut créer une vision déformée des relations et favoriser une sexualisation précoce. Ce n'est pas une simple crainte : des rapports institutionnels, comme celui de l'Académie nationale de médecine en 2023 et celui du Sénat, le documentent. Près d'un adolescent sur deux ayant déjà eu un rapport sexuel déclare avoir cherché à reproduire des pratiques vues dans ces vidéos. La pornographie devient alors une forme d'« éducation » à la sexualité, mais une éducation faussée.
 
 Ces contenus poussent aussi à banaliser la violence, en particulier envers les femmes. Ce dernier rapport souligne d'ailleurs que la pornographie met souvent en scène des rapports dégradants ou violents, ce qui peut influencer la façon dont les adolescents se représentent les relations entre les sexes et le consentement.
 

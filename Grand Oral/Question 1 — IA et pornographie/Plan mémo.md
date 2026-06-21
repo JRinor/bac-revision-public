@@ -20,7 +20,7 @@ Pour répondre à cette question, je montrerai d'abord en quoi il s'agit d'un ph
 
 → *« D'abord, l'ampleur du phénomène… »*
 
-- 2,3 M/mois (≈ 12 % de l'audience), exposition précoce
+- 12 % de l'audience, exposition précoce
 - Contexte : téléphone, réseaux sociaux, numérique tôt
 - **Deepfakes** = image sexuelle sans consentement, à partir d'une photo
 - **Déterminants** : omniprésence du numérique / outils IA accessibles / manque d'éducation au numérique / usage intensif réseaux sociaux

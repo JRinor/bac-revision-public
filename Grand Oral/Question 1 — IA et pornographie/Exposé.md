@@ -6,7 +6,7 @@ Bonjour, je m'appelle Aurela et aujourd'hui je vais vous expliquer en quoi le d�
 
 J'ai choisi ce sujet car l'intelligence artificielle occupe aujourd'hui une place croissante dans notre société, notamment sur Internet et les réseaux sociaux. Concernant la pornographie en ligne, elle est devenue facilement accessible, y compris pour les mineurs.
 
-Dans le cadre de ma démarche d'étude, j'ai mené une recherche documentaire à partir de sources institutionnelles et d'articles spécialisés. Selon l'ARCOM, environ 2,3 millions de mineurs consultent chaque mois des sites pornographiques en France. L'apparition de nouvelles technologies, comme les deepfakes pornographiques créés grâce à l'intelligence artificielle, soulève de nombreuses interrogations concernant la protection des jeunes, le respect du consentement et les conséquences sur la santé mentale.
+Dans le cadre de ma démarche d'étude, j'ai mené une recherche documentaire à partir de sources institutionnelles et d'articles spécialisés. Selon une étude de l'ARCOM, environ 2,3 millions de mineurs consultent chaque mois des sites pornographiques en France. L'apparition de nouvelles technologies, comme les deepfakes pornographiques créés grâce à l'intelligence artificielle, soulève de nombreuses interrogations concernant la protection des jeunes, le respect du consentement et les conséquences sur la santé mentale.
 
 Cette situation relève du champ de la santé publique car elle concerne une population vulnérable, les adolescents, et mobilise différents acteurs chargés de la prévention, de l'éducation et de la protection des individus.
 
@@ -16,7 +16,7 @@ Pour répondre à cette question, je montrerai d'abord en quoi il s'agit d'un ph
 
 Dans un premier temps, j'ai cherché à comprendre l'ampleur du phénomène à travers les données recueillies.
 
-Les documents consultés montrent qu'une part importante des jeunes est exposée à la pornographie en ligne. Selon l'ARCOM, environ 2,3 millions de mineurs consultent chaque mois des sites pornographiques en France, où ils représentent en moyenne 12 % de l'audience. Cette exposition est par ailleurs de plus en plus précoce. Elle s'inscrit dans un contexte marqué par un usage très tôt des téléphones portables, des réseaux sociaux et des outils numériques.
+Les documents consultés montrent qu'une part importante des jeunes est exposée à la pornographie en ligne. Selon l'ARCOM, les mineurs représentent en moyenne 12 % de l'audience de ces sites, et cette exposition est de plus en plus précoce. Elle s'inscrit dans un contexte marqué par un usage très tôt des téléphones portables, des réseaux sociaux et des outils numériques.
 
 L'analyse des documents met également en évidence l'apparition de nouveaux contenus créés grâce à l'intelligence artificielle, notamment les deepfakes pornographiques. Ces contenus permettent de produire des images ou des vidéos à caractère sexuel représentant une personne sans son consentement, à partir d'une simple photographie accessible en ligne.
 

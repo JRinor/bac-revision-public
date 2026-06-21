@@ -1,5 +1,7 @@
 # Question 1 — Plan de l'exposé
 
+**Problématique : En quoi le développement de l'intelligence artificielle dans les contenus pornographiques constitue-t-il un enjeu de santé publique pour la protection des jeunes ?**
+
 > Les lignes *en italique* = béquilles (débuts de phrase) en cas de trou de mémoire. À supprimer au fur et à mesure que c'est maîtrisé.
 
 ## Chiffres / repères à retenir

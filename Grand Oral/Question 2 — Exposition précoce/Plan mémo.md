@@ -88,3 +88,6 @@ Pour répondre à cette question, je montrerai d'abord en quoi il s'agit d'un ph
 ## Mots de liaison
 
 D'abord… / En effet… / Par ailleurs… / Ainsi… / De plus… / Face à cela… / Pour conclure…
+
+<!-- maj affichage -->
+

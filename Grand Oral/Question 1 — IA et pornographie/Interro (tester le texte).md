@@ -1,9 +1,5 @@
 # Question 1 — Interro pour réviser le texte
 
-> Pour celui qui interroge : pose les questions **dans le désordre**. Pour la partie « restitution », elle doit répondre en récitant le passage. Pour la partie « compréhension », elle doit expliquer **avec ses mots**. La réponse attendue est indiquée dessous pour que tu puisses vérifier.
-
----
-
 ## A. Restitution (elle récite le passage)
 
 **1. Quelle phrase utilises-tu pour annoncer ton plan ?**

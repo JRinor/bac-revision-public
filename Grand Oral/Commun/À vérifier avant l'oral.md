@@ -4,4 +4,5 @@
 
 ## Question 1
 
-- **« 12 % de l'audience » des sites porno seraient des mineurs.** Chiffre ajouté de mémoire lors de la relecture, **non retrouvé** dans les sources d'origine. Retiré du texte et du plan pour l'instant. À confirmer sur l'étude ARCOM « La consommation de contenus pornographiques par les mineurs » (mai 2023) avant de le réintroduire.
+- **✅ CONFIRMÉ — « 12 % de l'audience » des sites adultes est réalisée par les mineurs.** Vérifié dans l'étude ARCOM « La fréquentation des sites "adultes" par les mineurs » (mai 2023). Chiffre réintégré dans l'exposé et le plan mémo. Source : https://www.arcom.fr/sites/default/files/2023-05/La_frequentation_des_sites_adultes_par_les_mineurs%20-%20Etude_Arcom_0.pdf
+- Au passage, l'étude confirme aussi : 2,3 millions de mineurs/mois ≈ 30 % des mineurs (Q1) et « plus de la moitié des garçons dès 12 ans » chaque mois (Q2).

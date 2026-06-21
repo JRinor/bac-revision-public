@@ -28,6 +28,8 @@
 *« Afin de répondre à ma problématique, j'ai mené une recherche documentaire… et diffusé un questionnaire auprès de 41 jeunes… »*
 *« Pour répondre à cette question, je montrerai d'abord… puis… enfin… »*
 
+Pour répondre à cette question, je montrerai d'abord en quoi il s'agit d'un phénomène numérique en expansion qui multiplie les risques pour les jeunes ; j'analyserai ensuite ses conséquences sur leur santé mentale et leur vie sociale ; enfin, j'étudierai les réponses apportées par les acteurs publics et leurs limites.
+
 ## I. Une exposition précoce facilitée par les usages numériques
 
 → *« D'abord, l'ampleur du phénomène… »*

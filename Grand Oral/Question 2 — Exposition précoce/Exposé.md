@@ -20,7 +20,7 @@ L'exposition des mineurs à la pornographie est aujourd'hui à la fois fréquent
 
 Cette précocité s'explique surtout par la facilité d'accès. Pour huit jeunes interrogés sur dix, accéder à ces contenus est facile, et c'est avant tout le téléphone portable, ainsi que les réseaux sociaux, qui le permettent. Ce sont donc les usages numériques du quotidien qui exposent les adolescents.
 
-On peut ainsi identifier plusieurs déterminants : la généralisation des smartphones, l'accès permanent à Internet et l'omniprésence des réseaux sociaux. L'exposition précoce n'est pas un accident : elle est le produit direct de l'environnement numérique dans lequel grandissent les jeunes.
+On peut ainsi identifier plusieurs déterminants : la généralisation des smartphones, l'accès permanent à Internet et l'omniprésence des réseaux sociaux. L'exposition précoce n'est pas un accident : elle est le produit de l'environnement numérique dans lequel grandissent les jeunes.
 
 ## II. Des conséquences sur le développement des adolescents
 

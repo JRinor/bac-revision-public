@@ -28,7 +28,7 @@ L'analyse de ces résultats met en évidence plusieurs déterminants favorisant 
 
 Dans un second temps, j'ai étudié les conséquences potentielles de cette exposition.
 
-Les documents consultés montrent que la pornographie peut influencer la construction des représentations de la sexualité et des relations affectives chez les adolescents. Une exposition répétée à ces contenus peut conduire à une vision parfois éloignée de la réalité des relations humaines.
+Les documents consultés montrent que la pornographie peut influencer la construction des représentations de la sexualité et des relations affectives chez les adolescents. Une exposition précoce et répétée peut conduire à une vision déformée, et parfois violente, de la sexualité, ainsi qu'à une sexualisation précoce. Des rapports institutionnels, comme celui de l'Académie nationale de médecine en 2023 et celui du Sénat, le confirment : près d'un adolescent sur deux ayant déjà eu un rapport sexuel déclare avoir cherché à reproduire des pratiques vues dans ces vidéos.
 
 Les résultats de mon questionnaire vont dans le même sens. En effet, 68,3 % des répondants pensent que la pornographie influence beaucoup la vision des relations amoureuses chez les jeunes et 29,3 % pensent qu'elle l'influence un peu. Ainsi, 97,6 % des personnes interrogées considèrent qu'elle a une influence sur les représentations affectives et relationnelles.
 
@@ -50,7 +50,7 @@ L'éducation apparaît également comme un levier essentiel de prévention prima
 
 Concernant les acteurs de la protection, les répondants identifient principalement les parents (90,2 %), les plateformes Internet (70,7 %), l'État (68,3 %) et l'école (56,1 %).
 
-Mes recherches sur Le CAP de Mulhouse montrent également l'importance des structures spécialisées dans l'accompagnement des jeunes et la prévention des comportements à risque. Ces structures peuvent contribuer à informer, écouter et orienter les adolescents confrontés à des difficultés liées à leurs usages numériques ou à leur vie affective.
+Mes recherches sur Le CAP de Mulhouse montrent également l'importance des structures spécialisées dans l'accompagnement et la prévention auprès des jeunes. Ce type de structure peut informer, écouter et orienter les adolescents confrontés à des comportements à risque, notamment liés à leurs usages numériques.
 
 ## Conclusion
 

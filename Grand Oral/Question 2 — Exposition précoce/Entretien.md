@@ -28,7 +28,7 @@ Une action menée **en amont**, avant l'apparition du problème : ici, l'éducat
 Un facteur qui influence l'état de santé. Ici : la généralisation des smartphones, l'accès permanent à Internet, l'omniprésence des réseaux sociaux.
 
 **Qu'est-ce que Le CAP de Mulhouse ?**
-Une structure locale d'accueil, d'écoute et d'accompagnement des jeunes, qui fait de la prévention des comportements à risque. *(Savoir préciser ce qu'elle propose concrètement, d'après ta recherche.)*
+C'est un centre spécialisé en addictologie (un CSAPA) qui accueille notamment les jeunes via une **Consultation Jeunes Consommateurs** (12-25 ans). Il informe, écoute, évalue et oriente les jeunes ayant des comportements à risque, y compris liés aux écrans et aux usages numériques. *(Le lien avec mon sujet : c'est une structure d'écoute et d'orientation pour les jeunes en difficulté.)*
 
 ## Sur le fond du sujet
 
@@ -36,7 +36,7 @@ Une structure locale d'accueil, d'écoute et d'accompagnement des jeunes, qui fa
 Parce qu'à un âge où la sexualité et les relations affectives se construisent, la pornographie peut donner une vision faussée et éloignée de la réalité des relations humaines.
 
 **Quelles conséquences concrètes, au-delà des perceptions de votre questionnaire ?**
-Influence sur les représentations de la sexualité et du couple, banalisation de certaines pratiques, effets possibles sur l'estime de soi et l'image du corps. *(Rester prudente : je m'appuie surtout sur des perceptions, ce qui est une limite de mon étude.)*
+Selon des rapports institutionnels (Académie nationale de médecine, 2023 ; Sénat) : une vision déformée et parfois violente de la sexualité, une sexualisation précoce, des troubles du sommeil, et le fait que près d'un jeune sur deux ayant déjà eu un rapport a cherché à reproduire des pratiques vues. Je complète ces données documentées par les perceptions recueillies dans mon questionnaire.
 
 **La pornographie a-t-elle forcément des effets négatifs ?**
 Ce n'est pas automatique, et tous les jeunes ne sont pas affectés de la même façon. Mais l'exposition précoce et répétée augmente les risques, ce qui justifie la prévention.

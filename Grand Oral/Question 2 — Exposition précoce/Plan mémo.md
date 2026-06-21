@@ -49,11 +49,13 @@
 
 → *« Cette exposition peut avoir des conséquences… »*
 
-- Influence la **construction des représentations** de la sexualité et des relations → vision éloignée du réel
+- Influence la **construction des représentations** de la sexualité → **vision déformée et parfois violente**, **sexualisation précoce**
+- **Études (Académie nationale de médecine 2023, Sénat)** : ~**1 jeune sur 2** (ayant eu un rapport) tente de reproduire des pratiques vues
 - Questionnaire : **97,6 %** influence relations amoureuses · **90,2 %** effets négatifs
 - Les jeunes eux-mêmes identifient le problème → justifie l'action de santé publique
 
-*« Les documents montrent que la pornographie peut influencer la construction des représentations… »*
+*« Les documents montrent que la pornographie peut influencer la construction des représentations… vision déformée et parfois violente, sexualisation précoce. »*
+*« Des rapports comme celui de l'Académie nationale de médecine (2023) et du Sénat le confirment : près d'un adolescent sur deux ayant déjà eu un rapport a cherché à reproduire des pratiques vues. »*
 *« Les résultats de mon questionnaire vont dans le même sens : … »*
 *« Ces résultats montrent que les jeunes eux-mêmes identifient cette exposition comme une problématique… »*
 
@@ -88,6 +90,4 @@
 ## Mots de liaison
 
 D'abord… / En effet… / Par ailleurs… / Ainsi… / De plus… / Face à cela… / Pour conclure…
-
-<!-- maj affichage -->
 

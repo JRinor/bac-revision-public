@@ -1,5 +1,7 @@
 # Question 2 — Plan de l'exposé
 
+**Problématique : Dans quelle mesure l'exposition précoce à la pornographie constitue-t-elle un enjeu de santé publique chez les adolescents ?**
+
 > Les lignes *en italique* = béquilles (débuts de phrase) en cas de trou de mémoire. À supprimer au fur et à mesure que c'est maîtrisé.
 
 ## Chiffres / repères à retenir

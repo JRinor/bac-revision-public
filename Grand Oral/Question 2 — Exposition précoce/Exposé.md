@@ -6,7 +6,8 @@ Afin de répondre à ma problématique, j'ai mené une recherche documentaire à
 
 Pour répondre à cette question, je montrerai d'abord en quoi l'exposition précoce à la pornographie est facilitée par les usages numériques ; j'étudierai ensuite ses conséquences possibles sur les adolescents ; enfin, j'analyserai les actions de prévention et les acteurs mobilisés pour les protéger.
 
-## I. Une exposition précoce à la pornographie facilitée par les usages numériques
+
+
 
 Dans un premier temps, j'ai cherché à comprendre l'ampleur du phénomène.
 

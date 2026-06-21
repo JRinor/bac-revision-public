@@ -2,6 +2,8 @@
 
 ## Introduction
 
+Bonjour, je m'appelle Aurela et aujourd'hui je vais vous présenter ma réflexion sur le sujet suivant : « Dans quelle mesure l'exposition précoce à la pornographie constitue-t-elle un enjeu de santé publique chez les adolescents ? »
+
 J'ai choisi ce sujet car l'accès à Internet et aux réseaux sociaux est aujourd'hui très répandu chez les adolescents. Cette évolution facilite également l'accès à des contenus pornographiques parfois dès le plus jeune âge. La pornographie est devenue un sujet de préoccupation pour les acteurs de santé publique en raison de ses possibles conséquences sur le développement, les représentations de la sexualité et le bien-être des jeunes.
 
 Afin de répondre à ma problématique, j'ai mené une recherche documentaire à partir de données de l'ARCOM, d'articles de presse et de ressources spécialisées. J'ai également diffusé un questionnaire auprès de 41 jeunes afin de recueillir leur perception de cette problématique. Ces résultats n'ont pas de valeur statistique représentative, mais ils donnent un aperçu intéressant du ressenti des jeunes. Enfin, j'ai tenté de prendre contact avec Le CAP de Mulhouse dans le but de réaliser un guide d'entretien avec un professionnel. Le guide d'entretien n'a finalement pas pu avoir lieu, mais les informations disponibles sur le site de la structure m'ont permis de mieux comprendre les actions de prévention et d'accompagnement proposées aux jeunes.

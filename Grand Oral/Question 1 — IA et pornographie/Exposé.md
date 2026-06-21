@@ -2,6 +2,8 @@
 
 ## Introduction
 
+Bonjour, je m'appelle Aurela et aujourd'hui je vais vous présenter ma réflexion sur le sujet suivant : « En quoi le développement de l'intelligence artificielle dans les contenus pornographiques constitue-t-il un enjeu de santé publique pour la protection des jeunes ? »
+
 J'ai choisi ce sujet car l'intelligence artificielle occupe aujourd'hui une place croissante dans notre société, notamment sur Internet et les réseaux sociaux. Concernant la pornographie en ligne, elle est devenue facilement accessible, y compris pour les mineurs.
 
 Dans le cadre de ma démarche d'étude, j'ai mené une recherche documentaire à partir de sources institutionnelles et d'articles spécialisés. Selon l'ARCOM, environ 2,3 millions de mineurs consultent chaque mois des sites pornographiques en France. L'apparition de nouvelles technologies, comme les deepfakes pornographiques créés grâce à l'intelligence artificielle, soulève de nombreuses interrogations concernant la protection des jeunes, le respect du consentement et les conséquences sur la santé mentale.

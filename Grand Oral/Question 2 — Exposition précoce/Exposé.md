@@ -32,7 +32,7 @@ Ces contenus poussent aussi à banaliser la violence, en particulier envers les 
 
 Mon questionnaire montre que les jeunes eux-mêmes en sont conscients : la quasi-totalité estime que la pornographie influence la vision des relations amoureuses, et près de neuf sur dix qu'elle peut avoir des effets négatifs sur les adolescents.
 
-C'est justement parce que ce problème touche le développement et le bien-être de toute une classe d'âge qu'il relève de la santé publique, et non d'un simple choix individuel. Il justifie donc l'intervention des acteurs de la prévention et de la protection.
+C'est justement parce que ce problème touche le développement et le bien-être de toute une tranche d'âge qu'il relève de la santé publique, et non d'un simple choix individuel. Il justifie donc l'intervention des acteurs de la prévention et de la protection.
 
 ## III. Des actions de prévention nécessaires pour protéger les mineurs
 

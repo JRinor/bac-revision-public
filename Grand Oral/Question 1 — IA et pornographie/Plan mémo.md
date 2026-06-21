@@ -36,13 +36,13 @@ Pour répondre à cette question, je montrerai d'abord en quoi il s'agit d'un ph
 
 → *« Ces pratiques ont des conséquences concrètes… »*
 
-- Santé mentale victimes : **anxiété, perte d'estime de soi, honte, isolement social**
+- Santé mentale **des victimes de deepfakes pornographiques** : **anxiété, perte d'estime de soi, honte, isolement social**
 - **Cyberharcèlement**, difficultés scolaires / relationnelles / familiales
 - Même si contenu **100 % artificiel**, **souffrance réelle**
 - Filles et femmes plus exposées → **ce type de violences numériques** → renforce **inégalités de genre** + **violence en ligne**
 - **Bilan** : santé mentale + bien-être + intégration → justifie l'**intervention des acteurs de santé publique**
 
-*« Les sources consultées mettent en évidence plusieurs répercussions sur la santé mentale… »*
+*« Les sources consultées mettent en évidence plusieurs répercussions sur la santé mentale des victimes de deepfakes pornographiques. »*
 *« Ces personnes peuvent développer de l'anxiété, une perte d'estime de soi… »*
 *« L'analyse montre également que ces situations peuvent favoriser… »*
 *« Même lorsque les contenus sont entièrement artificiels, les conséquences… restent réelles. »*
@@ -57,15 +57,15 @@ Pour répondre à cette question, je montrerai d'abord en quoi il s'agit d'un ph
 - Acteurs : État, ARCOM, Éducation nationale, associations, professionnels de santé, plateformes
 - Loi 30 juillet 2020 → vérification de l'âge, sanctions, contrôle ARCOM
 - Éducation à la sexualité + au numérique → esprit critique, **sensibiliser au respect du consentement**
-- Limite : techno évolue vite → **VPN** contourne **les restrictions de localisation**
+- Limite : techno évolue vite → **VPN** (**très facile d'accès pour tous**) contourne **les restrictions de localisation**
 - **Bilan** : besoin d'une approche **globale** (prévention + éducation + **accompagnement des victimes** + **régulation des plateformes numériques**)
 
-*« La protection des jeunes mobilise plusieurs acteurs : … »*
+*« La protection des jeunes face aux risques liés à la pornographie et à l'intelligence artificielle mobilise plusieurs acteurs : … »*
 *« Afin de limiter l'exposition des mineurs, une loi du 30 juillet 2020 impose… »*
 *« L'ARCOM participe notamment au contrôle de ces mesures visant à mieux protéger les jeunes sur Internet. »*
 *« L'éducation à la sexualité et au numérique constituent des actions de prévention… elles permettent de développer l'esprit critique et de sensibiliser au respect du consentement. »*
 *« Toutefois, l'analyse montre également certaines limites… »*
-*« En effet, l'utilisation d'outils comme un VPN permet de contourner les restrictions de localisation… »*
+*« En effet, l'utilisation d'outils comme un VPN, qui est très facile d'accès pour tous, permet de contourner les restrictions de localisation… »*
 *« Ces constats montrent que la protection des mineurs nécessite une approche globale associant prévention, éducation, accompagnement des victimes et régulation des plateformes numériques. »*
 
 ## CONCLUSION

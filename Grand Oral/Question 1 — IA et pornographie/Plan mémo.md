@@ -4,6 +4,8 @@
 
 > Les lignes *en italique* = béquilles (débuts de phrase) en cas de trou de mémoire. À supprimer au fur et à mesure que c'est maîtrisé.
 
+> **À bien dire** : **ARCOM** (pas « ACROM ») · « **des acteurs de** santé publique » (pas « de la santé publique »).
+
 ## Chiffres / repères à retenir
 
 - **2,3 millions** de mineurs/mois sur sites porno (ARCOM) — ≈ **12 %** de l'audience
@@ -15,20 +17,6 @@
 ---
 
 ## INTRO
-
-- IA partout → porno en ligne accessible, même aux mineurs
-- Recherche documentaire, sources institutionnelles (ARCOM)
-- 2,3 millions de mineurs/mois
-- Deepfakes IA → consentement, santé mentale
-- Population vulnérable (ados) + acteurs prévention/protection
-- **Annonce du plan** : I phénomène en expansion → II conséquences → III réponses + limites
-
-*« J'ai choisi ce sujet car l'intelligence artificielle occupe aujourd'hui une place croissante… »*
-*« Dans le cadre de ma démarche d'étude, j'ai mené une recherche documentaire à partir de… »*
-*« Selon l'ARCOM, environ… »*
-*« L'apparition de nouvelles technologies, comme les deepfakes pornographiques créés grâce à l'intelligence artificielle, soulève de nombreuses interrogations… »*
-*« Cette situation relève du champ de la santé publique car… »*
-*« Pour répondre à cette question, je montrerai d'abord… puis… enfin… »*
 
 Pour répondre à cette question, je montrerai d'abord en quoi il s'agit d'un phénomène numérique en expansion qui multiplie les risques pour les jeunes ; j'analyserai ensuite ses conséquences sur leur santé mentale et leur vie sociale ; enfin, j'étudierai les réponses apportées par les acteurs publics et leurs limites.
 
@@ -74,14 +62,15 @@ Pour répondre à cette question, je montrerai d'abord en quoi il s'agit d'un ph
 - Loi 30 juillet 2020 → vérification de l'âge, sanctions, contrôle ARCOM
 - Éducation à la sexualité + au numérique → esprit critique, **sensibiliser au respect du consentement**
 - Limite : techno évolue vite → **VPN** contourne **les restrictions de localisation**
-- **Bilan** : besoin d'une approche **globale** (prévention + éducation + **accompagnement des victimes** + régulation)
+- **Bilan** : besoin d'une approche **globale** (prévention + éducation + **accompagnement des victimes** + **régulation des plateformes numériques**)
 
 *« La protection des jeunes mobilise plusieurs acteurs : … »*
 *« Afin de limiter l'exposition des mineurs, une loi du 30 juillet 2020 impose… »*
+*« L'ARCOM participe notamment au contrôle de ces mesures visant à mieux protéger les jeunes sur Internet. »*
 *« L'éducation à la sexualité et au numérique constituent des actions de prévention… elles permettent de développer l'esprit critique et de sensibiliser au respect du consentement. »*
 *« Toutefois, l'analyse montre également certaines limites… »*
 *« En effet, l'utilisation d'outils comme un VPN permet de contourner les restrictions de localisation… »*
-*« Ces constats montrent que la protection des mineurs nécessite une approche globale… »*
+*« Ces constats montrent que la protection des mineurs nécessite une approche globale associant prévention, éducation, accompagnement des victimes et régulation des plateformes numériques. »*
 
 ## CONCLUSION
 
@@ -93,7 +82,7 @@ Pour répondre à cette question, je montrerai d'abord en quoi il s'agit d'un ph
 *« Pour conclure, cette démarche d'étude m'a permis de montrer que le développement de l'intelligence artificielle dans les contenus pornographiques constitue un véritable enjeu de santé publique. »*
 *« L'analyse des documents consultés met en évidence l'apparition de nouveaux risques liés à l'intelligence artificielle dans les contenus pornographiques. Ces pratiques peuvent avoir des conséquences importantes sur la santé mentale, le bien-être et la vie sociale des jeunes, tout en renforçant certaines formes de violences numériques. »*
 *« Face à ces enjeux, une mobilisation coordonnée… apparaît nécessaire afin de renforcer la prévention, la protection des mineurs et l'accompagnement des victimes. »*
-*« On peut enfin se demander si la régulation, toujours en retard sur l'innovation… »*
+*« On peut enfin se demander si la régulation, toujours en retard sur l'innovation, pourra suffire à elle seule, ou si la véritable protection des jeunes ne passera pas avant tout par l'éducation au numérique et au consentement, dès le plus jeune âge. »*
 
 ---
 

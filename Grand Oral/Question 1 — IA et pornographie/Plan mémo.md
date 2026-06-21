@@ -26,11 +26,11 @@ Pour répondre à cette question, je montrerai d'abord en quoi il s'agit d'un ph
 - **Déterminants** : omniprésence du numérique / outils IA accessibles / manque d'éducation au numérique / usage intensif réseaux sociaux
 - **Bilan** : pas qu'une évolution techno → enjeu **social et sanitaire**, populations vulnérables
 
-*« Les documents consultés montrent qu'une part importante des jeunes est exposée à… »*
-*« Les documents de l'ARCOM mettent également (ou aussi) en évidence l'apparition de nouveaux contenus créés grâce à… »*
+*« Une part importante des jeunes est aujourd'hui exposée à la pornographie en ligne… »*
+*« À cette exposition déjà massive s'ajoute un risque nouveau, lié à l'IA : les deepfakes… »*
 *« Ces contenus permettent de produire des images sexuelles représentant une personne sans… »*
-*« Cette étude permet d'identifier plusieurs déterminants : … »*
-*« Ainsi, cette problématique ne relève pas uniquement d'une évolution technologique mais… »*
+*« On peut alors identifier plusieurs déterminants : … »*
+*« Ainsi, cette problématique ne relève pas seulement d'une évolution technologique : c'est aussi un enjeu social et sanitaire… »*
 
 ## II. Des conséquences sur la santé et la vie sociale
 
@@ -42,11 +42,11 @@ Pour répondre à cette question, je montrerai d'abord en quoi il s'agit d'un ph
 - Filles et femmes plus exposées → **ce type de violences numériques** → renforce **inégalités de genre** + **violence en ligne**
 - **Bilan** : santé mentale + bien-être + intégration → justifie l'**intervention des acteurs de santé publique**
 
-*« Les sources consultées mettent en évidence plusieurs répercussions sur la santé mentale des victimes de deepfakes pornographiques. »*
+*« Les premières conséquences touchent la santé mentale des victimes de deepfakes pornographiques. »*
 *« Ces personnes peuvent développer de l'anxiété, une perte d'estime de soi… »*
-*« L'analyse montre également que ces situations peuvent favoriser… »*
+*« Ces situations peuvent aussi favoriser le cyberharcèlement… »*
 *« Même lorsque les contenus sont entièrement artificiels, les conséquences… restent réelles. »*
-*« Par ailleurs, les femmes et les jeunes filles sont particulièrement exposées à ce type de violences numériques. »*
+*« Par ailleurs, les femmes et les jeunes filles sont particulièrement visées par ce type de violences numériques… »*
 *« Cette situation contribue à renforcer certaines inégalités de genre ainsi que certaines formes de violence en ligne. »*
 *« L'ensemble de ces éléments montre que les conséquences concernent à la fois… ce qui justifie l'intervention des acteurs de santé publique. »*
 
@@ -60,11 +60,11 @@ Pour répondre à cette question, je montrerai d'abord en quoi il s'agit d'un ph
 - Limite : techno évolue vite → **VPN** (**très facile d'accès pour tous**) contourne **les restrictions de localisation**
 - **Bilan** : besoin d'une approche **globale** (prévention + éducation + **accompagnement des victimes** + **régulation des plateformes numériques**)
 
-*« La protection des jeunes face aux risques liés à la pornographie et à l'intelligence artificielle mobilise plusieurs acteurs : … »*
+*« La protection des jeunes face à ces risques mobilise plusieurs acteurs : … »*
 *« Afin de limiter l'exposition des mineurs, une loi du 30 juillet 2020 impose… »*
 *« L'ARCOM participe notamment au contrôle de ces mesures visant à mieux protéger les jeunes sur Internet. »*
 *« L'éducation à la sexualité et au numérique constituent des actions de prévention… elles permettent de développer l'esprit critique et de sensibiliser au respect du consentement. »*
-*« Toutefois, l'analyse montre également certaines limites… »*
+*« Toutefois, ces mesures montrent vite leurs limites, car la technologie évolue plus vite que la loi… »*
 *« En effet, l'utilisation d'outils comme un VPN, qui est très facile d'accès pour tous, permet de contourner les restrictions de localisation… »*
 *« Ces constats montrent que la protection des mineurs nécessite une approche globale associant prévention, éducation, accompagnement des victimes et régulation des plateformes numériques. »*
 

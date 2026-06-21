@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Bonjour, je m'appelle Aurela et aujourd'hui je vais vous présenter ma réflexion sur le sujet suivant : « En quoi le développement de l'intelligence artificielle dans les contenus pornographiques constitue-t-il un enjeu de santé publique pour la protection des jeunes ? »
+Bonjour, je m'appelle Aurela et aujourd'hui je vais vous expliquer : « En quoi le développement de l'intelligence artificielle dans les contenus pornographiques constitue-t-il un enjeu de santé publique pour la protection des jeunes ? »
 
 J'ai choisi ce sujet car l'intelligence artificielle occupe aujourd'hui une place croissante dans notre société, notamment sur Internet et les réseaux sociaux. Concernant la pornographie en ligne, elle est devenue facilement accessible, y compris pour les mineurs.
 

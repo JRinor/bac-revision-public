@@ -14,9 +14,9 @@
 
 ## INTRO
 
-Pour répondre à cette question, je montrerai d'abord en quoi il s'agit d'un phénomène numérique en expansion qui multiplie les risques pour les jeunes ; j'analyserai ensuite ses conséquences sur leur santé mentale et leur vie sociale ; enfin, j'étudierai les réponses apportées par les acteurs publics et leurs limites.
+Pour répondre à cette question, je montrerai d'abord en quoi il s'agit d'un phénomène numérique qui se développe et multiplie les risques pour les jeunes ; j'analyserai ensuite ses conséquences sur leur santé mentale et leur vie sociale ; enfin, j'étudierai les réponses apportées par les acteurs publics et leurs limites.
 
-## I. Un phénomène numérique en expansion
+## I. Un phénomène numérique qui se développe
 
 → *« D'abord, l'ampleur du phénomène… »*
 

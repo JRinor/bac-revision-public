@@ -10,9 +10,9 @@ Dans le cadre de ma démarche d'étude, j'ai mené une recherche documentaire à
 
 Cette situation relève du champ de la santé publique car elle concerne une population vulnérable, les adolescents, et mobilise différents acteurs chargés de la prévention, de l'éducation et de la protection des individus.
 
-Pour répondre à cette question, je montrerai d'abord en quoi il s'agit d'un phénomène numérique en expansion qui multiplie les risques pour les jeunes ; j'analyserai ensuite ses conséquences sur leur santé mentale et leur vie sociale ; enfin, j'étudierai les réponses apportées par les acteurs publics et leurs limites.
+Pour répondre à cette question, je montrerai d'abord en quoi il s'agit d'un phénomène numérique qui se développe et multiplie les risques pour les jeunes ; j'analyserai ensuite ses conséquences sur leur santé mentale et leur vie sociale ; enfin, j'étudierai les réponses apportées par les acteurs publics et leurs limites.
 
-## I. Un phénomène numérique en expansion qui favorise l'exposition des jeunes à de nouveaux risques
+## I. Un phénomène numérique qui se développe et favorise l'exposition des jeunes à de nouveaux risques
 
 Dans un premier temps, j'ai cherché à comprendre l'ampleur du phénomène à travers les données recueillies.
 

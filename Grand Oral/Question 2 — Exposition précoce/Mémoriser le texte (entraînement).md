@@ -99,3 +99,11 @@ Les trous de mémoire arrivent surtout AUX TRANSITIONS. À tester séparément :
 - « Tu viens de parler des conséquences. Comment tu justifies que c'est de la santé publique ? »
 - « En partie III, dans quel ordre : le technique, l'éducation, les acteurs ? »
 - « Ta toute dernière phrase, l'ouverture ? »
+
+
+
+Bonjour, je m'appelle Aurela et aujourd'hui je vais vous expliquer dans _____(1) _____(2) _____(3) _____(4) _____(5) _____(6) _____(7) constitue _____(8) _____(9) _____(10) _____(11) _____(12) chez _____(13) _____(14)
+
+_____(15) _____(16) ce sujet car l'accès à Internet et aux réseaux sociaux est _____(17) _____(18) _____(19) _____(20) _____(21) _____(22) _____(23) _____(24) facilite _____(25) l'accès à des _____(26) pornographiques _____(27) dès _____(28) _____(29) _____(30) _____(31) La _____(32) est devenue un _____(33) de _____(34) pour les _____(35) _____(36) _____(37) _____(38) en raison de _____(39) _____(40) _____(41) sur le _____(42) les _____(43) de la _____(44) et le _____(45) des jeunes.
+
+Afin de _____(46) _____(47) _____(48) _____(49) j'ai _____(50) _____(51) _____(52) _____(53) _____(54) _____(55) de données de l'ARCOM, _____(56) de _____(57) et de _____(58) _____(59) J'ai _____(60) diffusé un questionnaire auprès de 41 jeunes _____(61) _____(62) _____(63) leur _____(64) de cette _____(65) _____(66) _____(67) n'ont pas _____(68) _____(69) _____(70) _____(71) mais ils _____(72) _____(73) _____(74) _____(75) _____(76) _____(77) des jeunes. Enfin, j'ai _____(78) _____(79) _____(80) contact avec Le CAP de Mulhouse dans le _____(81) de réaliser un guide _____(82) avec un professionnel. Le guide d'entretien n'a finalement pas pu avoir lieu, mais les informations disponibles sur le site de la _____(83) m'ont _____(84) de mieux _____(85) les _____(86) de _____(87) et _____(88) proposées aux jeunes.

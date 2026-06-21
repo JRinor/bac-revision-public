@@ -27,7 +27,7 @@ Pour répondre à cette question, je montrerai d'abord en quoi il s'agit d'un ph
 - **Bilan** : pas qu'une évolution techno → enjeu **social et sanitaire**, populations vulnérables
 
 *« Les documents consultés montrent qu'une part importante des jeunes est exposée à… »*
-*« L'analyse met également en évidence l'apparition de nouveaux contenus créés grâce à… »*
+*« Les documents de l'ARCOM mettent également (ou aussi) en évidence l'apparition de nouveaux contenus créés grâce à… »*
 *« Ces contenus permettent de produire des images sexuelles représentant une personne sans… »*
 *« Cette étude permet d'identifier plusieurs déterminants : … »*
 *« Ainsi, cette problématique ne relève pas uniquement d'une évolution technologique mais… »*

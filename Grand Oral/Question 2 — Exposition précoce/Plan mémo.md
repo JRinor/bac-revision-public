@@ -44,17 +44,19 @@
 *« Cette précocité s'explique surtout par la facilité d'accès… »*
 *« On peut ainsi identifier plusieurs déterminants… l'exposition précoce n'est pas un accident. »*
 
-## II. Des conséquences sur les adolescents
+## II. Des conséquences sur le développement des adolescents
 
 → *« Cette exposition peut avoir des conséquences… »*
 
 - Principal risque : **construction de la sexualité** → vision **déformée et parfois violente**, **sexualisation précoce**
 - **Études (Académie de médecine 2023, Sénat)** : ~**1 jeune/2** (ayant eu un rapport) reproduit des pratiques vues → une « éducation » **faussée**
+- **Banalisation de la violence** (surtout envers les femmes) → rapports dégradants/violents (Sénat) → fausse la vision des rapports + du **consentement**
 - Questionnaire : les jeunes **en sont conscients** (quasi-totalité influence relations · ~9/10 effets négatifs)
 - → touche le **développement de toute une classe d'âge** = santé publique, pas un choix individuel
 
 *« Le principal risque concerne la construction de la sexualité… vision déformée et parfois violente, sexualisation précoce. »*
 *« Des rapports comme celui de l'Académie nationale de médecine (2023) et du Sénat le documentent : près d'un adolescent sur deux… reproduire des pratiques vues. »*
+*« Ces contenus tendent aussi à banaliser la violence, en particulier envers les femmes (rapport du Sénat)… »*
 *« Mon questionnaire montre que les jeunes eux-mêmes en sont conscients… »*
 *« C'est justement parce que ce problème touche le développement de toute une classe d'âge qu'il relève de la santé publique… »*
 
@@ -74,13 +76,14 @@
 
 ## CONCLUSION
 
-- Oui, véritable enjeu de santé publique chez les adolescents
-- Exposition précoce + facilitée par le numérique → influence les représentations + effets négatifs
-- Prévention essentielle : familles + école + santé + structures + plateformes + pouvoirs publics
+- Oui, enjeu de santé publique chez les adolescents
+- Exposition précoce + facilitée par le numérique → **fausse la construction de la sexualité** + **banalise la violence**
+- Réponses techniques **contournées** → protection **globale** : régulation + éducation + accompagnement (familles, école, État, structures)
 - **Ouverture** : l'interdiction et le contrôle de l'âge suffiront-ils, ou la vraie clé est-elle l'**éducation à la vie affective et sexuelle** ?
 
-*« Cette démarche d'étude m'a permis de montrer que… »*
-*« Face à cette situation, les actions de prévention apparaissent essentielles… »*
+*« Pour conclure, cette démarche m'a permis de montrer que… »*
+*« Facilitée par les usages numériques, elle survient de plus en plus tôt ; elle peut alors fausser la construction de la sexualité et banaliser la violence… »*
+*« Et parce que les réponses purement techniques sont facilement contournées, la protection ne peut être que globale… »*
 *« On peut enfin se demander si l'interdiction et le contrôle de l'âge suffiront… »*
 
 ---

@@ -1,9 +1,3 @@
-# Question 2 — Corrigé (texte complet)
-
-> Ce fichier est le texte EXACT de l'exposé. C'est le corrigé de référence pour toutes les versions à trous.
-
----
-
 Bonjour, je m'appelle Aurela et aujourd'hui je vais vous expliquer dans quelle mesure l'exposition précoce à la pornographie constitue un enjeu de santé publique chez les adolescents.
 
 J'ai choisi ce sujet car l'accès à Internet et aux réseaux sociaux est aujourd'hui très répandu chez les adolescents. Cette évolution facilite également l'accès à des contenus pornographiques parfois dès le plus jeune âge. La pornographie est devenue un sujet de préoccupation pour les acteurs de santé publique en raison de ses possibles conséquences sur le développement, les représentations de la sexualité et le bien-être des jeunes.
@@ -22,7 +16,7 @@ Cette précocité s'explique surtout par la facilité d'accès. Pour huit jeunes
 
 On peut ainsi identifier plusieurs déterminants : la généralisation des smartphones, l'accès permanent à Internet et l'omniprésence des réseaux sociaux. L'exposition précoce n'est pas un accident : elle est le produit de l'environnement numérique dans lequel grandissent les jeunes.
 
-## II. Des conséquences sur le développement des adolescents
+
 
 Dans un second temps, j'ai étudié les conséquences de cette exposition.
 
@@ -34,7 +28,7 @@ Mon questionnaire montre que les jeunes eux-mêmes en sont conscients : la quasi
 
 C'est justement parce que ce problème touche le développement et le bien-être de toute une tranche d'âge qu'il relève de la santé publique, et non d'un simple choix individuel. Il justifie donc l'intervention des acteurs de la prévention et de la protection.
 
-## III. Des actions de prévention nécessaires pour protéger les mineurs
+
 
 Enfin, j'ai analysé les réponses possibles et leurs limites.
 
@@ -46,7 +40,7 @@ Cette protection ne repose pas sur un seul acteur. Les répondants citent d'abor
 
 Une protection efficace est donc globale : elle associe la régulation, l'éducation et l'accompagnement.
 
-## Conclusion
+
 
 Pour conclure, cette démarche m'a permis de montrer que l'exposition précoce à la pornographie constitue bien un enjeu de santé publique chez les adolescents. Facilitée par les usages numériques, elle survient de plus en plus tôt ; elle peut alors fausser la construction de la sexualité et banaliser la violence, à un âge déterminant pour le développement.
 

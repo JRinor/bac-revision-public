@@ -1,4 +1,4 @@
-# En quoi le développement de l'intelligence artificielle dans les contenus pornographiques constitue-t-il un enjeu de santé publique pour la protection des jeunes ?
+# En quoi le développement de l'intelligence artificielle dans les contenus pornographiques constitue un enjeu de santé publique pour la protection des jeunes ?
 
 ## Introduction
 

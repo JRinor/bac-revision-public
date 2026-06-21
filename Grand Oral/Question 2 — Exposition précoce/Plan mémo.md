@@ -4,17 +4,16 @@
 
 > Les lignes *en italique* = béquilles (débuts de phrase) en cas de trou de mémoire. À supprimer au fur et à mesure que c'est maîtrisé.
 
-## Chiffres / repères à retenir
+## Chiffres / repères (réserve, à garder pour l'entretien)
 
-- **ARCOM** : plus de **la moitié des garçons de 12-13 ans** consultent un site porno chaque mois
+- **ARCOM** : plus de **la moitié des garçons dès 12 ans** consultent un site porno chaque mois
 - **Questionnaire perso** : **41 jeunes** (perception, sans valeur statistique représentative)
 - **≈ 88 %** pensent que l'exposition arrive **avant 15 ans**
-- Accès facile **80,5 %** · téléphone **92,7 %** · réseaux sociaux **100 %**
-- **≈ 97,6 %** : influence sur la vision des relations amoureuses
-- **90,2 %** : peut avoir des effets négatifs
+- Accès facile **80,5 %** (≈ 8/10) · téléphone **92,7 %** · réseaux sociaux **100 %**
+- **≈ 97,6 %** : influence sur la vision des relations amoureuses · **90,2 %** : effets négatifs
+- **Études (Académie nationale de médecine 2023, Sénat)** : ~**1 jeune sur 2** (ayant eu un rapport) reproduit des pratiques vues
 - Vérif. de l'âge jugée inefficace **80,5 %** · **VPN** = contournement
-- Acteurs : parents **90,2 %**, plateformes, État, école
-- **Le CAP de Mulhouse** = structure d'accompagnement
+- Acteurs : parents **90,2 %**, plateformes, État, école · **Le CAP de Mulhouse**
 
 ---
 
@@ -30,49 +29,48 @@
 *« Afin de répondre à ma problématique, j'ai mené une recherche documentaire… et diffusé un questionnaire auprès de 41 jeunes… »*
 *« Pour répondre à cette question, je montrerai d'abord… puis… enfin… »*
 
-
-
 ## I. Une exposition précoce facilitée par les usages numériques
 
 → *« D'abord, l'ampleur du phénomène… »*
 
-- ARCOM : plus de la moitié des garçons de 12-13 ans/mois
-- Questionnaire : ≈ 88 % → exposition avant 15 ans
-- Accès facile **80,5 %** · téléphone **92,7 %** · réseaux sociaux **100 %**
+- Exposition **fréquente ET précoce** → pas marginale, réalité de masse
+- ARCOM : **+ de la moitié des garçons dès 12 ans** / mois ; questionnaire : **≈ 88 % avant 15 ans**
+- Facilité d'accès : **8 jeunes/10** → surtout **téléphone** + réseaux sociaux
 - **Déterminants** : smartphones / Internet permanent / réseaux sociaux
+- → l'exposition précoce **n'est pas un accident** : produit de l'environnement numérique
 
-*« Selon des données relayées par la presse à partir des études de l'ARCOM, plus de la moitié des garçons de 12-13 ans… »*
-*« Les résultats de mon questionnaire confirment cette tendance : … »*
-*« L'analyse met en évidence plusieurs déterminants : … »*
+*« L'exposition des mineurs est aujourd'hui à la fois fréquente et précoce… »*
+*« Selon l'ARCOM, plus de la moitié des garçons s'y rendent chaque mois dès 12 ans… »*
+*« Cette précocité s'explique surtout par la facilité d'accès… »*
+*« On peut ainsi identifier plusieurs déterminants… l'exposition précoce n'est pas un accident. »*
 
-## II. Des conséquences possibles sur les adolescents
+## II. Des conséquences sur les adolescents
 
 → *« Cette exposition peut avoir des conséquences… »*
 
-- Influence la **construction des représentations** de la sexualité → **vision déformée et parfois violente**, **sexualisation précoce**
-- **Études (Académie nationale de médecine 2023, Sénat)** : ~**1 jeune sur 2** (ayant eu un rapport) tente de reproduire des pratiques vues
-- Questionnaire : **97,6 %** influence relations amoureuses · **90,2 %** effets négatifs
-- Les jeunes eux-mêmes identifient le problème → justifie l'action de santé publique
+- Principal risque : **construction de la sexualité** → vision **déformée et parfois violente**, **sexualisation précoce**
+- **Études (Académie de médecine 2023, Sénat)** : ~**1 jeune/2** (ayant eu un rapport) reproduit des pratiques vues → une « éducation » **faussée**
+- Questionnaire : les jeunes **en sont conscients** (quasi-totalité influence relations · ~9/10 effets négatifs)
+- → touche le **développement de toute une classe d'âge** = santé publique, pas un choix individuel
 
-*« Les documents montrent que la pornographie peut influencer la construction des représentations… vision déformée et parfois violente, sexualisation précoce. »*
-*« Des rapports comme celui de l'Académie nationale de médecine (2023) et du Sénat le confirment : près d'un adolescent sur deux ayant déjà eu un rapport a cherché à reproduire des pratiques vues. »*
-*« Les résultats de mon questionnaire vont dans le même sens : … »*
-*« Ces résultats montrent que les jeunes eux-mêmes identifient cette exposition comme une problématique… »*
+*« Le principal risque concerne la construction de la sexualité… vision déformée et parfois violente, sexualisation précoce. »*
+*« Des rapports comme celui de l'Académie nationale de médecine (2023) et du Sénat le documentent : près d'un adolescent sur deux… reproduire des pratiques vues. »*
+*« Mon questionnaire montre que les jeunes eux-mêmes en sont conscients… »*
+*« C'est justement parce que ce problème touche le développement de toute une classe d'âge qu'il relève de la santé publique… »*
 
 ## III. Des actions de prévention nécessaires
 
 → *« Face à cela, des actions de prévention… »*
 
-- Limites des mesures techniques : vérif. âge inefficace **80,5 %** · **VPN** contourne (78 % connaissent)
-- Demande de protection : **90,2 %** pouvoirs publics · **87,8 %** vérif. plus stricte
-- **Éducation = prévention primaire** (vie affective et sexuelle), jugée importante par > 80 %
-- Acteurs : parents **90,2 %**, plateformes, État, école
-- **Le CAP de Mulhouse** : informer, écouter, orienter
+- 1) Réponse **technique** : vérif. de l'âge → **insuffisante** (jugée peu efficace, **VPN** contourne)
+- 2) **Prévention primaire** = éducation à la vie affective et sexuelle → esprit critique, prendre du recul (jeunes **très favorables**)
+- 3) Responsabilité **partagée** : parents d'abord, puis plateformes, État, école + **Le CAP** (écoute, oriente)
+- → protection **globale** : régulation + éducation + accompagnement
 
-*« Les systèmes de vérification de l'âge sont jugés peu efficaces : … »*
-*« Face à cette situation, 90,2 % considèrent que les pouvoirs publics doivent renforcer la protection… »*
-*« L'éducation apparaît comme un levier essentiel de prévention primaire… »*
-*« Mes recherches sur Le CAP de Mulhouse montrent l'importance des structures spécialisées… »*
+*« La première réponse est technique : la vérification de l'âge… mais elle se révèle insuffisante… »*
+*« C'est pourquoi la prévention par l'éducation paraît essentielle. Il s'agit de prévention primaire… »*
+*« Cette protection ne repose pas sur un seul acteur : les parents d'abord, puis les plateformes, l'État et l'école… »*
+*« Des structures spécialisées, comme Le CAP de Mulhouse, complètent ce dispositif… »*
 
 ## CONCLUSION
 
@@ -90,4 +88,3 @@
 ## Mots de liaison
 
 D'abord… / En effet… / Par ailleurs… / Ainsi… / De plus… / Face à cela… / Pour conclure…
-
